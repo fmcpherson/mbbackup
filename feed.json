@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/03/11/a-year-ago.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2020/03/11/it-has-arrived.html\">A year ago today</a> I noted the first reported cases of COVID-19 in Michigan.</p>\n",
+				"content_text": "[A year ago today](https://frankmcpherson.blog/2020/03/11/it-has-arrived.html) I noted the first reported cases of COVID-19 in Michigan. \n",
+				"date_published": "2021-03-11T09:21:19-05:00",
+				"url": "https://frankmcpherson.blog/2021/03/11/a-year-ago.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/09/yesterday-was-the.html",
+				
+				"content_html": "<p>Yesterday was the first day I qualified for the COVID-19 vaccine in Michigan. I didn&rsquo;t spend much time, but every site I checked had no shots available and thus were not taking appointments. There is not yet enough supply to set up operations to administers thousands of shots a day. Thinking of drive-thru or stadium vaccination locations.</p>\n",
+				"content_text": "Yesterday was the first day I qualified for the COVID-19 vaccine in Michigan. I didn't spend much time, but every site I checked had no shots available and thus were not taking appointments. There is not yet enough supply to set up operations to administers thousands of shots a day. Thinking of drive-thru or stadium vaccination locations.\n",
+				"date_published": "2021-03-09T08:27:00-05:00",
+				"url": "https://frankmcpherson.blog/2021/03/09/yesterday-was-the.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/09/we-knew-all.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2020/03/09/my-concern-with.html\">We knew all along</a> that Trump would never acknowledge nor accept defeat, in fact he still hasn&rsquo;t. And I don&rsquo;t yet think we can claim democracy in the U.S. has been saved.</p>\n",
+				"content_text": "[We knew all along](https://frankmcpherson.blog/2020/03/09/my-concern-with.html) that Trump would never acknowledge nor accept defeat, in fact he still hasn't. And I don't yet think we can claim democracy in the U.S. has been saved.\n",
+				"date_published": "2021-03-09T08:18:47-05:00",
+				"url": "https://frankmcpherson.blog/2021/03/09/we-knew-all.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/05/we-are-now.html",
+				
+				"content_html": "<p>We are now at the one year mark of <a href=\"https://frankmcpherson.blog/2020/03/05/what-seems-to.html\">when COVID-19 started being real</a> for most Americans. Little did we know then just how awful it would truly be, with hundreds of thousands dead. But even worse, is that there is a significant number of people who don&rsquo;t seem to care that 500,000+ Americans have died.</p>\n",
+				"content_text": "We are now at the one year mark of [when COVID-19 started being real](https://frankmcpherson.blog/2020/03/05/what-seems-to.html) for most Americans. Little did we know then just how awful it would truly be, with hundreds of thousands dead. But even worse, is that there is a significant number of people who don't seem to care that 500,000+ Americans have died. \n",
+				"date_published": "2021-03-05T10:02:22-05:00",
+				"url": "https://frankmcpherson.blog/2021/03/05/we-are-now.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/03/fateful-words-i.html",
+				
+				"content_html": "<p>Fateful words <a href=\"https://frankmcpherson.blog/2020/03/03/google-is-cancelling.html\">I wrote last year</a>&hellip;</p>\n\n<blockquote>\n<p>How we will know this is really serious is when sporting events, say MLB Opening Day, get’s cancelled/re-scheduled.</p>\n</blockquote>\n\n<p>Needless to say, it was really serious and still is, even with some semblance of normalcy returning.</p>\n",
+				"content_text": "Fateful words [I wrote last year](https://frankmcpherson.blog/2020/03/03/google-is-cancelling.html)...\n\n>How we will know this is really serious is when sporting events, say MLB Opening Day, get’s cancelled/re-scheduled.\n\nNeedless to say, it was really serious and still is, even with some semblance of normalcy returning.\n",
+				"date_published": "2021-03-03T08:57:56-05:00",
+				"url": "https://frankmcpherson.blog/2021/03/03/fateful-words-i.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/03/02/my-increased-usage.html",
 				
 				"content_html": "<p>My increased usage of Microsoft Teams is causing me think I could be more productive with a larger monitor, probably at least 32-inches, an upgrade from the 24-inch monitor I currently use. One of the two I am looking at is curved, which is intriguing but I am uncertain about whether I would like looking at a curved monitor every day. Does anyone have pros/cons about curved monitors?</p>\n",
