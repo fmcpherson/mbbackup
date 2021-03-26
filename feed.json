@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/03/26/whitmer-claims-that.html",
+				
+				"content_html": "<p><a href=\"https://patch.com/michigan/westbloomfield/s/hhmiv/michigan-sees-virus-surge-but-tighter-restrictions-unlikely?utm_source=alert-breakingnews&amp;utm_medium=email&amp;utm_campaign=alert\">Whitmer claims</a> that the current COVID-19 surge in Michigan is different because of the vaccines, and I find that hard to believe. I think citizens have demonstrated an unwillingness to do the right thing and the corresponding loss of life is of little concern.</p>\n",
+				"content_text": "[Whitmer claims](https://patch.com/michigan/westbloomfield/s/hhmiv/michigan-sees-virus-surge-but-tighter-restrictions-unlikely?utm_source=alert-breakingnews&utm_medium=email&utm_campaign=alert) that the current COVID-19 surge in Michigan is different because of the vaccines, and I find that hard to believe. I think citizens have demonstrated an unwillingness to do the right thing and the corresponding loss of life is of little concern. \n",
+				"date_published": "2021-03-26T13:55:34-04:00",
+				"url": "https://frankmcpherson.blog/2021/03/26/whitmer-claims-that.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/25/weeks-ago-michigan.html",
+				
+				"content_html": "<p>Weeks ago Michigan began &ldquo;opening&rdquo; up again by allowing more people in restaurants and bars and more sporting events. Predictably, the number of new COVID-19 cases has been trending back up. I wish people would <a href=\"https://emhsd.maps.arcgis.com/apps/opsdashboard/index.html#/ea9fb6d9caaa4937995113dbd5d0a87a\">look at the graphs</a>, it shows the numbers keep going up when we open up and down when we close down.</p>\n\n<p>Unfortunately, I strongly suspect the governor is less likely to impose another lock down due to the amount of pressure put on by the people who continually cause the increase in numbers.</p>\n",
+				"content_text": "Weeks ago Michigan began \"opening\" up again by allowing more people in restaurants and bars and more sporting events. Predictably, the number of new COVID-19 cases has been trending back up. I wish people would [look at the graphs](https://emhsd.maps.arcgis.com/apps/opsdashboard/index.html#/ea9fb6d9caaa4937995113dbd5d0a87a), it shows the numbers keep going up when we open up and down when we close down. \n\nUnfortunately, I strongly suspect the governor is less likely to impose another lock down due to the amount of pressure put on by the people who continually cause the increase in numbers.\n",
+				"date_published": "2021-03-25T15:28:00-04:00",
+				"url": "https://frankmcpherson.blog/2021/03/25/weeks-ago-michigan.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/24/last-year-on.html",
+				
+				"content_html": "<p>Last year on this date, <a href=\"https://www.reuters.com/article/us-health-coronavirus-who-usa/united-states-could-become-coronavirus-epicenter-who-idUSKBN21B1FT\">Reuters wrote</a>:</p>\n\n<blockquote>\n<p>The United States has the potential to become the new epicenter of the coronavirus pandemic due to a “very large acceleration” in infections there, the World Health Organization said on Tuesday.</p>\n</blockquote>\n\n<p>Unfortunately, that proved true.</p>\n",
+				"content_text": "Last year on this date, [Reuters wrote](https://www.reuters.com/article/us-health-coronavirus-who-usa/united-states-could-become-coronavirus-epicenter-who-idUSKBN21B1FT):\n\n>The United States has the potential to become the new epicenter of the coronavirus pandemic due to a “very large acceleration” in infections there, the World Health Organization said on Tuesday.\n\nUnfortunately, that proved true.\n",
+				"date_published": "2021-03-24T08:15:29-04:00",
+				"url": "https://frankmcpherson.blog/2021/03/24/last-year-on.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/03/19/the-nfl-appears.html",
+				
+				"content_html": "<p>The NFL appears to be expanding the number of <a href=\"https://www.cnet.com/news/amazon-locks-up-exclusive-for-nfl-thursday-night-football-for-a-decade/#ftag=CAD590a51e\">streaming options</a> for games, but I don&rsquo;t see info about an ability to stream out of market games. The NFL needs a reasonably priced equivalent to MLB&rsquo;s At Bat app.</p>\n",
+				"content_text": "The NFL appears to be expanding the number of [streaming options](https://www.cnet.com/news/amazon-locks-up-exclusive-for-nfl-thursday-night-football-for-a-decade/#ftag=CAD590a51e) for games, but I don't see info about an ability to stream out of market games. The NFL needs a reasonably priced equivalent to MLB's At Bat app. \n",
+				"date_published": "2021-03-19T10:45:56-04:00",
+				"url": "https://frankmcpherson.blog/2021/03/19/the-nfl-appears.html",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/03/18/we-took-our.html",
 				
 				"content_html": "<p>We took our shot!</p>\n\n<p><img src=\"uploads/2021/47daabd86b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
