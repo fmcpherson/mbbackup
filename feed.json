@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/06/22/today-is-opening.html",
+				
+				"content_html": "<p>Today is opening day in Michigan. All COVID restrictions put in place by the state health department are removed. For how long?</p>\n",
+				"content_text": "Today is opening day in Michigan. All COVID restrictions put in place by the state health department are removed. For how long? \n",
+				"date_published": "2021-06-22T09:34:15-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/22/today-is-opening.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/21/what-is-a.html",
+				
+				"content_html": "<p><a href=\"https://skyandtelescope.org/astronomy-resources/astronomy-questions-answers/why-are-sundogs-called-by-that-name/#.YM1MO6vWIVY.hackernews\">What is a Sundog, and How Did &ldquo;Sundogs&rdquo; Get Their Name?</a></p>\n\n<p>And now you know, the rest of the story.</p>\n",
+				"content_text": "[What is a Sundog, and How Did \"Sundogs\" Get Their Name?](https://skyandtelescope.org/astronomy-resources/astronomy-questions-answers/why-are-sundogs-called-by-that-name/#.YM1MO6vWIVY.hackernews)\n\nAnd now you know, the rest of the story.\n",
+				"date_published": "2021-06-21T16:05:50-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/21/what-is-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/21/i-dont-normally.html",
+				
+				"content_html": "<p>I don&rsquo;t normally pay much attention to Samsung events because I find their products too expensive. However, I am interested in their upcoming <a href=\"https://www.engadget.com/samsung-wear-os-google-smartwatch-mobile-world-congress-165403913.html?src=rss_b2c\">Mobile World Congress virtual event</a> because of their partnership with Google on the next version of Wear OS. I am curious to see what is different and whether they may sell a watch that will work with other Android phones.</p>\n",
+				"content_text": "I don't normally pay much attention to Samsung events because I find their products too expensive. However, I am interested in their upcoming [Mobile World Congress virtual event](https://www.engadget.com/samsung-wear-os-google-smartwatch-mobile-world-congress-165403913.html?src=rss_b2c) because of their partnership with Google on the next version of Wear OS. I am curious to see what is different and whether they may sell a watch that will work with other Android phones.\n",
+				"date_published": "2021-06-21T13:54:55-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/21/i-dont-normally.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/21/its-now-a.html",
+				
+				"content_html": "<p>It&rsquo;s now a year since Qualcomm announced the Wear 4100 processor and <a href=\"https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/wear-os-watches-with-qualcomm-4100-processor\">there are only two watches</a>, both from Mobvoi, available that use it. I hope most of the watch vendors are working on new products right now that use a new version of Wear OS.</p>\n",
+				"content_text": "It's now a year since Qualcomm announced the Wear 4100 processor and [there are only two watches](https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/wear-os-watches-with-qualcomm-4100-processor), both from Mobvoi, available that use it. I hope most of the watch vendors are working on new products right now that use a new version of Wear OS.\n",
+				"date_published": "2021-06-21T09:56:27-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/21/its-now-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/19/google-fit-to.html",
+				
+				"content_html": "<p><a href=\"https://9to5google.com/2021/06/18/google-fit-data-delete/\">Google Fit to delete old data following calculation changes</a></p>\n\n<p>I continue to be amazed that Google has not built a really good web application for the data collected in Fit. Perhaps that will be an outcome of their acquisition of Fitbit. Otherwise they could buy <a href=\"https://exist.io/\">Exist.io</a></p>\n",
+				"content_text": "[Google Fit to delete old data following calculation changes](https://9to5google.com/2021/06/18/google-fit-data-delete/)\n\nI continue to be amazed that Google has not built a really good web application for the data collected in Fit. Perhaps that will be an outcome of their acquisition of Fitbit. Otherwise they could buy [Exist.io](https://exist.io/)\n\n\n",
+				"date_published": "2021-06-19T12:18:26-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/19/google-fit-to.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/19/btw-one-should.html",
+				
+				"content_html": "<p>Btw, one should not conclude that streams are bad and gardens are good, they are just different. One good thing about my blog stream is that it enables me to look back at <a href=\"https://frankmcpherson.blog/on-this-day/\">what I wrote over time</a>.</p>\n",
+				"content_text": "Btw, one should not conclude that streams are bad and gardens are good, they are just different. One good thing about my blog stream is that it enables me to look back at [what I wrote over time](https://frankmcpherson.blog/on-this-day/).\n",
+				"date_published": "2021-06-19T11:58:13-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/19/btw-one-should.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/19/the-garden-and.html",
+				"title": "The Garden And Stream Metaphors",
+				"content_html": "<p><a href=\"http://scripting.com/2021/06/18.html#a183936\">Dave</a>, in the context of the Internet, the garden and the stream are metaphors for two different approaches to content on the Internet. A stream is ephemeral, it continues to move over time and one mostly adds to it and watches it flow away. On the Internet a stream is content for only right now, and usually isn&rsquo;t edited nor looked at years later. Streams are date and time driven. Stream platforms are optimized for quick and easy entry of new content.</p>\n\n<p>Twitter, Facebook, and blogs are examples of platforms used for publishing streams of content. Note that this is not absolute, for example one can and might edit a blog post they wrote a year ago in which case that blog might well be a garden.</p>\n\n<p>The garden metaphor, in contrast, is more permanent. The content in a garden is continually edited to reflect new ideas or new learning over a period of time. A garden is organized around a topic. Platforms for creating and maintaining gardens are optimized for editing and linking together of content. Connecting the dots (linking) between content can generate new ideas or thoughts. Wiki is an example of a garden platform, as is the web itself as originally intended, as are other tools optimized for linking together and organizing content.</p>\n\n<p>A couple of other interesting differences exist between the two from a user and platform provider perspective. Almost all streams are public, their very point is public sharing, and the platform providers freely provide their platforms and make their money my manipulating the presentation of what one puts in to the stream to others. Users have little to no control over who sees what they put in to the stream.</p>\n\n<p>Gardens are either public or private, thus users tend to have more control over who and how one sees their content. Platform providers either freely provide their platform as open source for users to install in their own computers or they make money by hosting their platforms and charging uses for renting space on their hosting. The key point being the garden platform providers do not make money on the content. In my opinion, a site that has the purpose of making money from content is something other than a garden, so for example, I do not think of Medium as a garden, nor are other sites like The Verge or Engadget that may publish using a blogging or content management system.</p>\n",
+				"content_text": "[Dave](http://scripting.com/2021/06/18.html#a183936), in the context of the Internet, the garden and the stream are metaphors for two different approaches to content on the Internet. A stream is ephemeral, it continues to move over time and one mostly adds to it and watches it flow away. On the Internet a stream is content for only right now, and usually isn't edited nor looked at years later. Streams are date and time driven. Stream platforms are optimized for quick and easy entry of new content. \n\nTwitter, Facebook, and blogs are examples of platforms used for publishing streams of content. Note that this is not absolute, for example one can and might edit a blog post they wrote a year ago in which case that blog might well be a garden. \n\nThe garden metaphor, in contrast, is more permanent. The content in a garden is continually edited to reflect new ideas or new learning over a period of time. A garden is organized around a topic. Platforms for creating and maintaining gardens are optimized for editing and linking together of content. Connecting the dots (linking) between content can generate new ideas or thoughts. Wiki is an example of a garden platform, as is the web itself as originally intended, as are other tools optimized for linking together and organizing content. \n\nA couple of other interesting differences exist between the two from a user and platform provider perspective. Almost all streams are public, their very point is public sharing, and the platform providers freely provide their platforms and make their money my manipulating the presentation of what one puts in to the stream to others. Users have little to no control over who sees what they put in to the stream. \n\nGardens are either public or private, thus users tend to have more control over who and how one sees their content. Platform providers either freely provide their platform as open source for users to install in their own computers or they make money by hosting their platforms and charging uses for renting space on their hosting. The key point being the garden platform providers do not make money on the content. In my opinion, a site that has the purpose of making money from content is something other than a garden, so for example, I do not think of Medium as a garden, nor are other sites like The Verge or Engadget that may publish using a blogging or content management system. \n",
+				"date_published": "2021-06-19T11:22:05-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/19/the-garden-and.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/19/last-year-on.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2020/06/19/it-seems-to.html\">Last year on this date</a> the Governor of New York held his last press briefing on COVID. <a href=\"https://www.freep.com/story/news/local/michigan/2021/06/17/michigan-restrictions-covid-19-gretchen-whitmer/7716580002/\">Earlier this week</a> the Governor of Michigan announced the removal of the remaining COVID restrictions.</p>\n\n<p>Perhaps more meaningful to me, last week I traveled to visit my mother and see my friends.</p>\n",
+				"content_text": "[Last year on this date](https://frankmcpherson.blog/2020/06/19/it-seems-to.html) the Governor of New York held his last press briefing on COVID. [Earlier this week](https://www.freep.com/story/news/local/michigan/2021/06/17/michigan-restrictions-covid-19-gretchen-whitmer/7716580002/) the Governor of Michigan announced the removal of the remaining COVID restrictions. \n\nPerhaps more meaningful to me, last week I traveled to visit my mother and see my friends. \n",
+				"date_published": "2021-06-19T10:36:47-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/19/last-year-on.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/06/14/this-site-is.html",
 				
 				"content_html": "<p>This site is now back to full functionality, meaning the Photos and Archive pages full render. As part of the troubleshooting I changed the appearance of the site. When I look at the site using a desktop PC browser I am not pleased by the amount of white space on the left and right sides, nor do I like the navigation options a the top being right-justified. On the other hand, the site looks really nice on a smaller screen, and chances are if anyone does read this site they read it using a phone or tablet. So I think I will keep the appearance for now rather than revert to the prior layout. However, I reserve the right to try some of the other themes that are available to me.</p>\n",
@@ -41,8 +106,8 @@
 			{
 				"id": "http://frankm.micro.blog/2021/06/03/more-blossoms.html",
 				
-				"content_html": "<p>More blossoms</p>\n\n<p><img src=\"uploads/2021/5326608bbd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "More blossoms\n\n\n\n<img src=\"uploads/2021/5326608bbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>More blossoms</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/5326608bbd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "More blossoms\n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/5326608bbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-03T20:31:38-04:00",
 				"url": "https://frankmcpherson.blog/2021/06/03/more-blossoms.html"
 			},
