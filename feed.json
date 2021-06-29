@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/06/29/last-year-new.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2020/06/29/normal-for-now.html\">Last year</a> new COVID-19 cases in Michigan were averaging between 200 to 300 per day. We <a href=\"https://www.nytimes.com/interactive/2021/us/michigan-covid-cases.html\">now</a> seem to be at around 150 per day, on average, which is not too different from last year. Our April numbers compared to last year were much better, suggesting the vaccine has had a positive affect.</p>\n",
+				"content_text": "[Last year](https://frankmcpherson.blog/2020/06/29/normal-for-now.html) new COVID-19 cases in Michigan were averaging between 200 to 300 per day. We [now](https://www.nytimes.com/interactive/2021/us/michigan-covid-cases.html) seem to be at around 150 per day, on average, which is not too different from last year. Our April numbers compared to last year were much better, suggesting the vaccine has had a positive affect.\n",
+				"date_published": "2021-06-29T10:53:37-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/29/last-year-new.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/25/run-away-run.html",
+				
+				"content_html": "<p>Run away! <a href=\"http://rss.cnn.com/~r/rss/cnn_topstories/~3/gnyccfrjVBs/cows-run-loose-in-california-affil-pkg-vpx.kcal-kcbs\">Run away</a>!</p>\n",
+				"content_text": "Run away! [Run away](http://rss.cnn.com/~r/rss/cnn_topstories/~3/gnyccfrjVBs/cows-run-loose-in-california-affil-pkg-vpx.kcal-kcbs)!\n",
+				"date_published": "2021-06-25T17:23:29-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/25/run-away-run.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/25/a-new-album.html",
+				
+				"content_html": "<p><a href=\"https://styxworld.com/blogs/news/crash-of-the-crown-is-released-today\">A new album</a> of original songs from Styx? Yes please!</p>\n",
+				"content_text": "[A new album](https://styxworld.com/blogs/news/crash-of-the-crown-is-released-today) of original songs from Styx? Yes please! \n",
+				"date_published": "2021-06-25T16:58:04-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/25/a-new-album.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/24/for-me-the.html",
+				
+				"content_html": "<p>For me the most interesting part of the Windows 11 event was <a href=\"https://www.theverge.com/2021/6/24/22546635/microsoft-windows-11-new-app-store\">the announcement</a> that developers can integrate their own &ldquo;commerce engine&rdquo; that allows them to use Microsoft&rsquo;s app store for discovery but I assume allows developers to directly control the transaction, which enables them to get paid without Microsoft taking a cut. I wonder whether developers have to share data with Microsoft. It&rsquo;s an interesting idea that different from what Apple has been doing.</p>\n",
+				"content_text": "For me the most interesting part of the Windows 11 event was [the announcement](https://www.theverge.com/2021/6/24/22546635/microsoft-windows-11-new-app-store) that developers can integrate their own \"commerce engine\" that allows them to use Microsoft's app store for discovery but I assume allows developers to directly control the transaction, which enables them to get paid without Microsoft taking a cut. I wonder whether developers have to share data with Microsoft. It's an interesting idea that different from what Apple has been doing.\n",
+				"date_published": "2021-06-24T13:26:04-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/24/for-me-the.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/06/23/dave-winer-if.html",
+				
+				"content_html": "<p><a href=\"http://scripting.com/2021/06/22.html#a020557\">Dave Winer:</a> &ldquo;If you don’t believe we’re a racist country, ask yourself when people of color ever tried to stop white people from voting.&rdquo;</p>\n",
+				"content_text": "[Dave Winer:](http://scripting.com/2021/06/22.html#a020557) \"If you don’t believe we’re a racist country, ask yourself when people of color ever tried to stop white people from voting.\"\n",
+				"date_published": "2021-06-23T13:50:12-04:00",
+				"url": "https://frankmcpherson.blog/2021/06/23/dave-winer-if.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/06/22/today-is-opening.html",
 				
 				"content_html": "<p>Today is opening day in Michigan. All COVID restrictions put in place by the state health department are removed. For how long?</p>\n",
