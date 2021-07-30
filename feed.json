@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/07/29/i-am-a.html",
+				
+				"content_html": "<p>I am a life long fan of the Chicago Cubs and I&rsquo;ve seen my <a href=\"https://en.m.wikipedia.org/wiki/Greg_Maddux\">favorite</a> <a href=\"https://en.m.wikipedia.org/wiki/Mark_Grace\">players</a> leave them before, but seeing <a href=\"https://news.google.com/articles/CAIiEHjtR2bHI9QIOHhjX6R2gOEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen\">Rizzo going to the Yankees</a> and expecting Bryant to be gone too hurts. Of course the image of them making <a href=\"https://youtu.be/HOp8w2PgHlM\">the final out</a> in the greatest game ever played will always be seared in my memories.</p>\n",
+				"content_text": "I am a life long fan of the Chicago Cubs and I've seen my [favorite](https://en.m.wikipedia.org/wiki/Greg_Maddux) [players](https://en.m.wikipedia.org/wiki/Mark_Grace) leave them before, but seeing [Rizzo going to the Yankees](https://news.google.com/articles/CAIiEHjtR2bHI9QIOHhjX6R2gOEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?hl=en-US&gl=US&ceid=US%3Aen) and expecting Bryant to be gone too hurts. Of course the image of them making [the final out](https://youtu.be/HOp8w2PgHlM) in the greatest game ever played will always be seared in my memories. \n",
+				"date_published": "2021-07-29T20:48:15-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/29/i-am-a.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/29/i-think-that.html",
+				
+				"content_html": "<p>I think that Google and Samsung are planning Wear OS 3 to launch exclusively on Samsung watches. The question is, will it be available for other watches before the Christmas shopping season? <a href=\"https://9to5google.com/2021/07/29/ticwatch-wear-os-3-upgrade-2022/?utm_source=pocket_mylist\">The answer might be no</a>.</p>\n",
+				"content_text": "I think that Google and Samsung are planning Wear OS 3 to launch exclusively on Samsung watches. The question is, will it be available for other watches before the Christmas shopping season? [The answer might be no](https://9to5google.com/2021/07/29/ticwatch-wear-os-3-upgrade-2022/?utm_source=pocket_mylist). \n",
+				"date_published": "2021-07-29T16:19:36-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/29/i-think-that.html",
+				"tags": ["Wear OS"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/29/the-last-time.html",
+				
+				"content_html": "<p>The last time I bought a notebook PC was <a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">three years ago</a>. Microsoft&rsquo;s Windows 11 announcement has me thinking about my next notebook. I want one that can run Windows 11. I&rsquo;ve also been attracted to the new M1 Macbooks but right now it doesn&rsquo;t look like they will run Win 11, even virtualized.</p>\n",
+				"content_text": "The last time I bought a notebook PC was [three years ago](https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html). Microsoft's Windows 11 announcement has me thinking about my next notebook. I want one that can run Windows 11. I've also been attracted to the new M1 Macbooks but right now it doesn't look like they will run Win 11, even virtualized. \n",
+				"date_published": "2021-07-29T11:38:12-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/29/the-last-time.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/29/as-i-drove.html",
+				
+				"content_html": "<p>As I drove home yesterday I drove past Groves High School where I saw signs of support for <a href=\"https://www.teamusa.org/usa-swimming/athletes/Annie-Lazor#profile\">Annie Lazor</a>, 2020 Olympian competing in the 200-meter breaststroke in Tokyo.</p>\n",
+				"content_text": "As I drove home yesterday I drove past Groves High School where I saw signs of support for [Annie Lazor](https://www.teamusa.org/usa-swimming/athletes/Annie-Lazor#profile), 2020 Olympian competing in the 200-meter breaststroke in Tokyo. \n",
+				"date_published": "2021-07-29T09:56:27-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/29/as-i-drove.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/28/dave-has-a.html",
+				
+				"content_html": "<p>Dave has <a href=\"http://scripting.com/2021/07/28.html#a144850\">a feature on Scripting News</a> that he calls tagging, which is basically a reference to all the writing on his site that includes that tag. It&rsquo;s a similar concept to how Roam, Logseq, and Obsidian use what I call wiki links that not only link to an internal page but also show all places where that page is referenced.</p>\n\n<p>The problem for me is that Dave is using an editing construct in a published form. In my opinion in a published HTML page, a hyperlink is a hyperlink is a hyperlink. Wiki does have the concept of providing an indicator to show a hyperlink is to an external site.</p>\n\n<p>The problem is I find these additional &ldquo;indicators&rsquo; intrusive to reading the page. The underline commonly associated to hyperlinks on web pages is the least intrusive to my reading content.</p>\n\n<p>If it were me, I would  keep the appearance of the linsk the same in the HTML, but I would open external links to a new browser tab or page while keeping internal links on the page one is in, if it is even important to the reader to understand the difference between an internal and external link.</p>\n",
+				"content_text": "Dave has [a feature on Scripting News](http://scripting.com/2021/07/28.html#a144850) that he calls tagging, which is basically a reference to all the writing on his site that includes that tag. It's a similar concept to how Roam, Logseq, and Obsidian use what I call wiki links that not only link to an internal page but also show all places where that page is referenced. \n\nThe problem for me is that Dave is using an editing construct in a published form. In my opinion in a published HTML page, a hyperlink is a hyperlink is a hyperlink. Wiki does have the concept of providing an indicator to show a hyperlink is to an external site. \n\nThe problem is I find these additional \"indicators' intrusive to reading the page. The underline commonly associated to hyperlinks on web pages is the least intrusive to my reading content. \n\nIf it were me, I would  keep the appearance of the linsk the same in the HTML, but I would open external links to a new browser tab or page while keeping internal links on the page one is in, if it is even important to the reader to understand the difference between an internal and external link.\n",
+				"date_published": "2021-07-28T11:45:11-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/28/dave-has-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/27/according-to-a.html",
+				
+				"content_html": "<p>According to a study from 2015, Christians hold the largest amount of wealth (55% of the total world wealth), followed by Muslims (5.8%), Hindus (3.3%), and Jews (1.1%).  <a href=\"https://en.wikipedia.org/wiki/Wealth_and_religion?utm_source=pocket_mylist\">source</a></p>\n\n<p>How much does the amount of wealth that Christians influence how they practice their beliefs and faith?</p>\n",
+				"content_text": "According to a study from 2015, Christians hold the largest amount of wealth (55% of the total world wealth), followed by Muslims (5.8%), Hindus (3.3%), and Jews (1.1%).  [source](https://en.wikipedia.org/wiki/Wealth_and_religion?utm_source=pocket_mylist)\n\nHow much does the amount of wealth that Christians influence how they practice their beliefs and faith?\n",
+				"date_published": "2021-07-27T13:33:41-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/27/according-to-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/27/these-changes-made.html",
+				
+				"content_html": "<p><a href=\"https://www.engadget.com/waze-pre-drive-screen-information-144828779.html?src=rss&amp;utm_source=pocket_mylist\">These changes</a> made to Waze sound really useful if I were still commuting to work. I am surprised that Google has kept Waze a separate product.</p>\n",
+				"content_text": "[These changes](https://www.engadget.com/waze-pre-drive-screen-information-144828779.html?src=rss&utm_source=pocket_mylist) made to Waze sound really useful if I were still commuting to work. I am surprised that Google has kept Waze a separate product.\n",
+				"date_published": "2021-07-27T13:26:47-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/27/these-changes-made.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/26/if-you-are.html",
+				
+				"content_html": "<p>If you are a wealthy man and found yourself in a group of wealthy men with the opportunity to found a new country, would you model that new country on a monarchy like England that imposes a hierarchy on the wealthy class or create something that looks democracy that imposes no hierarchy and leaves your wealth and your status alone?</p>\n\n<p>Don&rsquo;t kid yourself, class was very much a part of the founding of the United States. Washington, Jefferson and the rest did not live in shacks. The <a href=\"https://www.britannica.com/topic/three-fifths-compromise\">three fifths compromise</a>, <a href=\"https://apnews.com/article/electoral-college-vote-monday-explained-63056e2b983589ced6141ca78164d422\">the electoral college</a>, and <a href=\"https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution\">the original &ldquo;election/selection&rdquo; of Senators</a> are all parts of the U.S. Constitution that institutionalized class.</p>\n",
+				"content_text": "If you are a wealthy man and found yourself in a group of wealthy men with the opportunity to found a new country, would you model that new country on a monarchy like England that imposes a hierarchy on the wealthy class or create something that looks democracy that imposes no hierarchy and leaves your wealth and your status alone?\n\nDon't kid yourself, class was very much a part of the founding of the United States. Washington, Jefferson and the rest did not live in shacks. The [three fifths compromise](https://www.britannica.com/topic/three-fifths-compromise), [the electoral college](https://apnews.com/article/electoral-college-vote-monday-explained-63056e2b983589ced6141ca78164d422), and [the original \"election/selection\" of Senators](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution) are all parts of the U.S. Constitution that institutionalized class. \n",
+				"date_published": "2021-07-26T14:11:57-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/26/if-you-are.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/26/when-is-the.html",
+				
+				"content_html": "<p>When is the last time that you changed your mind about something?</p>\n",
+				"content_text": "When is the last time that you changed your mind about something? \n",
+				"date_published": "2021-07-26T09:54:29-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/26/when-is-the.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/26/finished-reading-hoping.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781451499155\">Hoping Against Hope: Confessions of a Postmodern Pilgrim</a> by John D. Caputo 📚</p>\n\n<p>Rather than a Platonic, matter and spirit (body and soul) metaphysics, Caputo says the distinction is between two types of time. Conditional time, or time spent doing this to achieve/obtain that, and unconditional time, times when something comes over us that is savored for itself. As metaphor, Caputo uses the rose, which is without why, it blossoms because it blossoms, it cares not for itself and not if it&rsquo;s seen.</p>\n",
+				"content_text": "Finished reading: [Hoping Against Hope: Confessions of a Postmodern Pilgrim](https://micro.blog/books/9781451499155) by John D. Caputo 📚\n\nRather than a Platonic, matter and spirit (body and soul) metaphysics, Caputo says the distinction is between two types of time. Conditional time, or time spent doing this to achieve/obtain that, and unconditional time, times when something comes over us that is savored for itself. As metaphor, Caputo uses the rose, which is without why, it blossoms because it blossoms, it cares not for itself and not if it's seen.\n",
+				"date_published": "2021-07-26T09:18:14-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/26/finished-reading-hoping.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/25/hope-means-that.html",
+				
+				"content_html": "<p>“Hope means that things are neither steered mightily unto good by an invisible wisdom nor hollowed out at their center by some primordial catastrophe and doomed to fail. Hope means that things are just unstable, risky, nascent, natal, betokening neither an absolute plenum nor an absolute void.”</p>\n\n<p>— Hoping Against Hope: Confessions of a Postmodern Pilgrim by John D. Caputo\n<a href=\"https://a.co/dVzzJ1W\">a.co/dVzzJ1W</a></p>\n",
+				"content_text": "“Hope means that things are neither steered mightily unto good by an invisible wisdom nor hollowed out at their center by some primordial catastrophe and doomed to fail. Hope means that things are just unstable, risky, nascent, natal, betokening neither an absolute plenum nor an absolute void.”\n\n— Hoping Against Hope: Confessions of a Postmodern Pilgrim by John D. Caputo\n[a.co/dVzzJ1W](https://a.co/dVzzJ1W)\n",
+				"date_published": "2021-07-25T11:37:28-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/25/hope-means-that.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/23/i-cant-help.html",
+				
+				"content_html": "<p>I can&rsquo;t help but feel that the days are numbered for the Great Lakes Invitational hockey tournament with <a href=\"https://www.michigantechhuskies.com/sports/mice/2021-22/releases/20210722i31tno?fbclid=IwAR3xu8A4aljZRK39NDv7F8zEYy5E9laP759EpwNSSe__NSvIa2UBaGawLyI\">the announcement that the 56th GLI will be showcase at Yost and Munn</a>. Attendance at the games has not been great for several years and the Pistons move to Little Caesar&rsquo;s arena has made it difficult to schedule games. I hope that I am wrong.</p>\n",
+				"content_text": "I can't help but feel that the days are numbered for the Great Lakes Invitational hockey tournament with [the announcement that the 56th GLI will be showcase at Yost and Munn](https://www.michigantechhuskies.com/sports/mice/2021-22/releases/20210722i31tno?fbclid=IwAR3xu8A4aljZRK39NDv7F8zEYy5E9laP759EpwNSSe__NSvIa2UBaGawLyI). Attendance at the games has not been great for several years and the Pistons move to Little Caesar's arena has made it difficult to schedule games. I hope that I am wrong. \n",
+				"date_published": "2021-07-23T15:30:12-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/23/i-cant-help.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/23/iot-is-an.html",
+				"title": "IoT Is An Oxymoron",
+				"content_html": "<p>What made local area and wireless networks happen are industry standards that enable different vendor products to work with each other. The Internet Of Things is nearly the exact opposite, in my home is a case in point. I have Hue lights that require a Hue hub for management and I have a number of sensors and smart switches that use Zigbee that I manage with Samsung&rsquo;s SmartThings hub.</p>\n\n<p>The SmartThings hub can control the Hue lights, but the Hue hub only knows Hue products. I started first with the Hue lights and the hub, but if I had could have seen in the future I might have just bought the SmartThings hub. On the other hand, one big thing I get with the Hue hub is the use of a catalog of scenes that combine different colors to make for some pretty nice lighting in our basement.</p>\n\n<p>I recently bought two cheaper Sylvania color smartlights when recent heavy rains suggested it might be nice to have a color smartlight in our living room, right now we have a non-color Hue light in the living room. We have a moisture sensor in the sump pump pit that works with the SmartThings hub and an automation in SmartThings that turns on all of the lights when moisture is detected. The automation sets the color lights to purple (homage to Prince) but obviously cannot do that with non-color lights. It happened the automation was recently triggered during the evening when the living room light might normally come on so I realize it just turning on might not be enough notification. Thus the idea to buy a color light, thus the purpose of the Sylvania light because the Hue light costs $50.</p>\n\n<p>Before putting the new Sylvania light in the living room I decided to test it in the basement, where I have the color Hue lights, and here exposes the problem. The Hue lights are controlled by the Hue hub that knows nothing about the Sylvania light, this the Sylvania light cannot be part of the any of the Hue scenes. Perhaps I can find a &ldquo;third party&rdquo; app that works with SmartThings to replace Hue scenes, but I have not yet done the research.</p>\n\n<p>Better, yet, would be an industry standard for controlling these color lights that would enable me to fully control them, with scenes, from one hub or &ldquo;smart device.&rdquo; Of course, this is a known problem and industy leaders appear to be working together to address it by developing <a href=\"https://staceyoniot.com/an-faq-on-the-matter-protocol/\">a protocol called Matter</a>. Hopefully, there will be a day when all I need is one controlling device, technically right now I have three: Hue hub, SmartThings hub, Amazon Echo, and Google Home.</p>\n\n<p>P.S. I really hope the Matter protocol addresses how smartlights handle resumption of power after a power outage. Hue added the ability to enforce the last known state, if a light was off when the power went off then it is supposed to stay off when power is restored. However, I&rsquo;ve found that doesn&rsquo;t work well with multiple successive short power loses. Worse, is the fact that the Sylvania light appears to not have such a setting. When power is restored the light turns on, regardless of its prior state.</p>\n",
+				"content_text": "What made local area and wireless networks happen are industry standards that enable different vendor products to work with each other. The Internet Of Things is nearly the exact opposite, in my home is a case in point. I have Hue lights that require a Hue hub for management and I have a number of sensors and smart switches that use Zigbee that I manage with Samsung's SmartThings hub.\n\nThe SmartThings hub can control the Hue lights, but the Hue hub only knows Hue products. I started first with the Hue lights and the hub, but if I had could have seen in the future I might have just bought the SmartThings hub. On the other hand, one big thing I get with the Hue hub is the use of a catalog of scenes that combine different colors to make for some pretty nice lighting in our basement.\n\nI recently bought two cheaper Sylvania color smartlights when recent heavy rains suggested it might be nice to have a color smartlight in our living room, right now we have a non-color Hue light in the living room. We have a moisture sensor in the sump pump pit that works with the SmartThings hub and an automation in SmartThings that turns on all of the lights when moisture is detected. The automation sets the color lights to purple (homage to Prince) but obviously cannot do that with non-color lights. It happened the automation was recently triggered during the evening when the living room light might normally come on so I realize it just turning on might not be enough notification. Thus the idea to buy a color light, thus the purpose of the Sylvania light because the Hue light costs $50. \n\nBefore putting the new Sylvania light in the living room I decided to test it in the basement, where I have the color Hue lights, and here exposes the problem. The Hue lights are controlled by the Hue hub that knows nothing about the Sylvania light, this the Sylvania light cannot be part of the any of the Hue scenes. Perhaps I can find a \"third party\" app that works with SmartThings to replace Hue scenes, but I have not yet done the research. \n\nBetter, yet, would be an industry standard for controlling these color lights that would enable me to fully control them, with scenes, from one hub or \"smart device.\" Of course, this is a known problem and industy leaders appear to be working together to address it by developing [a protocol called Matter](https://staceyoniot.com/an-faq-on-the-matter-protocol/). Hopefully, there will be a day when all I need is one controlling device, technically right now I have three: Hue hub, SmartThings hub, Amazon Echo, and Google Home.\n\nP.S. I really hope the Matter protocol addresses how smartlights handle resumption of power after a power outage. Hue added the ability to enforce the last known state, if a light was off when the power went off then it is supposed to stay off when power is restored. However, I've found that doesn't work well with multiple successive short power loses. Worse, is the fact that the Sylvania light appears to not have such a setting. When power is restored the light turns on, regardless of its prior state. \n",
+				"date_published": "2021-07-23T11:38:33-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/23/iot-is-an.html",
+				"tags": ["Thoughts","Essays","Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/22/it-doesnt-take.html",
+				
+				"content_html": "<p>It doesn&rsquo;t take much to figure out why the Chicago Cubs have faded and are out of the running for the playoffs. <a href=\"https://www.espn.com/mlb/stats/team\">Team batting average</a> is nearly dead last, ranked 28 of 30 teams. On base percentage is ranked 23, and slug is ranked 19. I am surprised that Cubs pitching is as good as it is, their team ERA of 4.10 puts them in the top 10, although their WHIP of 1.32 ranks them 18th in the league. (WHIP might be a better indicator than ERA.)</p>\n\n<p>Bottom line is that the Chicago Cubs lineup is not very good. If you are another team looking to pick up a bat to help you make the playoffs, given the stats, beyond Kris Bryant, which other batters would you trade for to help your lineup?</p>\n",
+				"content_text": "It doesn't take much to figure out why the Chicago Cubs have faded and are out of the running for the playoffs. [Team batting average](https://www.espn.com/mlb/stats/team) is nearly dead last, ranked 28 of 30 teams. On base percentage is ranked 23, and slug is ranked 19. I am surprised that Cubs pitching is as good as it is, their team ERA of 4.10 puts them in the top 10, although their WHIP of 1.32 ranks them 18th in the league. (WHIP might be a better indicator than ERA.)\n\nBottom line is that the Chicago Cubs lineup is not very good. If you are another team looking to pick up a bat to help you make the playoffs, given the stats, beyond Kris Bryant, which other batters would you trade for to help your lineup? \n",
+				"date_published": "2021-07-22T20:23:00-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/22/it-doesnt-take.html",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/07/22/i-managed-to.html",
 				
 				"content_html": "<p>I managed to undo what I did that prevented me from getting into my servers, which enabled me to successfully move my 1999.io server and River of News to a new virtual machine on Google Cloud Platform.</p>\n",
@@ -12013,6 +12130,15 @@
 				"tags": ["Sports","Essays"]
 			},
 			{
+				"id": "http://frankm.micro.blog/2018/09/28/wear-os-update.html",
+				
+				"content_html": "<p><a href=\"https://www.slashgear.com/wear-os-update-how-to-download-install-info-28548073/\">Wear OS update today: 5 reasons to be excited - SlashGear</a></p>\n\n<p>Awaiting the update for my Fossil Q Explorist.</p>\n",
+				"content_text": "[Wear OS update today: 5 reasons to be excited - SlashGear](https://www.slashgear.com/wear-os-update-how-to-download-install-info-28548073/)\n\nAwaiting the update for my Fossil Q Explorist. \n",
+				"date_published": "2018-09-28T16:08:26-04:00",
+				"url": "https://frankmcpherson.blog/2018/09/28/wear-os-update.html",
+				"tags": ["Wear OS"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2018/09/28/they-liked-his.html",
 				"title": "They Liked His Anger",
 				"content_html": "<p>The Senate Judiciary Committee’s recommendation for a full vote on Kavanaugh demonstrates the value of diversity. All the Republicans on the committee are men who identified with Kavanaugh’s anger. Lindsey Graham seemed to channel it the most. In that moment it no longer mattered whether Kavanaugh is qualified for the job (I don’t think he is) or guilty of sexual assault because by god they like the man just because he got pissed off! And that too is how we end up with Trump as President because enough voters liked him and didn’t care about his ability to actually do the job.</p>\n\n<p>Senators have a constitutional responsibility to determine whether a person is competent to be a Supreme Court justice and not just like the candidates. The Senators who supported Kavanaugh have failed their duty.</p>\n",
@@ -12029,6 +12155,15 @@
 				"date_published": "2018-09-15T17:55:34-04:00",
 				"url": "https://frankmcpherson.blog/2018/09/15/keep-an-eye.html",
 				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2018/09/14/i-am-wearing.html",
+				
+				"content_html": "<p>I am wearing a Fossil Q Explorist, third generation. Battery life has been good enough to get through my day up until recently. It&rsquo;s hard to get solid evidence because the Wear OS app does not provide much useful info on power drainers. It feels as though the problem started when upgrading my Pixel 2 to Android P. Doing a factory resert and re-pair to see if that fixes it.</p>\n",
+				"content_text": "I am wearing a Fossil Q Explorist, third generation. Battery life has been good enough to get through my day up until recently. It's hard to get solid evidence because the Wear OS app does not provide much useful info on power drainers. It feels as though the problem started when upgrading my Pixel 2 to Android P. Doing a factory resert and re-pair to see if that fixes it.\n",
+				"date_published": "2018-09-14T09:41:22-04:00",
+				"url": "https://frankmcpherson.blog/2018/09/14/i-am-wearing.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/09/10/dave-winer-has.html",
@@ -12056,6 +12191,15 @@
 				"date_published": "2018-09-04T17:24:56-04:00",
 				"url": "https://frankmcpherson.blog/2018/09/04/212456.html",
 				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2018/08/29/apparently-google-announced.html",
+				
+				"content_html": "<p>Apparently Google announced they will be releasing a new version of Wear OS within the next month. <a href=\"https://www.cnet.com/news/google-wear-os-updates-hint-at-fitness-smartwatches-to-come/\">Articles are available</a> from several sources, all appearing pretty much the same. It would be nice to see a video of the changes, but apparently that has not been provided by Google.</p>\n\n<p>I&rsquo;ve been running the new version of Google Fit for four days, and I am pretty happy with the change. I had already made the mental shift from steps to move minutes. Fit has even suggested in an increase in my goals after using the defaults and monitoring my activity for a few days.</p>\n\n<p>One problem that I do have with my watch, which is a Fossil Q Explorist, is that the battery life has been worse since upgrading my phone to Android P. I am not sure that is the exact correlation, but it feels to be the case. I&rsquo;ve had several occurrences of the battery running out on my watch by early evening, which was not an issue in the past.</p>\n",
+				"content_text": "Apparently Google announced they will be releasing a new version of Wear OS within the next month. [Articles are available](https://www.cnet.com/news/google-wear-os-updates-hint-at-fitness-smartwatches-to-come/) from several sources, all appearing pretty much the same. It would be nice to see a video of the changes, but apparently that has not been provided by Google. \n\nI've been running the new version of Google Fit for four days, and I am pretty happy with the change. I had already made the mental shift from steps to move minutes. Fit has even suggested in an increase in my goals after using the defaults and monitoring my activity for a few days. \n\nOne problem that I do have with my watch, which is a Fossil Q Explorist, is that the battery life has been worse since upgrading my phone to Android P. I am not sure that is the exact correlation, but it feels to be the case. I've had several occurrences of the battery running out on my watch by early evening, which was not an issue in the past. \n",
+				"date_published": "2018-08-29T13:42:05-04:00",
+				"url": "https://frankmcpherson.blog/2018/08/29/apparently-google-announced.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/08/23/last-night-the.html",
@@ -12184,6 +12328,15 @@
 				"tags": ["Sports"]
 			},
 			{
+				"id": "http://frankm.micro.blog/2018/05/07/updates-to-google.html",
+				
+				"content_html": "<p>Updates to Google Assistant are <a href=\"https://www.blog.google/products/wear-os/get-more-done-google-assistant-wear-os-google/?utm_source=tw&amp;utm_medium=feed&amp;utm_campaign=og\">coming to Wear OS.</a></p>\n",
+				"content_text": "Updates to Google Assistant are [coming to Wear OS.](https://www.blog.google/products/wear-os/get-more-done-google-assistant-wear-os-google/?utm_source=tw&utm_medium=feed&utm_campaign=og)\n",
+				"date_published": "2018-05-07T17:15:50-04:00",
+				"url": "https://frankmcpherson.blog/2018/05/07/updates-to-google.html",
+				"tags": ["Wear OS"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2018/05/05/watching-the-cubs.html",
 				
 				"content_html": "<p>Watching the Cubs play the Cardinals. So far two calls have been overturned by replay. Replay is showing how bad baseball umpires are, you can almost say something like 25% of all calls made in MLB history before replay were wrong.</p>\n",
@@ -12209,6 +12362,15 @@
 				"date_published": "2018-04-25T12:49:47-04:00",
 				"url": "https://frankmcpherson.blog/2018/04/25/gmail-versus-inbox.html",
 				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2018/04/25/did-a-little.html",
+				
+				"content_html": "<p>Did a little more investigation into <a href=\"https://frankmcpherson.blog/2018/04/22/i-got-a.html\">the watch face that Fossil &ldquo;pushed&rdquo; to my smart watch last weekend</a>. What happens is, you receive a notification saying that you &ldquo;unlocked&rdquo; a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each &ldquo;new face&rdquo; as it is updating one face that is designed for different appearances, which in reality is how all faces work.</p>\n\n<p>I am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.</p>\n",
+				"content_text": "Did a little more investigation into [the watch face that Fossil \"pushed\" to my smart watch last weekend](https://frankmcpherson.blog/2018/04/22/i-got-a.html). What happens is, you receive a notification saying that you \"unlocked\" a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each \"new face\" as it is updating one face that is designed for different appearances, which in reality is how all faces work. \n\nI am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.\n",
+				"date_published": "2018-04-25T09:27:04-04:00",
+				"url": "https://frankmcpherson.blog/2018/04/25/did-a-little.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/04/13/boycotts-and-free.html",
