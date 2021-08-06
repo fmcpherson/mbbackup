@@ -7,6 +7,81 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/08/06/currently-reading-in.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781444791709\">In the Shelter: Finding a Home in the World</a> by Pádraig Ó Tuama 📚</p>\n",
+				"content_text": "Currently reading: [In the Shelter: Finding a Home in the World](https://micro.blog/books/9781444791709) by Pádraig Ó Tuama 📚\n",
+				"date_published": "2021-08-06T10:31:10-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/06/currently-reading-in.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/05/dave-winer-is.html",
+				
+				"content_html": "<p><a href=\"http://scripting.com/2021/08/05.html#a125406\">Dave Winer is contemplating</a> how to support tools for thought on small screen devices like smartphones.</p>\n\n<p>The lesson learned since Personal Digital Assistants and later smartphones first appeared is that screen size matters. Small screen, defined as less than seven inches,\nuse case is different from large screen size, a fact that Microsoft was unwilling to embrace.</p>\n\n<p>For me, tools for thought on small screens should be optimized for the following use cases:</p>\n\n<ul>\n<li>Data capture via the Operating System&rsquo;s sharing functionality so that I can easily and quickly capture information from other applications. One of the main reasons why I continue using Evernote is that it supports capturing information via mobile OS sharing functions and browser web clipping.</li>\n<li>Fast and easy search to retrieve information that I store in my tools for thought. Again, I find Evernote does a good job here not only by an included search function but also via shortcuts that enable me to quickly retrieve information.</li>\n<li>I don&rsquo;t often write on my smartphone. If the tool supports the OS sharing functionality then any app could be used for input and then sent in to the tool for thought, which is the model that Drafts is optimized for on iOS. If the app is for writing then a blank page is easiest for input, any type of outlining structure is difficult to manage on a small screen.</li>\n</ul>\n",
+				"content_text": "[Dave Winer is contemplating](http://scripting.com/2021/08/05.html#a125406) how to support tools for thought on small screen devices like smartphones.\n\nThe lesson learned since Personal Digital Assistants and later smartphones first appeared is that screen size matters. Small screen, defined as less than seven inches, \nuse case is different from large screen size, a fact that Microsoft was unwilling to embrace. \n\nFor me, tools for thought on small screens should be optimized for the following use cases:\n\n - Data capture via the Operating System's sharing functionality so that I can easily and quickly capture information from other applications. One of the main reasons why I continue using Evernote is that it supports capturing information via mobile OS sharing functions and browser web clipping.\n- Fast and easy search to retrieve information that I store in my tools for thought. Again, I find Evernote does a good job here not only by an included search function but also via shortcuts that enable me to quickly retrieve information. \n- I don't often write on my smartphone. If the tool supports the OS sharing functionality then any app could be used for input and then sent in to the tool for thought, which is the model that Drafts is optimized for on iOS. If the app is for writing then a blank page is easiest for input, any type of outlining structure is difficult to manage on a small screen. \n",
+				"date_published": "2021-08-05T11:05:00-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/05/dave-winer-is.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/02/mother-earth-is.html",
+				
+				"content_html": "<p>Mother Earth is providing glorious weather in Michigan to start the month of August.</p>\n\n<p><img src=\"uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mother Earth is providing glorious weather in Michigan to start the month of August. \n\n\n\n<img src=\"uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-02T19:55:01-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/02/mother-earth-is.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/02/my-reaction-to.html",
+				
+				"content_html": "<p>My reaction to <a href=\"https://store.google.com/magazine/google_pixel_6?utm_source=monty&amp;utm_medium=google_retail&amp;utm_campaign=GS106636\">the Google Pixel 6</a> news today is simple, I can&rsquo;t imagine spending nearly or north of $1,000 for a smartphone. I&rsquo;ve not had a single performance issue with the $349 Pixel 4a that I am currently using.</p>\n\n<p>The big question Google is facing is, does the smartphone market have room for a third luxury, high priced, smartphone? Seems to me that people who buy for status buy iPhones or Samsung and I am not convinced they are going to choose Pixel 6 over either.</p>\n",
+				"content_text": "My reaction to [the Google Pixel 6](https://store.google.com/magazine/google_pixel_6?utm_source=monty&utm_medium=google_retail&utm_campaign=GS106636) news today is simple, I can't imagine spending nearly or north of $1,000 for a smartphone. I've not had a single performance issue with the $349 Pixel 4a that I am currently using. \n\nThe big question Google is facing is, does the smartphone market have room for a third luxury, high priced, smartphone? Seems to me that people who buy for status buy iPhones or Samsung and I am not convinced they are going to choose Pixel 6 over either.\n",
+				"date_published": "2021-08-02T17:10:00-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/02/my-reaction-to.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/02/the-good-news.html",
+				
+				"content_html": "<p><a href=\"https://www.newyorker.com/news/annals-of-inquiry/an-uncertain-new-phase-of-the-pandemic-in-which-cases-surge-but-deaths-do-not?utm_source=pocket_mylist\">The good news</a> is that the vaccines have definitely decreased the rate of death due to COVID in the United States. The bad news is that the Delta variant is more contagious.</p>\n\n<p>We need to change the focus on COVID from death rates to other measures that show the impact of the continuing spread. COVID still can have significant impacts even when ti doesn&rsquo;t kill you, and we need to put the focus on that. Too many still think COVID is nothing more than a cold, or at worst case the flu.</p>\n",
+				"content_text": "[The good news](https://www.newyorker.com/news/annals-of-inquiry/an-uncertain-new-phase-of-the-pandemic-in-which-cases-surge-but-deaths-do-not?utm_source=pocket_mylist) is that the vaccines have definitely decreased the rate of death due to COVID in the United States. The bad news is that the Delta variant is more contagious. \n\nWe need to change the focus on COVID from death rates to other measures that show the impact of the continuing spread. COVID still can have significant impacts even when ti doesn't kill you, and we need to put the focus on that. Too many still think COVID is nothing more than a cold, or at worst case the flu. \n",
+				"date_published": "2021-08-02T10:09:34-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/02/the-good-news.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/02/ive-observed-this.html",
+				
+				"content_html": "<p>I&rsquo;ve observed this before and I will write it again, the <a href=\"https://www.oakgov.com/covid/dashboard.html\">trend of COVID cases in my county</a> right now looks nearly identical to the trend last year at this time. We have the vaccine right now but we also are outdoors more. My expectation is that due to the Delta variant and the vaccination rate, the trend will look nearly the same for the rest of the year.</p>\n\n<p>And here is what to worry about&hellip; what will the variant after Delta be like?</p>\n",
+				"content_text": "I've observed this before and I will write it again, the [trend of COVID cases in my county](https://www.oakgov.com/covid/dashboard.html) right now looks nearly identical to the trend last year at this time. We have the vaccine right now but we also are outdoors more. My expectation is that due to the Delta variant and the vaccination rate, the trend will look nearly the same for the rest of the year. \n\nAnd here is what to worry about... what will the variant after Delta be like? \n",
+				"date_published": "2021-08-02T09:57:19-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/02/ive-observed-this.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/31/the-attempted-insurrection.html",
+				
+				"content_html": "<p>The attempted insurrection on the United States on January 6, 2021 was predicted <a href=\"https://frankmcpherson.blog/2020/07/31/the-damage-of.html\">on this date last year.</a></p>\n",
+				"content_text": "The attempted insurrection on the United States on January 6, 2021 was predicted [on this date last year.](https://frankmcpherson.blog/2020/07/31/the-damage-of.html) \n",
+				"date_published": "2021-07-31T11:14:18-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/31/the-attempted-insurrection.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/31/ive-been-wondering.html",
+				
+				"content_html": "<p>I&rsquo;ve been wondering what to call this new era of Chicago Cubs baseball. I shall dub thee the post World Series era, but I hope it&rsquo;s shorter than 108 years.</p>\n",
+				"content_text": "I've been wondering what to call this new era of Chicago Cubs baseball. I shall dub thee the post World Series era, but I hope it's shorter than 108 years. \n",
+				"date_published": "2021-07-31T10:57:29-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/31/ive-been-wondering.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/07/30/i-am-feeling.html",
+				
+				"content_html": "<p>I am feeling really conflicted, so fortunate to live to see the Chicago Cubs win the World Series in 2016 and now seeing the players who made that possible being traded away. I wonder whether those players fully understand the I impact they have had. Literally generations of Cub fans never lived to see them win it all, but Bryant and Rizzo made it happen for me.</p>\n",
+				"content_text": "I am feeling really conflicted, so fortunate to live to see the Chicago Cubs win the World Series in 2016 and now seeing the players who made that possible being traded away. I wonder whether those players fully understand the I impact they have had. Literally generations of Cub fans never lived to see them win it all, but Bryant and Rizzo made it happen for me. \n",
+				"date_published": "2021-07-30T17:20:01-04:00",
+				"url": "https://frankmcpherson.blog/2021/07/30/i-am-feeling.html",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/07/29/i-am-a.html",
 				
 				"content_html": "<p>I am a life long fan of the Chicago Cubs and I&rsquo;ve seen my <a href=\"https://en.m.wikipedia.org/wiki/Greg_Maddux\">favorite</a> <a href=\"https://en.m.wikipedia.org/wiki/Mark_Grace\">players</a> leave them before, but seeing <a href=\"https://news.google.com/articles/CAIiEHjtR2bHI9QIOHhjX6R2gOEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen\">Rizzo going to the Yankees</a> and expecting Bryant to be gone too hurts. Of course the image of them making <a href=\"https://youtu.be/HOp8w2PgHlM\">the final out</a> in the greatest game ever played will always be seared in my memories.</p>\n",
@@ -154,7 +229,8 @@
 				"content_html": "<p>Why is it so freakin&rsquo; difficult to find what is the most current version of Wear OS? Right now I have Version 2.28 on my <a href=\"https://www.fossil.com/en-us/smartwatches/learn-more/sport/\">Fossil Sport</a>, is that the most current version?</p>\n",
 				"content_text": "Why is it so freakin' difficult to find what is the most current version of Wear OS? Right now I have Version 2.28 on my [Fossil Sport](https://www.fossil.com/en-us/smartwatches/learn-more/sport/), is that the most current version? \n",
 				"date_published": "2021-07-19T16:00:42-04:00",
-				"url": "https://frankmcpherson.blog/2021/07/19/why-is-it.html"
+				"url": "https://frankmcpherson.blog/2021/07/19/why-is-it.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/07/19/ive-seen-two.html",
@@ -162,7 +238,8 @@
 				"content_html": "<p>I&rsquo;ve seen two <a href=\"https://www.slashgear.com/google-play-wear-os-apps-for-watches-finally-easier-to-find-19683005/?utm_source=pocket_mylist\">articles today reporting</a> that Google has updated the Play Store on Android Smartphones so that it can remotely (directly) install Wear OS apps on the watch. One of my main complaints about Wear OS is that it requires me to install/manage apps directly on the watch, which is too difficult given the small screen. In the beginning Google enabled one to install/manage their watches from the phone and they took that away in favor of a standalone app store on the watch, a move that made no sense to me at the time even if that is something done on the Apple Watch.</p>\n\n<p>So far I have not seen this update appear on my Pixel 4a. While I can see the Wear OS category in the Play Store, it still really is a list of Android smartphone apps that have Wear OS components, meaning if you have to first install the app on the phone and then go in to the Play Store on the watch to install the associated Wear OS app, which is a totally braindead approach!</p>\n",
 				"content_text": "I've seen two [articles today reporting](https://www.slashgear.com/google-play-wear-os-apps-for-watches-finally-easier-to-find-19683005/?utm_source=pocket_mylist) that Google has updated the Play Store on Android Smartphones so that it can remotely (directly) install Wear OS apps on the watch. One of my main complaints about Wear OS is that it requires me to install/manage apps directly on the watch, which is too difficult given the small screen. In the beginning Google enabled one to install/manage their watches from the phone and they took that away in favor of a standalone app store on the watch, a move that made no sense to me at the time even if that is something done on the Apple Watch. \n\nSo far I have not seen this update appear on my Pixel 4a. While I can see the Wear OS category in the Play Store, it still really is a list of Android smartphone apps that have Wear OS components, meaning if you have to first install the app on the phone and then go in to the Play Store on the watch to install the associated Wear OS app, which is a totally braindead approach! \n",
 				"date_published": "2021-07-19T15:55:16-04:00",
-				"url": "https://frankmcpherson.blog/2021/07/19/ive-seen-two.html"
+				"url": "https://frankmcpherson.blog/2021/07/19/ive-seen-two.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/07/19/i-bought-an.html",
@@ -236,7 +313,8 @@
 				"content_html": "<p>Read about the <a href=\"https://androidcommunity.com/wear-os-starts-rolling-out-play-store-redesigned-ui-20210705/\">updates that Google is making to the Wear OS App Store</a>. Wish someone would write about the stupidity of the on watch store existing. In my opinion there will never be a good on watch store experience because there is simply not enough screen space to create one. Smart watches are and will always be accessories and not stand alone computers and it best that designers get this through their heads.</p>\n",
 				"content_text": "Read about the [updates that Google is making to the Wear OS App Store](https://androidcommunity.com/wear-os-starts-rolling-out-play-store-redesigned-ui-20210705/). Wish someone would write about the stupidity of the on watch store existing. In my opinion there will never be a good on watch store experience because there is simply not enough screen space to create one. Smart watches are and will always be accessories and not stand alone computers and it best that designers get this through their heads. \n",
 				"date_published": "2021-07-05T11:37:52-04:00",
-				"url": "https://frankmcpherson.blog/2021/07/05/read-about-the.html"
+				"url": "https://frankmcpherson.blog/2021/07/05/read-about-the.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/07/04/it-drives-me.html",
@@ -348,7 +426,8 @@
 				"content_html": "<p>I don&rsquo;t normally pay much attention to Samsung events because I find their products too expensive. However, I am interested in their upcoming <a href=\"https://www.engadget.com/samsung-wear-os-google-smartwatch-mobile-world-congress-165403913.html?src=rss_b2c\">Mobile World Congress virtual event</a> because of their partnership with Google on the next version of Wear OS. I am curious to see what is different and whether they may sell a watch that will work with other Android phones.</p>\n",
 				"content_text": "I don't normally pay much attention to Samsung events because I find their products too expensive. However, I am interested in their upcoming [Mobile World Congress virtual event](https://www.engadget.com/samsung-wear-os-google-smartwatch-mobile-world-congress-165403913.html?src=rss_b2c) because of their partnership with Google on the next version of Wear OS. I am curious to see what is different and whether they may sell a watch that will work with other Android phones.\n",
 				"date_published": "2021-06-21T13:54:55-04:00",
-				"url": "https://frankmcpherson.blog/2021/06/21/i-dont-normally.html"
+				"url": "https://frankmcpherson.blog/2021/06/21/i-dont-normally.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/06/21/its-now-a.html",
@@ -356,7 +435,8 @@
 				"content_html": "<p>It&rsquo;s now a year since Qualcomm announced the Wear 4100 processor and <a href=\"https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/wear-os-watches-with-qualcomm-4100-processor\">there are only two watches</a>, both from Mobvoi, available that use it. I hope most of the watch vendors are working on new products right now that use a new version of Wear OS.</p>\n",
 				"content_text": "It's now a year since Qualcomm announced the Wear 4100 processor and [there are only two watches](https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/wear-os-watches-with-qualcomm-4100-processor), both from Mobvoi, available that use it. I hope most of the watch vendors are working on new products right now that use a new version of Wear OS.\n",
 				"date_published": "2021-06-21T09:56:27-04:00",
-				"url": "https://frankmcpherson.blog/2021/06/21/its-now-a.html"
+				"url": "https://frankmcpherson.blog/2021/06/21/its-now-a.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/06/19/google-fit-to.html",
@@ -1138,7 +1218,8 @@
 				"content_html": "<p><a href=\"https://9to5google.com/2021/03/12/custom-wear-os-tiles/\">9to5Google says</a> there will be a spring Wear OS Platform update and they cite the Tiles feature added last year. When you swipe left on the watch face you will see some information. First you could only see your Fit &ldquo;rings&rdquo; show step and heart point progress, but they added up to five additional tiles. After the step and heart points, I see weekly heart point progress, timer options, the current weather forecast, and my heart rate.</p>\n",
 				"content_text": "[9to5Google says](https://9to5google.com/2021/03/12/custom-wear-os-tiles/) there will be a spring Wear OS Platform update and they cite the Tiles feature added last year. When you swipe left on the watch face you will see some information. First you could only see your Fit \"rings\" show step and heart point progress, but they added up to five additional tiles. After the step and heart points, I see weekly heart point progress, timer options, the current weather forecast, and my heart rate. \n",
 				"date_published": "2021-03-13T18:28:01-04:00",
-				"url": "https://frankmcpherson.blog/2021/03/13/togoogle-says-there.html"
+				"url": "https://frankmcpherson.blog/2021/03/13/togoogle-says-there.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/03/13/i-agree-very.html",
@@ -1147,7 +1228,7 @@
 				"content_text": "I agree very much with this sentiment that [Wear OS Watchmakers Seem Destined to Kill the Platform](https://www.droid-life.com/2021/03/09/wear-os-watchmakers-seem-destined-to-kill-the-platform/). My theory is that because Google is not doing much with Wear OS that the watch makers are holding back using the Qualcomm 4100 until the 2021 Christmas shopping season. If they don't, they won't have a compelling reason for people to buy watches then. The fact that Google bought Fitbit doesn't help the matter. My next watch, if it is Wear OS, will have the Qualcomm 4100 and I will wait until one is available. \n",
 				"date_published": "2021-03-13T11:18:09-04:00",
 				"url": "https://frankmcpherson.blog/2021/03/13/i-agree-very.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/03/13/i-have-a.html",
@@ -1238,7 +1319,7 @@
 				"content_text": "The [Mobvoi TicWatch Pro 3 GPS](https://www.amazon.com/gp/product/B08BRFWGMC), and it's LTE equivalent, are the only Wear OS watch currently on the market that uses Qualcomm's 4100 watch processor.\n",
 				"date_published": "2021-03-01T17:24:55-04:00",
 				"url": "https://frankmcpherson.blog/2021/03/01/the-mobvoi-ticwatch.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/02/28/currently-reading-the.html",
@@ -1273,7 +1354,7 @@
 				"content_text": "I've been wondering about [the future of Wear OS](https://9to5google.com/2021/02/26/new-moto-wear-os/) in light of Google closing the acquisition of Fitbit and that there are so few watches with the new [Qualcomm 4100](https://www.qualcomm.com/products/snapdragon-wear-4100-plus-platform) processor. I suspect Google has drastically slowed development on Wear OS and that has forced companies to hold back launching watches with the 4100 because it may be the only new thing about them in the next year. If I am right that may mean we won't see many watches with the latest processor until the fall. \n\nPersonally, the Fossil Sport that I currently wear has all the \"features\" I need but performance is not exactly reliable. I've begun to think one of the latest Fitbits might be good. I really wish Apple would do with Apple Watch what they did with the iPod and make it work with Android, which I think would decisively the end Wear OS, but Apple appears committed to the halo Watch gives to iPhone. \n",
 				"date_published": "2021-02-27T14:30:00-04:00",
 				"url": "https://frankmcpherson.blog/2021/02/27/ive-wondering-about.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/02/26/really-disappointed-with.html",
@@ -1613,7 +1694,8 @@
 				"content_html": "<p>Google&rsquo;s <a href=\"https://9to5google.com/2021/01/14/google-fitbit-deal-acquisition-complete/\">acquisition of Fitbit is complete</a>, will we now see something new relating to Wear OS?</p>\n",
 				"content_text": "Google's [acquisition of Fitbit is complete](https://9to5google.com/2021/01/14/google-fitbit-deal-acquisition-complete/), will we now see something new relating to Wear OS? \n",
 				"date_published": "2021-01-14T11:43:35-04:00",
-				"url": "https://frankmcpherson.blog/2021/01/14/googles-acquisition-of.html"
+				"url": "https://frankmcpherson.blog/2021/01/14/googles-acquisition-of.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/01/14/the-verge-has.html",
@@ -1653,7 +1735,8 @@
 				"content_html": "<p>I really don&rsquo;t think anyone should buy <a href=\"https://www.engadget.com/michael-kors-access-gen-5e-wear-os-skagen-hybrid-fossil-smartwatch-130010638.html\">the Wear OS watches just announced by Fossil</a> because they don&rsquo;t have the Qualcomm 4100 chip. You are being asked to pay a lot of money for a watch that does not have the best battery life and is slower that what watches with the 4100 chip will provide. I really don&rsquo;t understand why none of the new watches have the 4100 chip.</p>\n",
 				"content_text": "I really don't think anyone should buy [the Wear OS watches just announced by Fossil](https://www.engadget.com/michael-kors-access-gen-5e-wear-os-skagen-hybrid-fossil-smartwatch-130010638.html) because they don't have the Qualcomm 4100 chip. You are being asked to pay a lot of money for a watch that does not have the best battery life and is slower that what watches with the 4100 chip will provide. I really don't understand why none of the new watches have the 4100 chip.\n",
 				"date_published": "2021-01-11T12:01:51-04:00",
-				"url": "https://frankmcpherson.blog/2021/01/11/i-really-dont.html"
+				"url": "https://frankmcpherson.blog/2021/01/11/i-really-dont.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2021/01/10/given-the-recent.html",
@@ -2059,7 +2142,8 @@
 				"content_html": "<p>I am really surprised that there haven&rsquo;t been more <a href=\"https://www.reddit.com/r/WearOS/comments/j8fkkq/confirmed_qualcomm_snapdragon_4100_watches/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf\">Wear OS watches with Qualcomm&rsquo;s Snapdragon 4100 CPU</a> announced for the Christmas buying season. Wondering what that might mean for Wear OS?</p>\n",
 				"content_text": "I am really surprised that there haven't been more [Wear OS watches with Qualcomm's Snapdragon 4100 CPU](https://www.reddit.com/r/WearOS/comments/j8fkkq/confirmed_qualcomm_snapdragon_4100_watches/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) announced for the Christmas buying season. Wondering what that might mean for Wear OS? \n",
 				"date_published": "2020-12-12T15:18:24-04:00",
-				"url": "https://frankmcpherson.blog/2020/12/12/i-am-really.html"
+				"url": "https://frankmcpherson.blog/2020/12/12/i-am-really.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/12/12/i-do-not.html",
@@ -2954,7 +3038,8 @@
 				"content_html": "<p>I am keeping an eye on the latest Wear OS watch announcements <a href=\"https://androidcommunity.com/fossil-gen-5e-wear-os-smartwatches-announced-20201005/\">Fossil announced their new Gen 5E line</a>, which I recommend people do not buy. The Gen 5E still uses the Qualcomm 3100 chip while there is a newer and better chip, the Qualcomm 4100 now available. I am waiting for a watch running the Qualcomm 4100 before I replace my Fossil Sport.</p>\n",
 				"content_text": "I am keeping an eye on the latest Wear OS watch announcements [Fossil announced their new Gen 5E line](https://androidcommunity.com/fossil-gen-5e-wear-os-smartwatches-announced-20201005/), which I recommend people do not buy. The Gen 5E still uses the Qualcomm 3100 chip while there is a newer and better chip, the Qualcomm 4100 now available. I am waiting for a watch running the Qualcomm 4100 before I replace my Fossil Sport.\n",
 				"date_published": "2020-10-06T10:33:57-04:00",
-				"url": "https://frankmcpherson.blog/2020/10/06/i-am-keeping.html"
+				"url": "https://frankmcpherson.blog/2020/10/06/i-am-keeping.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/10/06/the-same-people.html",
@@ -3531,7 +3616,8 @@
 				"content_html": "<p>Dear Google, You do a wonderful job of making it easy to move from one Android phone to another but moving a Wear OS watch along with that phone is horrible. Please bring back the ability to install and manage apps from the phone. I should not have to factory reset and reinstall all watch apps just to move to another phone.</p>\n",
 				"content_text": "Dear Google, You do a wonderful job of making it easy to move from one Android phone to another but moving a Wear OS watch along with that phone is horrible. Please bring back the ability to install and manage apps from the phone. I should not have to factory reset and reinstall all watch apps just to move to another phone. \n",
 				"date_published": "2020-08-29T13:41:13-04:00",
-				"url": "https://frankmcpherson.blog/2020/08/29/dear-google-you.html"
+				"url": "https://frankmcpherson.blog/2020/08/29/dear-google-you.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/08/29/taken-with-the.html",
@@ -3909,7 +3995,8 @@
 				"content_html": "<p>I am one of the many people who used and really liked the DarkSky weather app on Android. While the Android app is great, the main reason why I bought the premium subscription was for the Wear OS app. Now that Apple bought DarkSky and <a href=\"https://arstechnica.com/gadgets/2020/08/android-version-of-popular-dark-sky-weather-app-shuts-down/\">shutdown the Android app</a>, I&rsquo;ve lost the DarkSky app and complications on my watch.</p>\n\n<p>I switched to <a href=\"https://play.google.com/store/apps/details?id=com.accuweather.android&amp;hl=en_US\">the AccuWeather app</a> on my smartphone, but while it does have a Wear OS component, it is really bad in comparison to DarkSky and doesn&rsquo;t have complications. I am hoping AccuWeather beefs up the Wear OS app over time. The whole DarkSky aquisition by Apple was really disappointing.</p>\n",
 				"content_text": "I am one of the many people who used and really liked the DarkSky weather app on Android. While the Android app is great, the main reason why I bought the premium subscription was for the Wear OS app. Now that Apple bought DarkSky and [shutdown the Android app](https://arstechnica.com/gadgets/2020/08/android-version-of-popular-dark-sky-weather-app-shuts-down/), I've lost the DarkSky app and complications on my watch.\n\nI switched to [the AccuWeather app](https://play.google.com/store/apps/details?id=com.accuweather.android&hl=en_US) on my smartphone, but while it does have a Wear OS component, it is really bad in comparison to DarkSky and doesn't have complications. I am hoping AccuWeather beefs up the Wear OS app over time. The whole DarkSky aquisition by Apple was really disappointing.\n",
 				"date_published": "2020-08-04T14:02:41-04:00",
-				"url": "https://frankmcpherson.blog/2020/08/04/i-am-one.html"
+				"url": "https://frankmcpherson.blog/2020/08/04/i-am-one.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/08/04/today-is-a.html",
@@ -5088,7 +5175,8 @@
 				"content_html": "<p>I am very disappointed to learn that <a href=\"https://liliputing.com/2020/03/apple-acquires-weather-app-dark-sky-plans-to-shut-down-android-and-web-apps.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Liliputing+%28Liliputing%29\">Apple has acquired Dark Sky</a> and decided to discontinue it&rsquo;s Android application. I&rsquo;ve been a happy user of Dark Sky on my Android smartphone and Wear OS watch for several years, and find it to be the best weather app on Android. I I guess I will be seeking a replacement.</p>\n",
 				"content_text": "I am very disappointed to learn that [Apple has acquired Dark Sky](https://liliputing.com/2020/03/apple-acquires-weather-app-dark-sky-plans-to-shut-down-android-and-web-apps.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Liliputing+%28Liliputing%29) and decided to discontinue it's Android application. I've been a happy user of Dark Sky on my Android smartphone and Wear OS watch for several years, and find it to be the best weather app on Android. I I guess I will be seeking a replacement. \n",
 				"date_published": "2020-03-31T17:02:06-04:00",
-				"url": "https://frankmcpherson.blog/2020/03/31/i-am-very.html"
+				"url": "https://frankmcpherson.blog/2020/03/31/i-am-very.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/03/30/so-oakland-county.html",
@@ -6415,7 +6503,8 @@
 				"content_html": "<p><a href=\"https://www.slashgear.com/suunto-7-promises-a-wear-os-sports-smartwatch-with-12-hour-battery-life-06605499/\">Suunto 7 promises a Wear OS sports smartwatch with 12-hour battery life - SlashGear</a></p>\n\n<p>Nice to see an old <a href=\"https://gigaom.com/2013/09/03/what-microsoft-got-right-with-its-smartwatch-nearly-a-decade-ago-more-than-you-think/\">Microsoft SPOT</a> watch vendor still in the game.</p>\n",
 				"content_text": "[Suunto 7 promises a Wear OS sports smartwatch with 12-hour battery life - SlashGear](https://www.slashgear.com/suunto-7-promises-a-wear-os-sports-smartwatch-with-12-hour-battery-life-06605499/)\n\nNice to see an old [Microsoft SPOT](https://gigaom.com/2013/09/03/what-microsoft-got-right-with-its-smartwatch-nearly-a-decade-ago-more-than-you-think/) watch vendor still in the game. \n",
 				"date_published": "2020-01-06T23:45:17-04:00",
-				"url": "https://frankmcpherson.blog/2020/01/06/suunto-promises-a.html"
+				"url": "https://frankmcpherson.blog/2020/01/06/suunto-promises-a.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2020/01/06/nasa-how-were.html",
@@ -10029,7 +10118,8 @@
 				"content_html": "<p><a href=\"https://9to5google.com/2019/01/17/google-acquires-fossils-wear-os/\">Google&rsquo;s purchase</a> of smartwatch intellectual property from Fossil is interesting. I don&rsquo;t know if it is a harbinger of a Google watch but I find the statement that Google did the deal so that the IP will be available to all brands, interesting. If nothing else it affirms Google&rsquo;s commitment to Wear OS.</p>\n",
 				"content_text": "[Google's purchase](https://9to5google.com/2019/01/17/google-acquires-fossils-wear-os/) of smartwatch intellectual property from Fossil is interesting. I don't know if it is a harbinger of a Google watch but I find the statement that Google did the deal so that the IP will be available to all brands, interesting. If nothing else it affirms Google's commitment to Wear OS.\n",
 				"date_published": "2019-01-17T20:26:22-04:00",
-				"url": "https://frankmcpherson.blog/2019/01/17/googles-purchase-of.html"
+				"url": "https://frankmcpherson.blog/2019/01/17/googles-purchase-of.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2019/01/17/tomac-reports-that.html",
@@ -11055,7 +11145,8 @@
 				"content_html": "<p><a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/now/view/fossil-q-explorist\">Update regarding the freeze/resumption issue</a> I have been having ever since the Wear OS H update was installed on my watch. I&rsquo;ve turned off always on display and since doing that the symptom has not appeared.</p>\n",
 				"content_text": "[Update regarding the freeze/resumption issue](http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/now/view/fossil-q-explorist) I have been having ever since the Wear OS H update was installed on my watch. I've turned off always on display and since doing that the symptom has not appeared.\n",
 				"date_published": "2018-12-04T22:16:31-04:00",
-				"url": "https://frankmcpherson.blog/2018/12/04/update-regarding-the.html"
+				"url": "https://frankmcpherson.blog/2018/12/04/update-regarding-the.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/12/04/another-thing-to.html",
@@ -11145,7 +11236,8 @@
 				"content_html": "<p>Did a little more gardening today, <a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/every-day-carry/view/fossil-q-explorist\">updated the Fossil Q Explorist page</a> with an observation on what I think is triggering the freeze/long resumption issue the watch has had ever since installing the H update of Wear OS.</p>\n",
 				"content_text": "Did a little more gardening today, [updated the Fossil Q Explorist page](http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/every-day-carry/view/fossil-q-explorist) with an observation on what I think is triggering the freeze/long resumption issue the watch has had ever since installing the H update of Wear OS.\n",
 				"date_published": "2018-12-02T19:22:38-04:00",
-				"url": "https://frankmcpherson.blog/2018/12/02/232238.html"
+				"url": "https://frankmcpherson.blog/2018/12/02/232238.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/12/02/ford-field-has.html",
@@ -11250,7 +11342,8 @@
 				"content_html": "<p><a href=\"https://support.google.com/wearos/thread/639702?hl=en\">Wear OS H Update Problems</a></p>\n\n<p>Wear OS Update H installed on my watch two days ago. There appears to be a problem recovering from the new &ldquo;deep sleep&rdquo; / suspend mode. At intermittent times the watch appears to be unresponsive, basically it looks as though it is frozen after I attempt to wake it by either moving my arm, tapping the screen or pressing the crown. Eventually it does come back/recover, which leads me to suspect the watch has gone in to suspend/deep sleep and takes a long time to resume. I appreciate the idea of saving battery life by going into such a state, but the watch needs to recover much faster as right now it is a horrible user experience. Is anyone else seeing this? Is this a known problem with a fix in progress, or is there a way to disable this &ldquo;feature?&rdquo;</p>\n\n<p>I started to notice this behavior yesterday. I&rsquo;ve restarted the watch in hopes that might resolve. My fear is that this is a processor issue causing this watch to not be able to resume from this form of suspend fast enough.</p>\n",
 				"content_text": "[Wear OS H Update Problems](https://support.google.com/wearos/thread/639702?hl=en)\n\nWear OS Update H installed on my watch two days ago. There appears to be a problem recovering from the new \"deep sleep\" / suspend mode. At intermittent times the watch appears to be unresponsive, basically it looks as though it is frozen after I attempt to wake it by either moving my arm, tapping the screen or pressing the crown. Eventually it does come back/recover, which leads me to suspect the watch has gone in to suspend/deep sleep and takes a long time to resume. I appreciate the idea of saving battery life by going into such a state, but the watch needs to recover much faster as right now it is a horrible user experience. Is anyone else seeing this? Is this a known problem with a fix in progress, or is there a way to disable this \"feature?\"\n\nI started to notice this behavior yesterday. I've restarted the watch in hopes that might resolve. My fear is that this is a processor issue causing this watch to not be able to resume from this form of suspend fast enough.\n",
 				"date_published": "2018-11-28T11:31:57-04:00",
-				"url": "https://frankmcpherson.blog/2018/11/28/wear-os-h.html"
+				"url": "https://frankmcpherson.blog/2018/11/28/wear-os-h.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/11/28/the-american-economy.html",
@@ -11266,7 +11359,8 @@
 				"content_html": "<p><a href=\"https://support.google.com/wearos/thread/563800?hl=en\">The Wear OS &ldquo;H&rdquo; update</a> arrived on my Fossil Q Explorist yesterday. I am curious to see how much battery life improves. Apparently Google has added a deep sleep mode that kicks in after 30 minutes of no activity, but I am not sure how activity is defined.</p>\n",
 				"content_text": "[The Wear OS \"H\" update](https://support.google.com/wearos/thread/563800?hl=en) arrived on my Fossil Q Explorist yesterday. I am curious to see how much battery life improves. Apparently Google has added a deep sleep mode that kicks in after 30 minutes of no activity, but I am not sure how activity is defined.\n",
 				"date_published": "2018-11-27T11:50:04-04:00",
-				"url": "https://frankmcpherson.blog/2018/11/27/the-wear-os.html"
+				"url": "https://frankmcpherson.blog/2018/11/27/the-wear-os.html",
+				"tags": ["Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/11/27/fortran-is-still.html",
@@ -12154,7 +12248,7 @@
 				"content_text": "I think the smart watch market is fascinating. On one hand you have Apple, with one design and software innovation and on the other hand you have a multitude of watch designers producing a variety of different looking watches at different price points using comparatively mediocre Wear OS. It also highlights the advantage of designing your own chips because Wear OS has been constrained by slow chip development by Qualcomm. \n\nBTW, if one is in the market for a Wear OS watch, wait until when watches with the new chips release later this year, early next. I know a number of new watches are being released to coincide with the new version of Wear OS coming next month, but I expect the new chip to provide better battery life and processing for the future. \n",
 				"date_published": "2018-09-15T17:55:34-04:00",
 				"url": "https://frankmcpherson.blog/2018/09/15/keep-an-eye.html",
-				"tags": ["Essays"]
+				"tags": ["Essays","Wear OS"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2018/09/14/i-am-wearing.html",
@@ -12370,6 +12464,24 @@
 				"content_text": "Did a little more investigation into [the watch face that Fossil \"pushed\" to my smart watch last weekend](https://frankmcpherson.blog/2018/04/22/i-got-a.html). What happens is, you receive a notification saying that you \"unlocked\" a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each \"new face\" as it is updating one face that is designed for different appearances, which in reality is how all faces work. \n\nI am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.\n",
 				"date_published": "2018-04-25T09:27:04-04:00",
 				"url": "https://frankmcpherson.blog/2018/04/25/did-a-little.html",
+				"tags": ["Wear OS"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2018/04/22/i-got-a.html",
+				
+				"content_html": "<p>I got a Fossil Explorist Q, which is a Wear OS smart watch, for my birthday. Today Fossil pushed a face, commemorating Earth Day, to my watch, which was unexpected. Now I am curious to learn what other faces Fossil will push. I think this is a nice <a href=\"https://en.m.wikipedia.org/wiki/Easter_egg_(media)\">Easter egg</a>.</p>\n",
+				"content_text": "I got a Fossil Explorist Q, which is a Wear OS smart watch, for my birthday. Today Fossil pushed a face, commemorating Earth Day, to my watch, which was unexpected. Now I am curious to learn what other faces Fossil will push. I think this is a nice [Easter egg](https://en.m.wikipedia.org/wiki/Easter_egg_(media)). \n",
+				"date_published": "2018-04-22T15:35:42-04:00",
+				"url": "https://frankmcpherson.blog/2018/04/22/i-got-a.html",
+				"tags": ["Wear OS"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2018/04/19/everything-restored-on.html",
+				
+				"content_html": "<p>Everything restored on the Pixel 2 except for the Android Wear settings, so now I have to factory reset my watches and completely reconfigure them to manage them in the Wear OS  app. What an awful user experience.</p>\n",
+				"content_text": "Everything restored on the Pixel 2 except for the Android Wear settings, so now I have to factory reset my watches and completely reconfigure them to manage them in the Wear OS  app. What an awful user experience. \n",
+				"date_published": "2018-04-19T13:45:41-04:00",
+				"url": "https://frankmcpherson.blog/2018/04/19/everything-restored-on.html",
 				"tags": ["Wear OS"]
 			},
 			{
