@@ -7,6 +7,92 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/08/13/google-wear-is.html",
+				"title": "Google Wear Is A Hot Mess",
+				"content_html": "<p>Google Wear OS is a hot mess. During Google I/O earlier this year I got the impression that due to the partnership between Google and Samsung the pending Galaxy Watch 4 would be more in line with standard Wear OS watches. Given that it appears the Samsung watches will be the only ones to get Wear OS 3 this year, I was considering buying one.</p>\n\n<p>However, as I read more reviews about the Galaxy watches I am becoming less likely to buy one. <a href=\"https://www.tomsguide.com/news/samsung-galaxy-watch-4-is-missing-this-killer-feature-at-launch\">First I read</a> that Google Assistant is not preinstalled. <a href=\"https://9to5google.com/2021/08/11/galaxy-watch-4-pairing-process-wear-os/\">Next I read</a> that the watches don&rsquo;t easily pair with non-Samsung phones, nor work the the Android Wear OS app.</p>\n\n<p>Amazingly, it looks like there will not be a serious Wear OS watch to buy in 2021, and there wasn&rsquo;t one last year. It feels like Google has or should just give up. As the Fossil Sport I have been wearing is getting more finicky, I am contemplating my next step. Buy a <a href=\"https://www.mobvoi.com/us/pages/ticwatche3\">Mobvoi</a> that is expected to be the first to get Wear OS 3 next year, or dump Wear OS altogether and buy a Fitbit?</p>\n\n<p>What&rsquo;s worse are suggestions that Wear OS 3 may not work best on the Qualcomm 4100 chip in the Mobvoi, the chip that is the next generation smart watch chip from Qualcomm. What the heck?</p>\n\n<p>Hot mess indeed</p>\n",
+				"content_text": "Google Wear OS is a hot mess. During Google I/O earlier this year I got the impression that due to the partnership between Google and Samsung the pending Galaxy Watch 4 would be more in line with standard Wear OS watches. Given that it appears the Samsung watches will be the only ones to get Wear OS 3 this year, I was considering buying one. \n\nHowever, as I read more reviews about the Galaxy watches I am becoming less likely to buy one. [First I read](https://www.tomsguide.com/news/samsung-galaxy-watch-4-is-missing-this-killer-feature-at-launch) that Google Assistant is not preinstalled. [Next I read](https://9to5google.com/2021/08/11/galaxy-watch-4-pairing-process-wear-os/) that the watches don't easily pair with non-Samsung phones, nor work the the Android Wear OS app. \n\nAmazingly, it looks like there will not be a serious Wear OS watch to buy in 2021, and there wasn't one last year. It feels like Google has or should just give up. As the Fossil Sport I have been wearing is getting more finicky, I am contemplating my next step. Buy a [Mobvoi](https://www.mobvoi.com/us/pages/ticwatche3) that is expected to be the first to get Wear OS 3 next year, or dump Wear OS altogether and buy a Fitbit? \n\nWhat's worse are suggestions that Wear OS 3 may not work best on the Qualcomm 4100 chip in the Mobvoi, the chip that is the next generation smart watch chip from Qualcomm. What the heck? \n\nHot mess indeed\n",
+				"date_published": "2021-08-13T11:58:36-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/13/google-wear-is.html",
+				"tags": ["Essays","Wear OS"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/13/if-youre-vaccinated.html",
+				
+				"content_html": "<p>&ldquo;If you’re vaccinated, you did the best thing you can do, and there’s no reason to feel pessimistic,” Inci Yildirim, a vaccinologist and pediatric infectious-disease expert at Yale, told me. “You’re safer. But you will need to think about how safe you want people around you to be.” <a href=\"https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/\">source</a></p>\n\n<p>A virus that does not discriminate and a egocentric country/society is a match made in Heaven, if you are a virus.</p>\n",
+				"content_text": "\"If you’re vaccinated, you did the best thing you can do, and there’s no reason to feel pessimistic,” Inci Yildirim, a vaccinologist and pediatric infectious-disease expert at Yale, told me. “You’re safer. But you will need to think about how safe you want people around you to be.” [source](https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/)\n\nA virus that does not discriminate and a egocentric country/society is a match made in Heaven, if you are a virus. \n",
+				"date_published": "2021-08-13T10:29:40-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/13/if-youre-vaccinated.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/13/one-of-my.html",
+				
+				"content_html": "<p>&ldquo;One of my perennial complaints about the current crop of “tools for thought” has been that most of them aren’t really about thinking per se, just about improving memory. We can take down information into apps like Roam Research or Notion and recall them easily later, but it’s an overstatement to call them tools for thought. Recollection is such a small, basic part of thinking! &rdquo; &ndash; <a href=\"https://thesephist.com/posts/browser/\">Linus Lee</a></p>\n\n<p>I think people who actually apply zettlekasten using their tool of choice may be using the tool for thought, but I am not one of those people. My &ldquo;second brain&rdquo; is more like non-volatile RAM.</p>\n",
+				"content_text": "\"One of my perennial complaints about the current crop of “tools for thought” has been that most of them aren’t really about thinking per se, just about improving memory. We can take down information into apps like Roam Research or Notion and recall them easily later, but it’s an overstatement to call them tools for thought. Recollection is such a small, basic part of thinking! \" -- [Linus Lee](https://thesephist.com/posts/browser/)\n\nI think people who actually apply zettlekasten using their tool of choice may be using the tool for thought, but I am not one of those people. My \"second brain\" is more like non-volatile RAM.  \n",
+				"date_published": "2021-08-13T09:55:47-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/13/one-of-my.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/13/apparently-i-misunderstood.html",
+				
+				"content_html": "<p>Apparently I misunderstood and the beta of Android 12 that I installed is <a href=\"https://www.xda-developers.com/android-12-beta-4/\">not the last beta</a>. None the less, so far it has been stable for me.</p>\n",
+				"content_text": "Apparently I misunderstood and the beta of Android 12 that I installed is [not the last beta](https://www.xda-developers.com/android-12-beta-4/). None the less, so far it has been stable for me. \n",
+				"date_published": "2021-08-13T09:42:15-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/13/apparently-i-misunderstood.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/12/first-impressions-of.html",
+				"title": "First Impressions Of Android 12",
+				"content_html": "<p>Yesterday Google released the final user beta for Android 12, and as I did since version 10, I have installed it on my <a href=\"https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/pixel-4a\">Pixel 4a</a>. First thing I looked for is how the new UI colors and fonts look and I found that to really see that you need to be in light mode rather than dark mode. I&rsquo;ve been using dark mode full time with <a href=\"https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/android-11\">Android 11</a>.</p>\n\n<p>I did the update late last night so one of the new features I experienced first is the update to the ambient display, the larger clock display is handy at night when I wake up and want to see the time.</p>\n\n<p>I think I like the changes to the notification shade but the larger quick setting buttons look off. Everything in the UI seems larger, which I appreciate.</p>\n\n<p>One other change I looked forward to is the use of the power button to activate Google Assistant, which you have to specifically configure in settings. I disable &ldquo;Hey Google&rdquo; mostly to save battery life, but also because I find I don&rsquo;t use it very much. Wish Google would add a gesture to the fingerprint scanner in which if I press and hold the phone would unlock and activate Assistant. If I just tap the scanner the unlock the phone, if I keep my finger in the scanner then unlock and activate assistant.</p>\n",
+				"content_text": "Yesterday Google released the final user beta for Android 12, and as I did since version 10, I have installed it on my [Pixel 4a](https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/pixel-4a). First thing I looked for is how the new UI colors and fonts look and I found that to really see that you need to be in light mode rather than dark mode. I've been using dark mode full time with [Android 11](https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/android-11). \n\nI did the update late last night so one of the new features I experienced first is the update to the ambient display, the larger clock display is handy at night when I wake up and want to see the time. \n\nI think I like the changes to the notification shade but the larger quick setting buttons look off. Everything in the UI seems larger, which I appreciate. \n\nOne other change I looked forward to is the use of the power button to activate Google Assistant, which you have to specifically configure in settings. I disable \"Hey Google\" mostly to save battery life, but also because I find I don't use it very much. Wish Google would add a gesture to the fingerprint scanner in which if I press and hold the phone would unlock and activate Assistant. If I just tap the scanner the unlock the phone, if I keep my finger in the scanner then unlock and activate assistant. \n",
+				"date_published": "2021-08-12T11:35:25-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/12/first-impressions-of.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/12/ive-lived-in.html",
+				
+				"content_html": "<p>I&rsquo;ve lived in Michigan all of my life, the last 30+ years in southeast Michigan, and I can&rsquo;t remember a summer with so many thunderstorms. It seems like since July we have had storms several days each week, many with high winds and lots of rain to blow down trees, take out power lines, and cause flooding. Last night there were near constant storms from midnight to 7 AM.</p>\n",
+				"content_text": "I've lived in Michigan all of my life, the last 30+ years in southeast Michigan, and I can't remember a summer with so many thunderstorms. It seems like since July we have had storms several days each week, many with high winds and lots of rain to blow down trees, take out power lines, and cause flooding. Last night there were near constant storms from midnight to 7 AM. \n",
+				"date_published": "2021-08-12T10:43:37-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/12/ive-lived-in.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/11/summer-in-michigan.html",
+				
+				"content_html": "<p>Summer in Michigan. Even with 85% humidity it’s not too bad sitting in the shade if there is a nice breeze.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/6c7e1e5f40.png\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Summer in Michigan. Even with 85% humidity it’s not too bad sitting in the shade if there is a nice breeze. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/6c7e1e5f40.png\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-11T11:16:41-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/11/summer-in-michigan.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/11/yesterday-we-went.html",
+				
+				"content_html": "<p>Yesterday we went to the beach in Port Huron, Michigan. Living in Michigan all my life means I’ve never been more than an hour away from a Great Lake. You know a Great Lake by the fact you only see water and some times really big boats.</p>\n\n<p><img src=\"uploads/2021/4bd55ed315.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yesterday we went to the beach in Port Huron, Michigan. Living in Michigan all my life means I’ve never been more than an hour away from a Great Lake. You know a Great Lake by the fact you only see water and some times really big boats. \n\n\n\n<img src=\"uploads/2021/4bd55ed315.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-11T11:01:09-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/11/yesterday-we-went.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/07/the-most-important.html",
+				
+				"content_html": "<p>The most important civics lesson, most important history lesson, and the most important sociology lesson about the United States is that the United States is only 245 years old. In comparison to the World, we are two years old. In comparison to the Universe, we have just been conceived. Not acknowledging our youth, thinking we know it all, that we are &ldquo;great&rdquo; is our downfall. It is our undoing, and nothing is permanent.</p>\n",
+				"content_text": "The most important civics lesson, most important history lesson, and the most important sociology lesson about the United States is that the United States is only 245 years old. In comparison to the World, we are two years old. In comparison to the Universe, we have just been conceived. Not acknowledging our youth, thinking we know it all, that we are \"great\" is our downfall. It is our undoing, and nothing is permanent. \n",
+				"date_published": "2021-08-07T14:17:30-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/07/the-most-important.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/08/07/something-was-going.html",
+				"title": "Something Was Going On In Japan",
+				"content_html": "<p>The summer Olympic are nearly done and I really didn’t watch it much. I think a big part of the problem was the time difference and the Internet providing the results. What I will remember from these Olympics, however, is how dangerous is gymnastics. Too much was written about Simone Biles’ “mental health” in a way suggesting what she was experiencing was “just” emotions. The problem was much more dire, the alignment of brain and body so that she lands on her feet and not her head.</p>\n\n<p>Humans are not cats. Search for why cats land on their feet. If you ever had vertigo or just got dizzy, imagine that disorientation while spinning upside down ten feet in the air.</p>\n",
+				"content_text": "The summer Olympic are nearly done and I really didn’t watch it much. I think a big part of the problem was the time difference and the Internet providing the results. What I will remember from these Olympics, however, is how dangerous is gymnastics. Too much was written about Simone Biles’ “mental health” in a way suggesting what she was experiencing was “just” emotions. The problem was much more dire, the alignment of brain and body so that she lands on her feet and not her head. \n\nHumans are not cats. Search for why cats land on their feet. If you ever had vertigo or just got dizzy, imagine that disorientation while spinning upside down ten feet in the air. \n",
+				"date_published": "2021-08-07T10:57:41-04:00",
+				"url": "https://frankmcpherson.blog/2021/08/07/something-was-going.html",
+				"tags": ["Sports","Essays"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/08/06/currently-reading-in.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781444791709\">In the Shelter: Finding a Home in the World</a> by Pádraig Ó Tuama 📚</p>\n",
@@ -25,8 +111,8 @@
 			{
 				"id": "http://frankm.micro.blog/2021/08/02/mother-earth-is.html",
 				
-				"content_html": "<p>Mother Earth is providing glorious weather in Michigan to start the month of August.</p>\n\n<p><img src=\"uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Mother Earth is providing glorious weather in Michigan to start the month of August. \n\n\n\n<img src=\"uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Mother Earth is providing glorious weather in Michigan to start the month of August.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mother Earth is providing glorious weather in Michigan to start the month of August. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/b1397848dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-02T19:55:01-04:00",
 				"url": "https://frankmcpherson.blog/2021/08/02/mother-earth-is.html"
 			},
