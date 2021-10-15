@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/10/15/note-that-with.html",
+				
+				"content_html": "<p>Note that with micro.blog, everything I post is cross-posted to Twitter. With Drummer I can select <a href=\"http://oldschool.scripting.com/frankm/2021/10/15.html#a130231\">specific posts</a> to cross-post to Twitter. At this point I am not sure if one way is significantly better than the other. What I really want is an application that acts for me like a switchboard where I can specific to which channels I want an item posted. I can post to micro.blog from eternal apps, but there is no API with Old School to enable the same. Those who read Dave should see some irony in this fact.</p>\n",
+				"content_text": "Note that with micro.blog, everything I post is cross-posted to Twitter. With Drummer I can select [specific posts](http://oldschool.scripting.com/frankm/2021/10/15.html#a130231) to cross-post to Twitter. At this point I am not sure if one way is significantly better than the other. What I really want is an application that acts for me like a switchboard where I can specific to which channels I want an item posted. I can post to micro.blog from eternal apps, but there is no API with Old School to enable the same. Those who read Dave should see some irony in this fact.\n",
+				"date_published": "2021-10-15T09:15:18-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/15/note-that-with.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/12/dave-has-provided.html",
+				
+				"content_html": "<p>Dave has provided code to publish content you write in Drummer to an AWS S3 bucket. It&rsquo;s not clear yet to me how it&rsquo;s expected for the content to be served, S3 configured as web server or via pagePark. Either way, I think the existence of <a href=\"https://github.com/scripting/drummerCms\">drummerCms</a> is good news.</p>\n",
+				"content_text": "Dave has provided code to publish content you write in Drummer to an AWS S3 bucket. It's not clear yet to me how it's expected for the content to be served, S3 configured as web server or via pagePark. Either way, I think the existence of [drummerCms](https://github.com/scripting/drummerCms) is good news.\n",
+				"date_published": "2021-10-12T17:35:46-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/12/dave-has-provided.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/12/the-first-phone.html",
+				
+				"content_html": "<p>The first phone running Android sold in the United States was the T-Mobile G1, <a href=\"https://www.google.com/search?q=when+did+the+t-mobile+g1+come+out&amp;oq=when+did+the+t-mobile+g1+&amp;aqs=chrome.1.69i57j33i160l2j33i299.11087j0j7&amp;sourceid=chrome&amp;ie=UTF-8\">first sold on October 22, 2008</a>. The HTC version began selling a month earlier. I bought the phone shortly after launch and I am surprised that I did not write about the initial purchase. My <a href=\"https://fjmnotes.com/2008/11/23/g1-catch-up/\">first blog post about the G1 and Android</a> was on November 23, 2008.</p>\n",
+				"content_text": "The first phone running Android sold in the United States was the T-Mobile G1, [first sold on October 22, 2008](https://www.google.com/search?q=when+did+the+t-mobile+g1+come+out&oq=when+did+the+t-mobile+g1+&aqs=chrome.1.69i57j33i160l2j33i299.11087j0j7&sourceid=chrome&ie=UTF-8). The HTC version began selling a month earlier. I bought the phone shortly after launch and I am surprised that I did not write about the initial purchase. My [first blog post about the G1 and Android](https://fjmnotes.com/2008/11/23/g1-catch-up/) was on November 23, 2008.\n",
+				"date_published": "2021-10-12T09:34:16-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/12/the-first-phone.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/12/taking-a-walk.html",
+				
+				"content_html": "<p>Taking a walk down memory lane. Found a picture of <a href=\"https://www.seidioonline.com/ProductDetails_ProductCode_BACY26TMG1-BK/\">the huge battery pack</a> that I used with the T-Mobile G1 in order for the phone to last through the day.</p>\n",
+				"content_text": "Taking a walk down memory lane. Found a picture of [the huge battery pack](https://www.seidioonline.com/ProductDetails_ProductCode_BACY26TMG1-BK/) that I used with the T-Mobile G1 in order for the phone to last through the day.\n",
+				"date_published": "2021-10-12T09:20:51-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/12/taking-a-walk.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/11/to-me-drummer.html",
+				
+				"content_html": "<p>To me <a href=\"http://drummer.scripting.com\">Drummer</a> is the next version of <a href=\"http://fargo.io/\">Fargo</a>, but that is only relevant to people like me who used Fargo. One enters and manages content in an outline, which has the same UI as <a href=\"http://littleoutliner.com\">Little Outliner</a>. One can use Drummer to create and maintain a blog that is generated (published) based on a OPML file and a CSS, Javascript and HTML template. Hosting of the front end Editor and backed publisher and web content is currently being provided by Dave Winer, who is the application developer.</p>\n\n<p>One can associate a unique URL to the location where the generated blog content is stored using <a href=\"http://scripting.com/drummer/blog/2021/10/11/135025.html?title=pageparkBuildsAgain\">PagePark</a>. In this instance PagePark is basically acting as a reverse proxy, none of your content is stored on your own server.</p>\n\n<p>Dave does provide Mac version of the Drummer front end that is based on Electron. He may provide Windows and Linux versions of the app. The Electron version of the app will enable you to store and edit your source content OPML files on your own computer, but from what I can tell the published content will still be hosted on Dave&rsquo;s server.</p>\n\n<p>From what I have read, the desktop version of Drummer is intended to be near to or equal to the OPML Editor. For my purposes it is most desirable to have the desktop version of this application.</p>\n\n<p>Final note, a check of the source to the HTML file of the blog shows that nearly all of the &ldquo;script src&rdquo; tags have been changed and it looks like if one hosts PagePark on a server/container that supports HTTPS you might have success in accessing the blog via HTTPs.</p>\n\n<p>My Drummer blog is at <a href=\"http://oldschool.scripting.com/frankm/.\">oldschool.scripting.com/frankm/.</a></p>\n",
+				"content_text": "To me [Drummer](http://drummer.scripting.com) is the next version of [Fargo](http://fargo.io/), but that is only relevant to people like me who used Fargo. One enters and manages content in an outline, which has the same UI as [Little Outliner](http://littleoutliner.com). One can use Drummer to create and maintain a blog that is generated (published) based on a OPML file and a CSS, Javascript and HTML template. Hosting of the front end Editor and backed publisher and web content is currently being provided by Dave Winer, who is the application developer.\n\nOne can associate a unique URL to the location where the generated blog content is stored using [PagePark](http://scripting.com/drummer/blog/2021/10/11/135025.html?title=pageparkBuildsAgain). In this instance PagePark is basically acting as a reverse proxy, none of your content is stored on your own server.\n\nDave does provide Mac version of the Drummer front end that is based on Electron. He may provide Windows and Linux versions of the app. The Electron version of the app will enable you to store and edit your source content OPML files on your own computer, but from what I can tell the published content will still be hosted on Dave's server.\n\nFrom what I have read, the desktop version of Drummer is intended to be near to or equal to the OPML Editor. For my purposes it is most desirable to have the desktop version of this application.\n\nFinal note, a check of the source to the HTML file of the blog shows that nearly all of the \"script src\" tags have been changed and it looks like if one hosts PagePark on a server/container that supports HTTPS you might have success in accessing the blog via HTTPs. \n\nMy Drummer blog is at [oldschool.scripting.com/frankm/.](http://oldschool.scripting.com/frankm/.) \n",
+				"date_published": "2021-10-11T15:11:00-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/11/to-me-drummer.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/08/i-will-try.html",
+				
+				"content_html": "<p>I will try <a href=\"http://scripting.com/2021/10/07.html\">Drummer</a>. Two things I am interested to learn, one is how is the backend hosting handled the other is the level of integration with Radio3.  I do think it&rsquo;s disappointing that this is another, new blogging platform that does not support HTTPS. While theew is the appearance of fighting &ldquo;the man&rdquo; (Google) the reality is soon it will become harder for users to read what is published to this platform because ALL major browsers will make it harder for users to access sites that don&rsquo;t use HTTPS. The sad thing is that at this point it is much easier to support HTTPS so don&rsquo;t real there is a real good excuse for not doing it.</p>\n",
+				"content_text": "I will try [Drummer](http://scripting.com/2021/10/07.html). Two things I am interested to learn, one is how is the backend hosting handled the other is the level of integration with Radio3.  I do think it's disappointing that this is another, new blogging platform that does not support HTTPS. While theew is the appearance of fighting \"the man\" (Google) the reality is soon it will become harder for users to read what is published to this platform because ALL major browsers will make it harder for users to access sites that don't use HTTPS. The sad thing is that at this point it is much easier to support HTTPS so don't real there is a real good excuse for not doing it. \n",
+				"date_published": "2021-10-08T09:31:28-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/08/i-will-try.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/10/06/i-find-it.html",
+				
+				"content_html": "<p>I find it interesting that there is a resurgence of tablets running Android, with <a href=\"https://arstechnica.com/gadgets/2021/10/nokia-t20-is-a-250-10-4-inch-android-tablet-with-a-big-battery/?utm_source=pocket_mylist\">Nokia being the latest announcement</a>. My guess is that this is a reaction to the pandemic, but will they sell?</p>\n",
+				"content_text": "I find it interesting that there is a resurgence of tablets running Android, with [Nokia being the latest announcement](https://arstechnica.com/gadgets/2021/10/nokia-t20-is-a-250-10-4-inch-android-tablet-with-a-big-battery/?utm_source=pocket_mylist). My guess is that this is a reaction to the pandemic, but will they sell? \n",
+				"date_published": "2021-10-06T14:39:22-04:00",
+				"url": "https://frankmcpherson.blog/2021/10/06/i-find-it.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/10/06/new-york-yankees.html",
 				
 				"content_html": "<p><a href=\"https://nypost.com/2021/10/06/the-yankees-con-is-finally-up-after-wild-card-loss-sherman/?utm_source=pocket_mylist\">New York Yankees seem to have the same problems</a> the Chicago Cubs had since 2016. Most likely they won&rsquo;t admit to following the wrong formula of have too much of the same in their lineup. Maybe a trade of Judge to the Cubs next year?</p>\n",
@@ -43,8 +100,8 @@
 			{
 				"id": "http://frankm.micro.blog/2021/10/02/when-i-think.html",
 				
-				"content_html": "<p>When I think of Michigan, fall is the season that first comes to mind. As a life long Michigander, I also know that on nice fall days you got to get outside, because winter is coming.</p>\n\n<p><img src=\"uploads/2021/ec5ee33a09.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "When I think of Michigan, fall is the season that first comes to mind. As a life long Michigander, I also know that on nice fall days you got to get outside, because winter is coming. \n\n\n\n<img src=\"uploads/2021/ec5ee33a09.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>When I think of Michigan, fall is the season that first comes to mind. As a life long Michigander, I also know that on nice fall days you got to get outside, because winter is coming.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/ec5ee33a09.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "When I think of Michigan, fall is the season that first comes to mind. As a life long Michigander, I also know that on nice fall days you got to get outside, because winter is coming. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/ec5ee33a09.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-02T11:16:09-04:00",
 				"url": "https://frankmcpherson.blog/2021/10/02/when-i-think.html"
 			},
