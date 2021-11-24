@@ -7,6 +7,90 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/11/24/today-i-am.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/on-this-day/\">Today</a> I am reminded of the awesomeness of the Internet. Two, sites worth bookmarking: <a href=\"https://lookslikeyouneediceland.com/\">screaming in Iceland</a> and <a href=\"https://www.window-swap.com/\">WindowSwap</a>. You are welcome!</p>\n",
+				"content_text": "<a href=\"https://frankmcpherson.blog/on-this-day/\">Today</a> I am reminded of the awesomeness of the Internet. Two, sites worth bookmarking: <a href=\"https://lookslikeyouneediceland.com/\">screaming in Iceland</a> and <a href=\"https://www.window-swap.com/\">WindowSwap</a>. You are welcome!\n",
+				"date_published": "2021-11-24T09:08:23-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/24/today-i-am.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/22/wondering-what-is.html",
+				
+				"content_html": "<p>Wondering what is the best browser to use on my new Macbook Air? My normal primary browser is Chrome and that serves me well except for one small issue with selecting text in Drummer and Little Outliner. In Chrome I can&rsquo;t select text with the mouse in these apps after a period of time. Does the same problem exist with Firefox? So far, it doesn&rsquo;t, which already makes it better!</p>\n",
+				"content_text": "Wondering what is the best browser to use on my new Macbook Air? My normal primary browser is Chrome and that serves me well except for one small issue with selecting text in Drummer and Little Outliner. In Chrome I can't select text with the mouse in these apps after a period of time. Does the same problem exist with Firefox? So far, it doesn't, which already makes it better!\n",
+				"date_published": "2021-11-22T14:56:27-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/22/wondering-what-is.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/22/the-michigan-panthers.html",
+				
+				"content_html": "<p>The <a href=\"https://www.clickondetroit.com/sports/2021/11/22/michigan-panthers-to-return-in-usfl-reboot-in-2022/?breaking_news=2941&amp;utm_content=25794610&amp;utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=Breaking%20News%20Alert&amp;utm_term=wdiv_breaking\">Michigan Panthers are back</a>?  The only Michigan professional football team to win a championship.</p>\n",
+				"content_text": "The [Michigan Panthers are back](https://www.clickondetroit.com/sports/2021/11/22/michigan-panthers-to-return-in-usfl-reboot-in-2022/?breaking_news=2941&utm_content=25794610&utm_source=Sailthru&utm_medium=email&utm_campaign=Breaking%20News%20Alert&utm_term=wdiv_breaking)?  The only Michigan professional football team to win a championship. \n",
+				"date_published": "2021-11-22T14:31:46-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/22/the-michigan-panthers.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/22/finished-reading-sinners.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781601429513\">Sinners in the Hands of a Loving God: The Scandalous Truth of the Very Good News</a> by Brian Zahnd 📚</p>\n\n<p>The title is intended to be a direct counter to <a href=\"https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God\">Jonathan Edward’s sermon, Sinners in the Hands of an Angry God</a>. For me the best chapters of this book are the ones that put Revelation in proper context as revealing a loving God.</p>\n",
+				"content_text": "Finished reading: [Sinners in the Hands of a Loving God: The Scandalous Truth of the Very Good News](https://micro.blog/books/9781601429513) by Brian Zahnd 📚\n\nThe title is intended to be a direct counter to [Jonathan Edward’s sermon, Sinners in the Hands of an Angry God](https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God). For me the best chapters of this book are the ones that put Revelation in proper context as revealing a loving God. \n",
+				"date_published": "2021-11-22T12:10:00-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/22/finished-reading-sinners.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/22/microblog-bookshelves-issue.html",
+				"title": "Micro.blog Bookshelves Issue",
+				"content_html": "<p>Update: The issue below has <a href=\"https://frankmcpherson.blog/finished-reading/\">been resolved</a>.</p>\n\n<p>Today I tried to move a book listed in micro.blog bookshelves that I was currently reading to finished, but when I clicked “Move To Finished” the book was removed from the currently reading list and not added to finished. I do notice that <a href=\"https://micro.blog/books/9781601429513\">the book title</a> still appears in <a href=\"https://frankmcpherson.blog/reading/\">the rendered version of the reading list</a> on my blog. I then tried to manually add the book to Finished and it doesn’t appear. I also tried re-adding to Current Reading and it is not adding their either. Something appears to fundamentally not be working for the moment. Reported to help@micro.blog.</p>\n",
+				"content_text": "Update: The issue below has [been resolved](https://frankmcpherson.blog/finished-reading/).\n\nToday I tried to move a book listed in micro.blog bookshelves that I was currently reading to finished, but when I clicked “Move To Finished” the book was removed from the currently reading list and not added to finished. I do notice that [the book title](https://micro.blog/books/9781601429513) still appears in [the rendered version of the reading list](https://frankmcpherson.blog/reading/) on my blog. I then tried to manually add the book to Finished and it doesn’t appear. I also tried re-adding to Current Reading and it is not adding their either. Something appears to fundamentally not be working for the moment. Reported to help@micro.blog. \n",
+				"date_published": "2021-11-22T10:35:00-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/22/microblog-bookshelves-issue.html",
+				"tags": ["Books","Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/21/still-think-that.html",
+				
+				"content_html": "<p>Still think that replay should stop play and make calls on hits to the head in the NFL. In the last 10 minutes of the game tonight there have been two calls the refs have missed. Hits to the head is a player safety issue that the NFL should make maximum effort to get out of the game. Fines after the fact doesn&rsquo;t do the job. The NFL needs to follow the NCAA&rsquo;s lead in this, and frankly should be open to law suits from former players.</p>\n",
+				"content_text": "Still think that replay should stop play and make calls on hits to the head in the NFL. In the last 10 minutes of the game tonight there have been two calls the refs have missed. Hits to the head is a player safety issue that the NFL should make maximum effort to get out of the game. Fines after the fact doesn't do the job. The NFL needs to follow the NCAA's lead in this, and frankly should be open to law suits from former players. \n",
+				"date_published": "2021-11-21T23:18:54-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/21/still-think-that.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/21/the-pitfall-of.html",
+				
+				"content_html": "<p>The pitfall of playing in two fantasy football leagues: having your point leader (Jonathan Taylor) in one league leading your opposition in the other. Time to rest Taylor. :)</p>\n",
+				"content_text": "The pitfall of playing in two fantasy football leagues: having your point leader (Jonathan Taylor) in one league leading your opposition in the other. Time to rest Taylor. :) \n",
+				"date_published": "2021-11-21T15:16:46-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/21/the-pitfall-of.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/19/i-am-still.html",
+				
+				"content_html": "<p>I am still feeling my way around macOS and the applications I can use. I&rsquo;ve been using <a href=\"https://getdrafts.com/\">Drafts</a> on the iPad, so I installed the macOS version. One way I use Drafts is to write posts to my blog, the version on the iPad is all set with the authentication tokens it needs to make the post. So, I wondered what would happen when I tried to run the Post To Micro.blog action on the Mac? It just worked! I was expecting to have to set up a new authentication token before it would post, but I was wrong. So nice!</p>\n",
+				"content_text": "I am still feeling my way around macOS and the applications I can use. I've been using [Drafts](https://getdrafts.com/) on the iPad, so I installed the macOS version. One way I use Drafts is to write posts to my blog, the version on the iPad is all set with the authentication tokens it needs to make the post. So, I wondered what would happen when I tried to run the Post To Micro.blog action on the Mac? It just worked! I was expecting to have to set up a new authentication token before it would post, but I was wrong. So nice! \n",
+				"date_published": "2021-11-19T11:10:29-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/19/i-am-still.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/19/zeynep-tufekci-what.html",
+				
+				"content_html": "<p>Zeynep Tufekci, <a href=\"https://www.nytimes.com/2021/11/18/opinion/covid-winter-risk.html\">What Happens After the Worst of the Pandemic Is Behind Us?</a></p>\n\n<blockquote>\n<p>In her book “March of Folly,” the historian Barbara Tuchman describes civilizations that collapsed not because of insurmountable challenges but because “wooden-headedness” took over: Those in charge were unable to muster the will and vision to make the necessary course corrections in the face of difficulties.</p>\n</blockquote>\n",
+				"content_text": "Zeynep Tufekci, [What Happens After the Worst of the Pandemic Is Behind Us?](https://www.nytimes.com/2021/11/18/opinion/covid-winter-risk.html)\n\n> In her book “March of Folly,” the historian Barbara Tuchman describes civilizations that collapsed not because of insurmountable challenges but because “wooden-headedness” took over: Those in charge were unable to muster the will and vision to make the necessary course corrections in the face of difficulties.\n",
+				"date_published": "2021-11-19T11:03:43-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/19/zeynep-tufekci-what.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/11/17/covid-defenses-in.html",
+				
+				"content_html": "<p>COVID-19 defenses in my body were boosted yesterday. Feeling nearly the same immune response I felt after shot #2, which is an odd comfort.</p>\n",
+				"content_text": "COVID-19 defenses in my body were boosted yesterday. Feeling nearly the same immune response I felt after shot #2, which is an odd comfort. \n",
+				"date_published": "2021-11-17T11:16:08-05:00",
+				"url": "https://frankmcpherson.blog/2021/11/17/covid-defenses-in.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/11/16/comparing-the-battery.html",
 				
 				"content_html": "<p>Comparing the battery life of my Pixel 4a to the Pixel 2 back when I made note of it <a href=\"http://writing.frankmcpherson.org/2017/11/17/pixel2BatteryLife.html\">four years ago</a>. Screen on is still at 5 hours, but screen off increased from 36 hours to 45 hours and combined increased from 26 hours to 36 hours. Obvious the combined hours is influenced by the increase in screen off and the screen off reflects the operating system optimizations. Screen on time tells me little has changed in screen power consumption.</p>\n",
