@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/12/16/from-two-years.html",
+				
+				"content_html": "<p>From <a href=\"https://frankmcpherson.blog/2019/12/16/the-truth-about.html\">two years</a> ago:</p>\n\n<blockquote>\n<p>My constantly saying that I am great does not make me so, that makes me arrogant.</p>\n</blockquote>\n",
+				"content_text": "From [two years](https://frankmcpherson.blog/2019/12/16/the-truth-about.html) ago: \n\n>My constantly saying that I am great does not make me so, that makes me arrogant. \n",
+				"date_published": "2021-12-16T08:52:41-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/16/from-two-years.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/11/as-noted-previously.html",
+				
+				"content_html": "<p>As noted previously, I have a new Macbook Air and I am just getting used to using Mac OS. When at my desk I am connecting the Macbook to a 32 inch BenQ monitor via a USB-C dock and because I am using the Macbook&rsquo;s keyboard, the monitors are arranged in System Preferences Displays settings as vertically stacked, with the external display above the internal display. I have the external display set as the primary but what has been frustrating is that the OS X dock doesn&rsquo;t automatically move up to the primary display. I cannot believe that <a href=\"https://apple.stackexchange.com/questions/141493/moving-dock-between-vertically-arranged-displays-in-os-x-mavericks-and-later/175910\">I have to move the mouse to the bottom left of the external monitor</a> to get the dock to move when OS X seems to be smart enough to know which menu bar is active on which display; seems to me on which ever screen the menu bar is active that is the display that should have the dock. Testing shows that the issue only seems to be with vertical stacking of the displays (so I move the mouse up/down between displays) and not when the monitors are horizontally arranged (move the mouse right/left between displays).</p>\n",
+				"content_text": "As noted previously, I have a new Macbook Air and I am just getting used to using Mac OS. When at my desk I am connecting the Macbook to a 32 inch BenQ monitor via a USB-C dock and because I am using the Macbook's keyboard, the monitors are arranged in System Preferences Displays settings as vertically stacked, with the external display above the internal display. I have the external display set as the primary but what has been frustrating is that the OS X dock doesn't automatically move up to the primary display. I cannot believe that <a href=\"https://apple.stackexchange.com/questions/141493/moving-dock-between-vertically-arranged-displays-in-os-x-mavericks-and-later/175910\">I have to move the mouse to the bottom left of the external monitor</a> to get the dock to move when OS X seems to be smart enough to know which menu bar is active on which display; seems to me on which ever screen the menu bar is active that is the display that should have the dock. Testing shows that the issue only seems to be with vertical stacking of the displays (so I move the mouse up/down between displays) and not when the monitors are horizontally arranged (move the mouse right/left between displays). \n",
+				"date_published": "2021-12-11T16:52:12-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/11/as-noted-previously.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/11/todays-axios-future.html",
+				
+				"content_html": "<p>Today&rsquo;s Axios Future provides a very nice <a href=\"https://www.axios.com/newsletters/axios-future-c7eb0a05-eaa5-4c4b-b3e3-5ff02cb4d355.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosfutureofwork&stream=future\">one pager about Quantum Computing</a>. I really like how <a href=\"https://www.axios.com/\">Axios</a> publishes on the web.</p>\n",
+				"content_text": "Today's Axios Future provides a very nice <a href=\"https://www.axios.com/newsletters/axios-future-c7eb0a05-eaa5-4c4b-b3e3-5ff02cb4d355.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosfutureofwork&stream=future\">one pager about Quantum Computing</a>. I really like how <a href=\"https://www.axios.com/\">Axios</a> publishes on the web. \n",
+				"date_published": "2021-12-11T14:31:29-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/11/todays-axios-future.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/11/its-a-weird.html",
+				
+				"content_html": "<p>It&rsquo;s a weird weather day. Temperatures are in the 50s, which is way above normal, and a lot of wind. Weather apps are reporting sustained 20 mph wind with gusts up to 40 mph. Right now rain is moving in. Biggest risk is a power outage. I am trying to decide whether I can take my normal walks outside.</p>\n",
+				"content_text": "It's a weird weather day. Temperatures are in the 50s, which is way above normal, and a lot of wind. Weather apps are reporting sustained 20 mph wind with gusts up to 40 mph. Right now rain is moving in. Biggest risk is a power outage. I am trying to decide whether I can take my normal walks outside. \n",
+				"date_published": "2021-12-11T10:39:09-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/11/its-a-weird.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/08/did-you-see.html",
+				
+				"content_html": "<p>Did you see <a href=\"https://www.cbsnews.com/news/omicron-variant-covid-19-vaccines-news-pfizer-efficacy/\">the news</a> that Pfizer&rsquo;s COVID booster is effective against the Omicron variant? How many of you then thought to yourself, of course it does, that&rsquo;s how they are going to make more money? That&rsquo;s the corrosive power of money influencing our thoughts and our decision making.</p>\n",
+				"content_text": "Did you see [the news](https://www.cbsnews.com/news/omicron-variant-covid-19-vaccines-news-pfizer-efficacy/) that Pfizer's COVID booster is effective against the Omicron variant? How many of you then thought to yourself, of course it does, that's how they are going to make more money? That's the corrosive power of money influencing our thoughts and our decision making. \n",
+				"date_published": "2021-12-08T11:35:28-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/08/did-you-see.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/12/08/nine-years-ago.html",
 				
 				"content_html": "<p><a href=\"https://realpersonalcomputing.com/2012/02/10/what-is-a-pc/\">Nine years ago I wrote</a> a definition of personal computing in the following formulaic manner:</p>\n\n<p>personal computing = hardware  + software + Internet + intelligence</p>\n\n<p>For the most part I think that definition still holds up although we haven&rsquo;t come as far with intelligence as I expected we would back then.</p>\n",
