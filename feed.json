@@ -7,6 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/12/22/on-september-i.html",
+				
+				"content_html": "<p><a href=\"http://sports.frankmcpherson.net/2014/09/01/theBuzzOnTheNorthSide.html\">On September 1, 2014 I wrote</a> about the buzz on the northside of Chicago as the Cubs were calling up some of their young players like Javier Baez. I speculated about whether Theo would sign Jon Lester. Little did I know then that just two years later the Cubs would win it all.</p>\n",
+				"content_text": "<a href=\"http://sports.frankmcpherson.net/2014/09/01/theBuzzOnTheNorthSide.html\">On September 1, 2014 I wrote</a> about the buzz on the northside of Chicago as the Cubs were calling up some of their young players like Javier Baez. I speculated about whether Theo would sign Jon Lester. Little did I know then that just two years later the Cubs would win it all.  \n",
+				"date_published": "2021-12-22T12:51:32-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/22/on-september-i.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/december-first-day.html",
+				
+				"content_html": "<p>December 21, 2021, First Day of Winter</p>\n\n<p><img src=\"uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "December 21, 2021, First Day of Winter\n\n\n\n<img src=\"uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-21T11:35:58-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/december-first-day.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/in-an-example.html",
+				
+				"content_html": "<p>In an example of not seeing what is plainly in front of me, today I noticed <a href=\"https://www.manton.org/2020/06/15/embedding-microblog-posts.html\">the Embed link</a> next to posts in my micro.blog timeline. Looks like the intent is a kind of &ldquo;quote tweet&rdquo; of another&rsquo;s post, but does have me wondering why and how I would use it? Looks like the feature has been available for more than a year, but I have not come across its use.</p>\n",
+				"content_text": "In an example of not seeing what is plainly in front of me, today I noticed [the Embed link](https://www.manton.org/2020/06/15/embedding-microblog-posts.html) next to posts in my micro.blog timeline. Looks like the intent is a kind of \"quote tweet\" of another's post, but does have me wondering why and how I would use it? Looks like the feature has been available for more than a year, but I have not come across its use. \n",
+				"date_published": "2021-12-21T11:32:54-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/in-an-example.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/does-mac-os.html",
+				
+				"content_html": "<p>Does Mac OS really not have <a href=\"https://support.apple.com/en-us/HT201236\">a shortcut</a> to minimize all windows to display the desktop?</p>\n",
+				"content_text": "Does Mac OS really not have [a shortcut](https://support.apple.com/en-us/HT201236) to minimize all windows to display the desktop? \n",
+				"date_published": "2021-12-21T11:13:46-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/does-mac-os.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/this-story-of.html",
+				
+				"content_html": "<p><a href=\"https://devblogs.microsoft.com/oldnewthing/20211214-00/?p=106030&utm_source=pocket_mylist\">This story</a> of how Microsoft came up with the name of <a href=\"http://howtogeek.com/703977/what-was-windows-ce-and-why-did-people-use-it?utm_source=pocket_mylist\">Windows CE</a> rings true and makes me wonder who was the executive that forced the name?</p>\n",
+				"content_text": "<a href=\"https://devblogs.microsoft.com/oldnewthing/20211214-00/?p=106030&utm_source=pocket_mylist\">This story</a> of how Microsoft came up with the name of <a href=\"http://howtogeek.com/703977/what-was-windows-ce-and-why-did-people-use-it?utm_source=pocket_mylist\">Windows CE</a> rings true and makes me wonder who was the executive that forced the name?\n",
+				"date_published": "2021-12-21T09:54:21-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/this-story-of.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/do-you-think.html",
+				
+				"content_html": "<p>Do you think <a href=\"https://gazette.com/premium/7-reasons-why-die-hard-is-a-christmas-movie/article_f2aec69b-6715-5c46-9c96-68c3df078156.html\">Die Hard is a Christmas movie</a>?</p>\n",
+				"content_text": "Do you think <a href=\"https://gazette.com/premium/7-reasons-why-die-hard-is-a-christmas-movie/article_f2aec69b-6715-5c46-9c96-68c3df078156.html\">Die Hard is a Christmas movie</a>? \n",
+				"date_published": "2021-12-21T09:45:26-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/do-you-think.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/21/the-nhl-has.html",
+				
+				"content_html": "<p><a href=\"https://www.cnn.com/2021/12/21/sport/nhl-coronavirus-season-pause/index.html\">The NHL has now &ldquo;paused&rsquo; their season</a>, meaning no games until after Christmas. For now. Bets on the pause extending until after New Years?</p>\n",
+				"content_text": "[The NHL has now \"paused' their season](https://www.cnn.com/2021/12/21/sport/nhl-coronavirus-season-pause/index.html), meaning no games until after Christmas. For now. Bets on the pause extending until after New Years? \n",
+				"date_published": "2021-12-21T09:32:06-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/21/the-nhl-has.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/20/its-beginning-to.html",
+				
+				"content_html": "<p>It&rsquo;s beginning to feel a lot like March, 2020, when the world seemed to start locking down. Back then <a href=\"https://www.cnn.com/2021/12/20/sport/nhl-nfl-nba-ncaa-games-postponed-coronavirus-spt/index.html\">it started with professional sports</a> and now I see NHL, NBA, and NFL games being postponed. The <a href=\"https://www.latimes.com/sports/hockey/story/2021-12-19/nhl-halts-united-states-canada-border-travel-games-covid-19#:~:text=The%20NHL%20season%20will%20continue,last%20day%20before%20the%20league's\">NHL is postponing travel games to Canada</a> for U.S. teams.</p>\n",
+				"content_text": "It's beginning to feel a lot like March, 2020, when the world seemed to start locking down. Back then <a href=\"https://www.cnn.com/2021/12/20/sport/nhl-nfl-nba-ncaa-games-postponed-coronavirus-spt/index.html\">it started with professional sports</a> and now I see NHL, NBA, and NFL games being postponed. The <a href=\"https://www.latimes.com/sports/hockey/story/2021-12-19/nhl-halts-united-states-canada-border-travel-games-covid-19#:~:text=The%20NHL%20season%20will%20continue,last%20day%20before%20the%20league's\">NHL is postponing travel games to Canada</a> for U.S. teams. \n",
+				"date_published": "2021-12-20T09:05:42-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/20/its-beginning-to.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/18/there-is-much.html",
+				
+				"content_html": "<p>There is much in this New Yorker article, <a href=\"https://www.newyorker.com/news/annals-of-inquiry/a-political-philosopher-is-hopeful-about-the-democrats\">A Political Philosopher Is Hopeful About the Democrats</a>, that makes sense to me as one who lives in fly-over country. I think the desire to be respected may be stronger than of democracy. Our predicament is due to an avalanche of decisions starting with Reagan and continuing through Clinton, Bush, and Obama. Unfortunately the mode of politics is to gain power and then get all you want while you can so there is no real focus on core needs.</p>\n",
+				"content_text": "There is much in this New Yorker article, [A Political Philosopher Is Hopeful About the Democrats](https://www.newyorker.com/news/annals-of-inquiry/a-political-philosopher-is-hopeful-about-the-democrats), that makes sense to me as one who lives in fly-over country. I think the desire to be respected may be stronger than of democracy. Our predicament is due to an avalanche of decisions starting with Reagan and continuing through Clinton, Bush, and Obama. Unfortunately the mode of politics is to gain power and then get all you want while you can so there is no real focus on core needs. \n",
+				"date_published": "2021-12-18T12:03:40-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/18/there-is-much.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/18/we-are-being.html",
+				
+				"content_html": "<p>We are being visited by a flock of birds, enough that I can hear them chirping as they forage. When the whole flock takes flight you hear the mass flutter of their wings.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/8558d42015.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "We are being visited by a flock of birds, enough that I can hear them chirping as they forage. When the whole flock takes flight you hear the mass flutter of their wings. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/8558d42015.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-18T11:04:48-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/18/we-are-being.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/18/i-am-seeing.html",
+				
+				"content_html": "<p>I am seeing a definite increase in the number of athletes in COVID-19 protocols and sporting events being delayed. I can&rsquo;t help but feel some form of a lockdown is coming. Bah humbug!</p>\n",
+				"content_text": "I am seeing a definite increase in the number of athletes in COVID-19 protocols and sporting events being delayed. I can't help but feel some form of a lockdown is coming. Bah humbug!\n",
+				"date_published": "2021-12-18T10:47:21-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/18/i-am-seeing.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/12/16/from-two-years.html",
 				
 				"content_html": "<p>From <a href=\"https://frankmcpherson.blog/2019/12/16/the-truth-about.html\">two years</a> ago:</p>\n\n<blockquote>\n<p>My constantly saying that I am great does not make me so, that makes me arrogant.</p>\n</blockquote>\n",
@@ -147,8 +235,8 @@
 			{
 				"id": "http://frankm.micro.blog/2021/11/27/the-snow-started.html",
 				
-				"content_html": "<p>The snow started falling at noon but is letting up now. As you can see, not a lot of accumulation but enough to make it look winter-like. Would have liked to have the snow on Thanksgiving.</p>\n\n<p><img src=\"uploads/2021/6632892362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The snow started falling at noon but is letting up now. As you can see, not a lot of accumulation but enough to make it look winter-like. Would have liked to have the snow on Thanksgiving. \n\n<img src=\"uploads/2021/6632892362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The snow started falling at noon but is letting up now. As you can see, not a lot of accumulation but enough to make it look winter-like. Would have liked to have the snow on Thanksgiving.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/6632892362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The snow started falling at noon but is letting up now. As you can see, not a lot of accumulation but enough to make it look winter-like. Would have liked to have the snow on Thanksgiving. \n\n<img src=\"https://frankmcpherson.blog/uploads/2021/6632892362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-27T16:46:32-05:00",
 				"url": "https://frankmcpherson.blog/2021/11/27/the-snow-started.html"
 			},
