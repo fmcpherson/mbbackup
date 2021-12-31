@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2021/12/31/little-did-i.html",
+				
+				"content_html": "<p>Little did I know then, <a href=\"https://frankmcpherson.blog/2019/12/31/spending-the-afternoon.html\">two years ago</a> that I might be watching the last GLi. I am really disappointed with Little Caesars.</p>\n",
+				"content_text": "Little did I know then, [two years ago](https://frankmcpherson.blog/2019/12/31/spending-the-afternoon.html) that I might be watching the last GLi. I am really disappointed with Little Caesars. \n\n",
+				"date_published": "2021-12-31T10:19:09-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/31/little-did-i.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/28/on-the-death.html",
+				"title": "On The Death Of Desmond Tutu",
+				"content_html": "<p>I am only aware of one country in the world that took conscious steps to address the cancer of supremacy, that country is South Africa. It&rsquo;s path toward the task of overcoming supremacy was long and likely incomplete but would probably not have been taken up at all if not for Nelson Mandela and Desmond Tutu.</p>\n\n<p><a href=\"https://apnews.com/article/desmond-tutu-dead-a0cec6cddaa5cf2a996df8550a72479c\">News of Tutu&rsquo;s death</a> makes me wonder how he saw the United States. Tutu had the wisdom to know that the antidote to supremacy is oneness, ubuntu. Supremacy cannot be shunned as it will simply continue lurking in the shadows. The only way to eliminate contempt is to see everyone as a part of me I do not yet know.</p>\n\n<p>I feel as though the entire United States needs to be in a 12 step program. We cannot begin to overcome that which we don&rsquo;t even acknowledge. We hide our addiction with our liberties. The <a href=\"https://www.worldometers.info/coronavirus/country/us/\">amount of death that we have grown to accept</a>, the amount of <a href=\"https://www.cnn.com/2021/12/28/us/denver-shooting-officer-injured/index.html\">senseless loss of life we tolerate</a> are not signs of a great nation or society.</p>\n\n<p>The United States is leading the world into a third year of a pandemic that will continue to take more lives unnecessarily, and United States continues to lead the world in gun violence. All we are doing is managing to get by for just one more day. Apparently we have not yet hit bottom even after children are gun down in schools.</p>\n\n<p>South Africa did not start to overcome the addiction of supremacy known as apartheid until it consciously did something about it. Any expert on addiction will tell you that no person can be made to overcome their addiction, the addict must decide for themselves they want to live. We, the citizens of the United States of America need to decide whether this republic handed down to us is something we want to keep, and that takes all of us to take a long look at ourselves and see us as we are rather than as how we keep telling ourselves.</p>\n",
+				"content_text": "I am only aware of one country in the world that took conscious steps to address the cancer of supremacy, that country is South Africa. It's path toward the task of overcoming supremacy was long and likely incomplete but would probably not have been taken up at all if not for Nelson Mandela and Desmond Tutu. \n\n[News of Tutu's death](https://apnews.com/article/desmond-tutu-dead-a0cec6cddaa5cf2a996df8550a72479c) makes me wonder how he saw the United States. Tutu had the wisdom to know that the antidote to supremacy is oneness, ubuntu. Supremacy cannot be shunned as it will simply continue lurking in the shadows. The only way to eliminate contempt is to see everyone as a part of me I do not yet know. \n\nI feel as though the entire United States needs to be in a 12 step program. We cannot begin to overcome that which we don't even acknowledge. We hide our addiction with our liberties. The [amount of death that we have grown to accept](https://www.worldometers.info/coronavirus/country/us/), the amount of [senseless loss of life we tolerate](https://www.cnn.com/2021/12/28/us/denver-shooting-officer-injured/index.html) are not signs of a great nation or society. \n\nThe United States is leading the world into a third year of a pandemic that will continue to take more lives unnecessarily, and United States continues to lead the world in gun violence. All we are doing is managing to get by for just one more day. Apparently we have not yet hit bottom even after children are gun down in schools. \n\nSouth Africa did not start to overcome the addiction of supremacy known as apartheid until it consciously did something about it. Any expert on addiction will tell you that no person can be made to overcome their addiction, the addict must decide for themselves they want to live. We, the citizens of the United States of America need to decide whether this republic handed down to us is something we want to keep, and that takes all of us to take a long look at ourselves and see us as we are rather than as how we keep telling ourselves. \n",
+				"date_published": "2021-12-28T11:43:20-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/28/on-the-death.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/27/a-problem-of.html",
+				
+				"content_html": "<p>A problem of the United States is that <a href=\"https://www.washingtonpost.com/health/2021/12/25/covid-public-health-laws-restricted/\">we really have no concept of public health</a>. In fact the whole idea of public good is becoming more and more debatable. America, continuing to be great.</p>\n",
+				"content_text": "A problem of the United States is that [we really have no concept of public health](https://www.washingtonpost.com/health/2021/12/25/covid-public-health-laws-restricted/). In fact the whole idea of public good is becoming more and more debatable. America, continuing to be great. \n",
+				"date_published": "2021-12-27T17:53:08-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/27/a-problem-of.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/27/ive-added-amits.html",
+				
+				"content_html": "<p>I&rsquo;ve added <a href=\"https://github.com/am1t/plugin-post-stats\">Amit&rsquo;s Stats micro.blog plugin</a> to my site. It&rsquo;s interesting to me that <a href=\"https://frankmcpherson.blog/stats/\">I posted</a> nearly 100 more posts in 2020 than any other year. You will notice that I mostly write title-less posts, it&rsquo;s how I was &ldquo;raised&rdquo; to do blogging.</p>\n",
+				"content_text": "I've added <a href=\"https://github.com/am1t/plugin-post-stats\">Amit's Stats micro.blog plugin</a> to my site. It's interesting to me that <a href=\"https://frankmcpherson.blog/stats/\">I posted</a> nearly 100 more posts in 2020 than any other year. You will notice that I mostly write title-less posts, it's how I was \"raised\" to do blogging.  \n",
+				"date_published": "2021-12-27T15:59:41-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/27/ive-added-amits.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/26/visitors-came-to.html",
+				
+				"content_html": "<p>Visitors came to see what we got for Christmas</p>\n\n<p><img src=\"uploads/2021/64dfdf4381.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Visitors came to see what we got for Christmas\n\n\n\n<img src=\"uploads/2021/64dfdf4381.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-26T10:21:01-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/26/visitors-came-to.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/25/this-year-we.html",
+				
+				"content_html": "<p>This year we have a green, wet Christmas🎄</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/c12536530e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "This year we have a green, wet Christmas🎄\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/c12536530e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-25T13:46:46-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/25/this-year-we.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/24/if-you-have.html",
+				
+				"content_html": "<p>If you have a Google Pixel phone you probably know about its lock screen always on display. A change has occurred some time during the last week affecting always on display of my Pixel 4a at night. I am one of those people who sleeps with their phone on their bed stand, it&rsquo;s basically my alarm clock. In the past, when in the dark always on display would dim but stay on enough to be seen and I woke up I could see the time. For the last several nights now the display has turned off and I don&rsquo;t know why. I see that Digital Wellbeing has a bedtime mode where I can specify keep the screen dark, but I am not using that function.</p>\n",
+				"content_text": "If you have a Google Pixel phone you probably know about its lock screen always on display. A change has occurred some time during the last week affecting always on display of my Pixel 4a at night. I am one of those people who sleeps with their phone on their bed stand, it's basically my alarm clock. In the past, when in the dark always on display would dim but stay on enough to be seen and I woke up I could see the time. For the last several nights now the display has turned off and I don't know why. I see that Digital Wellbeing has a bedtime mode where I can specify keep the screen dark, but I am not using that function. \n",
+				"date_published": "2021-12-24T14:59:23-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/24/if-you-have.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2021/12/24/the-verge-google.html",
+				
+				"content_html": "<p>The Verge: <a href=\"https://www.theverge.com/2016/12/22/14057656/google-smartwatch-android-wear-2-0-launch\">Google will launch two flagship smartwatches early next year</a>. December 22, 2016. Of course, that didn&rsquo;t happen with Wear OS 2.0, but reports are it will finally happen this coming year with Wear OS 3.0. We will see.</p>\n",
+				"content_text": "The Verge: <a href=\"https://www.theverge.com/2016/12/22/14057656/google-smartwatch-android-wear-2-0-launch\">Google will launch two flagship smartwatches early next year</a>. December 22, 2016. Of course, that didn't happen with Wear OS 2.0, but reports are it will finally happen this coming year with Wear OS 3.0. We will see. \n",
+				"date_published": "2021-12-24T14:13:47-05:00",
+				"url": "https://frankmcpherson.blog/2021/12/24/the-verge-google.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2021/12/22/on-september-i.html",
 				
 				"content_html": "<p><a href=\"http://sports.frankmcpherson.net/2014/09/01/theBuzzOnTheNorthSide.html\">On September 1, 2014 I wrote</a> about the buzz on the northside of Chicago as the Cubs were calling up some of their young players like Javier Baez. I speculated about whether Theo would sign Jon Lester. Little did I know then that just two years later the Cubs would win it all.</p>\n",
@@ -17,8 +82,8 @@
 			{
 				"id": "http://frankm.micro.blog/2021/12/21/december-first-day.html",
 				
-				"content_html": "<p>December 21, 2021, First Day of Winter</p>\n\n<p><img src=\"uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "December 21, 2021, First Day of Winter\n\n\n\n<img src=\"uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>December 21, 2021, First Day of Winter</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "December 21, 2021, First Day of Winter\n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2021/451fb0ae5e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-21T11:35:58-05:00",
 				"url": "https://frankmcpherson.blog/2021/12/21/december-first-day.html"
 			},
