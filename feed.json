@@ -7,6 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2022/01/14/the-first-public.html",
+				
+				"content_html": "<p>The [first public beta of micro.blog](<a href=\"https://www.manton.org/2022/01/14/123845.html\">www.manton.org/2022/01/1&hellip;</a> has been released, which is good progress for my blogging platform.</p>\n",
+				"content_text": "The [first public beta of micro.blog]([www.manton.org/2022/01/1...](https://www.manton.org/2022/01/14/123845.html) has been released, which is good progress for my blogging platform. \n\n",
+				"date_published": "2022-01-14T14:06:56-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/14/the-first-public.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/14/last-year-google.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2021/01/14/googles-acquisition-of.html\">Last year</a> Google completed the acquisition of Fitbit and we still have not seen a Fitbit running Wear OS.</p>\n",
+				"content_text": "[Last year](https://frankmcpherson.blog/2021/01/14/googles-acquisition-of.html) Google completed the acquisition of Fitbit and we still have not seen a Fitbit running Wear OS. \n",
+				"date_published": "2022-01-14T08:54:04-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/14/last-year-google.html",
+				"tags": ["Wear OS"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/13/my-reaction-to.html",
+				
+				"content_html": "<p>My reaction to <a href=\"https://www.mlbtraderumors.com/2022/01/jon-lester-announces-retirement.html\">the news that Jon Lester is retiring</a> is that I wish he could have done so as a Cub. Seeing him in a Cardinal uniform last year was just wrong.</p>\n",
+				"content_text": "My reaction to [the news that Jon Lester is retiring](https://www.mlbtraderumors.com/2022/01/jon-lester-announces-retirement.html) is that I wish he could have done so as a Cub. Seeing him in a Cardinal uniform last year was just wrong.\n",
+				"date_published": "2022-01-13T09:09:22-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/13/my-reaction-to.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/11/logitech-signature-m.html",
+				
+				"content_html": "<p><a href=\"https://www.slashgear.com/logitech-signature-m650-first-impressions-one-mouse-for-all-people-11706631/\">Logitech Signature M650 first impressions: One mouse for all people</a> Nice to see Logitech make a mouse for left handed people, who are usually forced to live in a right handed world.</p>\n",
+				"content_text": "[Logitech Signature M650 first impressions: One mouse for all people](https://www.slashgear.com/logitech-signature-m650-first-impressions-one-mouse-for-all-people-11706631/) Nice to see Logitech make a mouse for left handed people, who are usually forced to live in a right handed world. \n",
+				"date_published": "2022-01-11T11:42:01-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/11/logitech-signature-m.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/11/were-the-founding.html",
+				
+				"content_html": "<p><a href=\"https://davidfrum.com/article/were-the-founding-fathers-libertarians?utm_source=pocket_mylist\">Were the Founding Fathers Libertarians?</a> is a good article by David Frum. The article makes an important point, that context (history) matters! I suspect many people would respond emphatically yes, but the context says no.</p>\n",
+				"content_text": "<a href=\"https://davidfrum.com/article/were-the-founding-fathers-libertarians?utm_source=pocket_mylist\">Were the Founding Fathers Libertarians?</a> is a good article by David Frum. The article makes an important point, that context (history) matters! I suspect many people would respond emphatically yes, but the context says no.  \n",
+				"date_published": "2022-01-11T10:28:56-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/11/were-the-founding.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/11/as-i-said.html",
+				
+				"content_html": "<p>As I said yesterday, so I <a href=\"http://oldschool.scripting.com/frankm/2022/01/10/182438.html?title=itIsFrickinFreezing\">say it again</a>.</p>\n",
+				"content_text": "As I said yesterday, so I [say it again](http://oldschool.scripting.com/frankm/2022/01/10/182438.html?title=itIsFrickinFreezing). \n",
+				"date_published": "2022-01-11T08:55:19-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/11/as-i-said.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/08/forming-a-more.html",
+				"title": "Forming A More Perfect Union",
+				"content_html": "<p>In the United States, democracy is less about the form of government and more about an aspiration. The idea of true equality of all people, regardless of race, gender, ethnicity, religion, or sexual orientation was simply not comprehensible to the U.S. founders or their contemporaries. Interestingly, I think James Madison recognized the imperfections of the United States when he wrote these words in the preamble to the U.S. Constitution.</p>\n\n<blockquote>\n<p>We the People of the United States, in Order <strong>to form a more perfect Union</strong>, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>\n</blockquote>\n\n<p>To me a &ldquo;more perfect union&rdquo; is not a declaration of an end state but rather a recognition that we can continue to become better. In other words, Madison expected the United States in 2022 to be more perfect than the United States in 1780 because the Constitution provides the framework for that improvement. It does this by providing for amendments that improve upon the original work.</p>\n",
+				"content_text": "In the United States, democracy is less about the form of government and more about an aspiration. The idea of true equality of all people, regardless of race, gender, ethnicity, religion, or sexual orientation was simply not comprehensible to the U.S. founders or their contemporaries. Interestingly, I think James Madison recognized the imperfections of the United States when he wrote these words in the preamble to the U.S. Constitution. \n\n> We the People of the United States, in Order **to form a more perfect Union**, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.\n\nTo me a \"more perfect union\" is not a declaration of an end state but rather a recognition that we can continue to become better. In other words, Madison expected the United States in 2022 to be more perfect than the United States in 1780 because the Constitution provides the framework for that improvement. It does this by providing for amendments that improve upon the original work. \n",
+				"date_published": "2022-01-08T18:17:19-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/08/forming-a-more.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/08/in-michigan-its.html",
+				
+				"content_html": "<p>In Michigan it&rsquo;s usually only during winter when it gets this dry.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2022/89e2395bb6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "In Michigan it's usually only during winter when it gets this dry. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2022/89e2395bb6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-01-08T11:37:22-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/08/in-michigan-its.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/01/07/finished-the-first.html",
+				
+				"content_html": "<p>Finished the first work week of 2022. Fifty one more weeks to go.</p>\n",
+				"content_text": "Finished the first work week of 2022. Fifty one more weeks to go. \n",
+				"date_published": "2022-01-07T16:52:23-05:00",
+				"url": "https://frankmcpherson.blog/2022/01/07/finished-the-first.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2022/01/07/the-scary-reality.html",
 				
 				"content_html": "<p>The scary reality is that the future of the Republic may very much ride on the Republican Presidential Primaries in 2024. The Republican party enabled Trump to become President thus only it,  or better said only it&rsquo;s corporate and wealthy backers, can prevent him from being their nominee in 2024. In short, most of the anti-Trump, anti-fascist rhetoric is coming from Democrats, but they don&rsquo;t have the real power to prevent it from happening again, particularly when the country is split 50/50 between the two parties.</p>\n\n<blockquote>\n<p>Still, unless GOP voters are polarized against the extreme right, and turnout for Republican primary contests increases dramatically, the party could continue to be a vehicle for building this hard-right base at the state level and in congressional races. The poll numbers certainly suggest that these forces have plenty of room to organize and recruit. <a href=\"https://jacobinmag.com/2021/01/capitol-building-riot-business-trump?utm_source=pocket_mylist\">source</a></p>\n</blockquote>\n",
