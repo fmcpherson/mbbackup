@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2022/03/11/two-years-ago.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2020/03/11/it-has-arrived.html\">Two years ago</a> this week COVID was first officially seen in MIchigan. Little did we know then what that would mean.</p>\n",
+				"content_text": "[Two years ago](https://frankmcpherson.blog/2020/03/11/it-has-arrived.html) this week COVID was first officially seen in MIchigan. Little did we know then what that would mean.\n",
+				"date_published": "2022-03-11T08:55:11-05:00",
+				"url": "https://frankmcpherson.blog/2022/03/11/two-years-ago.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/03/07/will-the-current.html",
+				
+				"content_html": "<p>Will the current gas price increases inspire more people to buy electric cars or just complain?</p>\n",
+				"content_text": "Will the current gas price increases inspire more people to buy electric cars or just complain? \n",
+				"date_published": "2022-03-07T09:15:17-05:00",
+				"url": "https://frankmcpherson.blog/2022/03/07/will-the-current.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/03/05/its-a-nice.html",
+				
+				"content_html": "<p>It&rsquo;s a nice pre-spring day in southeast Michigan</p>\n\n<p><img src=\"uploads/2022/f900d6dea3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It's a nice pre-spring day in southeast Michigan\n\n\n\n<img src=\"uploads/2022/f900d6dea3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-03-05T14:44:31-05:00",
+				"url": "https://frankmcpherson.blog/2022/03/05/its-a-nice.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/03/01/it-sure-feels.html",
+				
+				"content_html": "<p>It sure feels like we humans are intent on destroyng ourselves and the world.</p>\n",
+				"content_text": "It sure feels like we humans are intent on destroyng ourselves and the world. \n",
+				"date_published": "2022-03-01T08:34:50-05:00",
+				"url": "https://frankmcpherson.blog/2022/03/01/it-sure-feels.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2022/03/01/last-year-on.html",
 				
 				"content_html": "<p><a href=\"https://frankmcpherson.blog/2021/03/01/it-doesnt-mean.html\">Last year on this date</a> the Chicago Cubs won their first spring training game of the 2021 season. Today I have no idea when the Cubs will play their first game in 2022, with the lockout end not in sight.</p>\n",
