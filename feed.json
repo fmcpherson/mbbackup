@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2022/04/29/happy-friday.html",
+				
+				"content_html": "<p>Happy Friday!</p>\n\n<p><img src=\"uploads/2022/1d5a9640c6.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Happy Friday!\n\n\n\n<img src=\"uploads/2022/1d5a9640c6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-29T18:51:42-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/29/happy-friday.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/26/does-free-speech.html",
+				
+				"content_html": "<p>Does free speech = <a href=\"https://www.theguardian.com/commentisfree/2022/apr/26/elon-musk-king-of-trolls-purchase-twitter-dangerous?utm_source=pocket_mylist\">trolling</a>?</p>\n",
+				"content_text": "Does free speech = [trolling](https://www.theguardian.com/commentisfree/2022/apr/26/elon-musk-king-of-trolls-purchase-twitter-dangerous?utm_source=pocket_mylist)? \n",
+				"date_published": "2022-04-26T16:36:59-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/26/does-free-speech.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/26/some-server-components.html",
+				
+				"content_html": "<p><strong>Update: Everything is back up</strong>. Some server components of the <a href=\"http://scripting.com\">Scripting News</a> hosting infrastructure are down, for example <a href=\"http://oldschool.scripting.com/frankm\">my Old School blog</a> is not reachable. Browser shows an error message saying the server refused connection. Watching attempt to access with the browser console open shows a message about a deprecated package. The problem affects LittleOutliner.com and my.this.how, which is where I am hosting my now page.</p>\n",
+				"content_text": "**Update: Everything is back up**. Some server components of the [Scripting News](http://scripting.com) hosting infrastructure are down, for example [my Old School blog](http://oldschool.scripting.com/frankm) is not reachable. Browser shows an error message saying the server refused connection. Watching attempt to access with the browser console open shows a message about a deprecated package. The problem affects LittleOutliner.com and my.this.how, which is where I am hosting my now page.\n",
+				"date_published": "2022-04-26T13:25:00-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/26/some-server-components.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/25/i-dont-personally.html",
+				
+				"content_html": "<p>I don&rsquo;t personally use Twitter as much as other social media platforms, so I really don&rsquo;t have a personal investment in what happens to it, but I am deeply suspicious of Elon Musk buying Twitter. I suspect he wants to buy Twitter to have a personal megaphone with no constraints. I am expecting Twitter to get worse under Musk.</p>\n\n<p>I understand lots of journalism and media types use Twitter, but if it becomes a private social platform under the control of an oligarch, is that the right place to be doing journalism? Once private Twitter should cease to be a source for any news.</p>\n",
+				"content_text": "I don't personally use Twitter as much as other social media platforms, so I really don't have a personal investment in what happens to it, but I am deeply suspicious of Elon Musk buying Twitter. I suspect he wants to buy Twitter to have a personal megaphone with no constraints. I am expecting Twitter to get worse under Musk.\n\nI understand lots of journalism and media types use Twitter, but if it becomes a private social platform under the control of an oligarch, is that the right place to be doing journalism? Once private Twitter should cease to be a source for any news. \n",
+				"date_published": "2022-04-25T09:56:00-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/25/i-dont-personally.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/24/a-day-of.html",
+				
+				"content_html": "<p>A day of warm sunshine does everyone and everything good.</p>\n\n<p><img src=\"uploads/2022/cc3f7a53d7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A day of warm sunshine does everyone and everything good. \n\n\n\n<img src=\"uploads/2022/cc3f7a53d7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-04-24T10:56:58-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/24/a-day-of.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/23/finally-warm-enough.html",
+				
+				"content_html": "<p>Finally warm enough to put on shorts and go outside.</p>\n",
+				"content_text": "Finally warm enough to put on shorts and go outside. \n",
+				"date_published": "2022-04-23T17:55:32-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/23/finally-warm-enough.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/04/23/finally-some-warm.html",
+				
+				"content_html": "<p>Finally some warm weather! Alpha tree is enjoying the sun too.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2022/cb5b64bb19.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Finally some warm weather! Alpha tree is enjoying the sun too. \n\n<img src=\"https://frankmcpherson.blog/uploads/2022/cb5b64bb19.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-04-23T11:25:30-04:00",
+				"url": "https://frankmcpherson.blog/2022/04/23/finally-some-warm.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2022/04/22/i-think-abraham.html",
 				
 				"content_html": "<p>I think <a href=\"https://frankmcpherson.blog/2019/04/22/abraham-lincoln-on.html\">Abraham Lincoln would be mad</a> that for what was sacrificed years ago is simply being tossed aside today.</p>\n",
@@ -25,16 +82,16 @@
 			{
 				"id": "http://frankm.micro.blog/2022/04/18/mother-nature-wishing.html",
 				
-				"content_html": "<p>Mother nature wishing me a happy birthday</p>\n\n<p><img src=\"uploads/2022/521e24cc25.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Mother nature wishing me a happy birthday\n\n\n\n<img src=\"uploads/2022/521e24cc25.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Mother nature wishing me a happy birthday</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2022/521e24cc25.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Mother nature wishing me a happy birthday\n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2022/521e24cc25.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-18T14:29:49-04:00",
 				"url": "https://frankmcpherson.blog/2022/04/18/mother-nature-wishing.html"
 			},
 			{
 				"id": "http://frankm.micro.blog/2022/04/18/day-of-lap.html",
 				
-				"content_html": "<p>Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less.</p>\n\n<p><img src=\"uploads/2022/87ca2c2ced.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less. \n\n\n\n<img src=\"uploads/2022/87ca2c2ced.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2022/87ca2c2ced.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2022/87ca2c2ced.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-18T12:27:09-04:00",
 				"url": "https://frankmcpherson.blog/2022/04/18/day-of-lap.html"
 			},
