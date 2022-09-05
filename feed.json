@@ -7,10 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2022/09/04/watching-the-us.html",
+				
+				"content_html": "<p>Watching the U.S. Open on TV with the volume turned down and the Detroit Jazz Festival playing on the computer. Tennis and jazz. Hard to believe that the last U.S. men’s champion was Andy Roddick in 2003.</p>\n",
+				"content_text": "Watching the U.S. Open on TV with the volume turned down and the Detroit Jazz Festival playing on the computer. Tennis and jazz. Hard to believe that the last U.S. men’s champion was Andy Roddick in 2003. \n",
+				"date_published": "2022-09-04T21:10:47-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/04/watching-the-us.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/09/03/finished-reading-allow.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781620976906\">Allow Me to Retort</a> by Elie Mystal 📚</p>\n",
+				"content_text": "Finished reading: [Allow Me to Retort](https://micro.blog/books/9781620976906) by Elie Mystal 📚 \n",
+				"date_published": "2022-09-03T11:43:37-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/03/finished-reading-allow.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/09/03/remember-madison-and.html",
+				
+				"content_html": "<p>“Remember, Madison and the other authors of The Federalist Papers didn’t think amendments to their new Constitution were necessary. More than that, they thought a bill of enumerated rights could be dangerous. <strong>They worried that if they specified a few rights, some fools in the future would conclude that their list of rights were the only rights people had or should have. They worried that the federal government would grow to take power over everything but the few special carve-outs they bothered to enumerate.</strong>”</p>\n\n<p>Like privacy and personal autonomy.</p>\n\n<p>— <a href=\"https://a.co/eKbYMpE\">Allow Me to Retort: A Black Guy’s Guide to the Constitution</a> by Elie Mystal</p>\n",
+				"content_text": "“Remember, Madison and the other authors of The Federalist Papers didn’t think amendments to their new Constitution were necessary. More than that, they thought a bill of enumerated rights could be dangerous. **They worried that if they specified a few rights, some fools in the future would conclude that their list of rights were the only rights people had or should have. They worried that the federal government would grow to take power over everything but the few special carve-outs they bothered to enumerate.**”\n\nLike privacy and personal autonomy. \n\n— [Allow Me to Retort: A Black Guy’s Guide to the Constitution](https://a.co/eKbYMpE) by Elie Mystal\n",
+				"date_published": "2022-09-03T11:23:57-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/03/remember-madison-and.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/09/02/seven-tools-for.html",
+				
+				"content_html": "<p><a href=\"https://www.openculture.com/2013/05/philosopher_daniel_dennett_presents_seven_tools_for_critical_thinking.html?utm_source=pocket_mylist\">Seven Tools for Critical Thinking</a></p>\n",
+				"content_text": "[Seven Tools for Critical Thinking](https://www.openculture.com/2013/05/philosopher_daniel_dennett_presents_seven_tools_for_critical_thinking.html?utm_source=pocket_mylist)\n",
+				"date_published": "2022-09-02T16:14:06-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/02/seven-tools-for.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/09/01/currently-reading-allow.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781620976906\">Allow Me to Retort</a> by Elie Mystal 📚I have the last chapter left.</p>\n",
+				"content_text": "Currently reading: [Allow Me to Retort](https://micro.blog/books/9781620976906) by Elie Mystal 📚I have the last chapter left. \n",
+				"date_published": "2022-09-01T09:49:46-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/01/currently-reading-allow.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/09/01/yesterday-i-had.html",
+				
+				"content_html": "<p><a href=\"http://oldschool.scripting.com/frankm/2022/08/31.html\">Yesterday</a> I had a Raspberry Pi crash after a system update and fail to boot. I figured out what went wrong and learned some things along the way. Breaking things is how one tends to learn.</p>\n",
+				"content_text": "[Yesterday](http://oldschool.scripting.com/frankm/2022/08/31.html) I had a Raspberry Pi crash after a system update and fail to boot. I figured out what went wrong and learned some things along the way. Breaking things is how one tends to learn. \n",
+				"date_published": "2022-09-01T09:40:31-04:00",
+				"url": "https://frankmcpherson.blog/2022/09/01/yesterday-i-had.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/08/30/just-discovered-steve.html",
+				
+				"content_html": "<p>Just discovered <a href=\"http://stevenseagulls.com/\">Steve &lsquo;n&rsquo; Seagulls</a>. Who says Twitter isn&rsquo;t useful?</p>\n",
+				"content_text": "Just discovered [Steve 'n' Seagulls](http://stevenseagulls.com/). Who says Twitter isn't useful? \n",
+				"date_published": "2022-08-30T17:23:14-04:00",
+				"url": "https://frankmcpherson.blog/2022/08/30/just-discovered-steve.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2022/08/29/ive-been-seeing.html",
 				
-				"content_html": "<p>I’ve been seeing this little one and it’s mother eating together at a spot along my evening walk, but it’s venturing further away from mom each day. Last night I came upon it alone at a spot where we could look at each other and I took this picture.</p>\n\n<p><img src=\"uploads/2022/471a118f34.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I’ve been seeing this little one and it’s mother eating together at a spot along my evening walk, but it’s venturing further away from mom each day. Last night I came upon it alone at a spot where we could look at each other and I took this picture. \n\n\n\n<img src=\"uploads/2022/471a118f34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I’ve been seeing this little one and it’s mother eating together at a spot along my evening walk, but it’s venturing further away from mom each day. Last night I came upon it alone at a spot where we could look at each other and I took this picture.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2022/471a118f34.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I’ve been seeing this little one and it’s mother eating together at a spot along my evening walk, but it’s venturing further away from mom each day. Last night I came upon it alone at a spot where we could look at each other and I took this picture. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2022/471a118f34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-29T09:30:40-04:00",
 				"url": "https://frankmcpherson.blog/2022/08/29/ive-been-seeing.html"
 			},
