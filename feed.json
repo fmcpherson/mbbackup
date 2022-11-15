@@ -7,6 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2022/11/15/finished-reading-jesus.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781632534170\">Jesus&rsquo; Alternative Plan</a> by Richard Rohr 📚 If your answer to the question, &ldquo;Do I stay Christian?&rdquo; or &ldquo;Why are you Christian?&rdquo; is, because of Jesus, then it makes sense to dig further into what is it that Jesus taught. Richard Rohr walks the reader through the core of Jesus&rsquo; teaching presented in the Sermon On The Mount.</p>\n",
+				"content_text": "Finished reading: [Jesus' Alternative Plan](https://micro.blog/books/9781632534170) by Richard Rohr 📚 If your answer to the question, \"Do I stay Christian?\" or \"Why are you Christian?\" is, because of Jesus, then it makes sense to dig further into what is it that Jesus taught. Richard Rohr walks the reader through the core of Jesus' teaching presented in the Sermon On The Mount.\n",
+				"date_published": "2022-11-15T11:15:44-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/15/finished-reading-jesus.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/14/four-years-ago.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2018/11/14/activitypub-for-your.html\">Four years ago</a>, ActivityPub support in micro.blog was released. In context of the current state of the &ldquo;social network&rdquo; affairs, a rather prescient milestone.</p>\n",
+				"content_text": "[Four years ago](https://www.manton.org/2018/11/14/activitypub-for-your.html), ActivityPub support in micro.blog was released. In context of the current state of the \"social network\" affairs, a rather prescient milestone. \n",
+				"date_published": "2022-11-14T08:47:49-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/14/four-years-ago.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/12/how-i-use.html",
+				"title": "How I Use RSS",
+				"content_html": "<p>We tend to think about RSS in terms of web sites and web applications and what gets over looked is how you can use it personally. For example, I send items from <a href=\"http://feedland.org\">FeedLand</a> to <a href=\"http://radio3.io\">Radio3</a> to add to my linkblog. I have an <a href=\"https://ifttt.com/\">IFTTT</a> applet monitoring the linkblog RSS file that takes new items and adds them to <a href=\"https://getpocket.com\">Pocket</a>, which retrieves and stores the full article content that I read later.</p>\n\n<p>As I read articles in Pocket I might highlight parts that I want to remember. The highlights in Pocket are grabbed by <a href=\"https://readwise.io\">Readwise</a>, where I can read through them and have them presented to me daily. Finally, Readwise exports the article highlights to Roam and Evernote.</p>\n\n<p>In this example RSS is the backbone to my personal knowledge collection and refinement.  It glues together for me hundreds of web sites and six applications.</p>\n",
+				"content_text": "We tend to think about RSS in terms of web sites and web applications and what gets over looked is how you can use it personally. For example, I send items from [FeedLand](http://feedland.org) to [Radio3](http://radio3.io) to add to my linkblog. I have an [IFTTT](https://ifttt.com/) applet monitoring the linkblog RSS file that takes new items and adds them to [Pocket](https://getpocket.com), which retrieves and stores the full article content that I read later. \n\nAs I read articles in Pocket I might highlight parts that I want to remember. The highlights in Pocket are grabbed by [Readwise](https://readwise.io), where I can read through them and have them presented to me daily. Finally, Readwise exports the article highlights to Roam and Evernote.\n\nIn this example RSS is the backbone to my personal knowledge collection and refinement.  It glues together for me hundreds of web sites and six applications. \n",
+				"date_published": "2022-11-12T17:15:18-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/12/how-i-use.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/12/rss-to-opml.html",
+				"title": "RSS To OPML",
+				"content_html": "<p><a href=\"http://daytona.scripting.com\">Daytona</a> is effectively a personal search engine that indexes the OPML files stored with my Drummer account. I am able to use it to search through a good chunk of my writing that I have published to the web over the last decade.</p>\n\n<p>What I would like is to get what I add to <a href=\"http://radio3.io/users/frankm/rss.xml\">my linkblog feed</a>, which is RSS/XML, in to Daytona. What I need is a way to copy new entries of an RSS file to an OPML file that could be stored in Drummer and indexed by Daytona. I don&rsquo;t need this to happen in real time, I could live with producing the file once a month. Note that you can see my linkblog feed in the <a href=\"http://oldschool.scripting.com/frankm/?tab=links\">Links tab of my daynotes site</a>.</p>\n\n<p>I imagine a nodejs script that takes as input a RSS xml file, reads each item and creates a new OPML node with the content and link to the article. The output would be a corresponding OPML file written in the same directory that I could import in to Drummer. The OPML structure could be based on the date. For example, the top level node is the month, and the child nodes would be date. Pretty much the Drummer blog structure. The RSS items on a date would be children of the date nodes.</p>\n\n<p>If I had such a RSS to OPML script I would use it to make OPML versions of my Radio3 linkblog feed, my FeedLand Feed, and maybe even my micro.blog RSS file. The result would index all the content I publish to the web in Daytona that I could then search for when desired.</p>\n",
+				"content_text": "[Daytona](http://daytona.scripting.com) is effectively a personal search engine that indexes the OPML files stored with my Drummer account. I am able to use it to search through a good chunk of my writing that I have published to the web over the last decade. \n\nWhat I would like is to get what I add to [my linkblog feed](http://radio3.io/users/frankm/rss.xml), which is RSS/XML, in to Daytona. What I need is a way to copy new entries of an RSS file to an OPML file that could be stored in Drummer and indexed by Daytona. I don't need this to happen in real time, I could live with producing the file once a month. Note that you can see my linkblog feed in the [Links tab of my daynotes site](http://oldschool.scripting.com/frankm/?tab=links). \n\nI imagine a nodejs script that takes as input a RSS xml file, reads each item and creates a new OPML node with the content and link to the article. The output would be a corresponding OPML file written in the same directory that I could import in to Drummer. The OPML structure could be based on the date. For example, the top level node is the month, and the child nodes would be date. Pretty much the Drummer blog structure. The RSS items on a date would be children of the date nodes. \n\nIf I had such a RSS to OPML script I would use it to make OPML versions of my Radio3 linkblog feed, my FeedLand Feed, and maybe even my micro.blog RSS file. The result would index all the content I publish to the web in Daytona that I could then search for when desired. \n\n\n",
+				"date_published": "2022-11-12T16:54:00-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/12/rss-to-opml.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/12/reading-an-article.html",
+				
+				"content_html": "<p>Reading <a href=\"https://www.raspberrypi.com/news/an-escape-pod-was-jettisoned-during-the-fighting/\">an article written by the folks at raspberrypi.com</a> about why they set up their own Mastodon instance, and I find the following statement interesting and compelling. It goes on to state how their DNS registrar effectively provides verification that they are who they are.</p>\n\n<blockquote>\n<p>We’ve opted to host our own instance. We’ve done this because, with multiple instances out there, we had to decide how to make sure people following us knew that our Raspberry Pi account was the “real” one.</p>\n</blockquote>\n",
+				"content_text": "Reading [an article written by the folks at raspberrypi.com](https://www.raspberrypi.com/news/an-escape-pod-was-jettisoned-during-the-fighting/) about why they set up their own Mastodon instance, and I find the following statement interesting and compelling. It goes on to state how their DNS registrar effectively provides verification that they are who they are. \n\n> We’ve opted to host our own instance. We’ve done this because, with multiple instances out there, we had to decide how to make sure people following us knew that our Raspberry Pi account was the “real” one.\n\n",
+				"date_published": "2022-11-12T12:10:46-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/12/reading-an-article.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/12/busted-out-the.html",
+				
+				"content_html": "<p>Busted out the <a href=\"https://en.m.wikipedia.org/wiki/Stormy_Kromer_cap\">Stormy Kromer</a> for my morning walk. Outdoor temperature dropped from 60 degrees yesterday to 36 today, and the forecast for the upcoming week has highs only in the 40s. ❄️</p>\n\n<p><img src=\"uploads/2022/6050aa8afc.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Busted out the [Stormy Kromer](https://en.m.wikipedia.org/wiki/Stormy_Kromer_cap) for my morning walk. Outdoor temperature dropped from 60 degrees yesterday to 36 today, and the forecast for the upcoming week has highs only in the 40s. ❄️ \n\n<img src=\"uploads/2022/6050aa8afc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-12T11:19:50-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/12/busted-out-the.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/12/the-only-stream.html",
+				
+				"content_html": "<p>The only stream that I follow consistently and frequently is my RSS stream. While I cross post what I write on my blog to Twitter, I don’t check Twitter often, mostly just during events like the Super Bowl. I check my micro.blog stream a couple times a day, and I frankly appreciate its smaller size (relative to Twitter) that makes it easier to get to know people over time.</p>\n\n<p>I created an account on Mastodon this week, but it overwhelms me in the same way as Twitter. Too much from too many people I don’t know. I feel like I am already at max news/social streams and don’t need more nor alternatives. Debating about whether I even want to find an app for Mastodon to put on my iPad.</p>\n",
+				"content_text": "The only stream that I follow consistently and frequently is my RSS stream. While I cross post what I write on my blog to Twitter, I don’t check Twitter often, mostly just during events like the Super Bowl. I check my micro.blog stream a couple times a day, and I frankly appreciate its smaller size (relative to Twitter) that makes it easier to get to know people over time. \n\nI created an account on Mastodon this week, but it overwhelms me in the same way as Twitter. Too much from too many people I don’t know. I feel like I am already at max news/social streams and don’t need more nor alternatives. Debating about whether I even want to find an app for Mastodon to put on my iPad. \n",
+				"date_published": "2022-11-12T10:49:03-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/12/the-only-stream.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2022/11/10/i-connected-the.html",
+				
+				"content_html": "<p>I connected the Freedom Pro folding Bluetooth keyboard to the Surface Duo and put the Duo in the Nulaxy folding stand to enable this little, portable mobile workstation. It has been a long time since I have used this keyboard, but it works pretty well.</p>\n\n<p><img src=\"uploads/2022/e8d60f8ee4.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "I connected the Freedom Pro folding Bluetooth keyboard to the Surface Duo and put the Duo in the Nulaxy folding stand to enable this little, portable mobile workstation. It has been a long time since I have used this keyboard, but it works pretty well.\n\n\n<img src=\"uploads/2022/e8d60f8ee4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-11-10T20:22:21-05:00",
+				"url": "https://frankmcpherson.blog/2022/11/10/i-connected-the.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2022/11/10/putting-these-here.html",
 				
 				"content_html": "<p>Putting these here for future reference, good stuff from the micro.blog community.</p>\n\n<ul>\n<li><a href=\"https://micro.camp/2021/\">Micro Camp 2021</a></li>\n<li><a href=\"https://micro.camp/\">Micro Camp 2022</a></li>\n</ul>\n",
