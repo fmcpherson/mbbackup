@@ -7,6 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2023/02/06/the-sooner-everyone.html",
+				
+				"content_html": "<p>The sooner everyone lets go of Twitter, the better. Musk is not a benevolent dictator and you can see that Twitter is going to end up with a Private Equity firm that will be less benevolent.</p>\n",
+				"content_text": "The sooner everyone lets go of Twitter, the better. Musk is not a benevolent dictator and you can see that Twitter is going to end up with a Private Equity firm that will be less benevolent. \n",
+				"date_published": "2023-02-06T11:44:19-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/06/the-sooner-everyone.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/05/currently-reading-lord.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781950385782\">Lord, I Don&rsquo;t Want to Die a Christian</a> by Chandrika Phea 📚</p>\n\n<p>“I have heard that the ultimate expression of worship is obedience to a God-given command, submission, and giving. I have also heard that the ultimate expression to God is serving. But personal evolution leads me to believe that the ultimate expression of worship to God is being—being whom He created me to be. It is doing what He created me to do, being my purpose, and therefore doing my purpose. If I were asked, today, “What is worship to you?” Worship is doing what I’ve been created to do, what I am purposed to do and that is, to just be.”</p>\n",
+				"content_text": "Currently reading: [Lord, I Don't Want to Die a Christian](https://micro.blog/books/9781950385782) by Chandrika Phea 📚\n\n“I have heard that the ultimate expression of worship is obedience to a God-given command, submission, and giving. I have also heard that the ultimate expression to God is serving. But personal evolution leads me to believe that the ultimate expression of worship to God is being—being whom He created me to be. It is doing what He created me to do, being my purpose, and therefore doing my purpose. If I were asked, today, “What is worship to you?” Worship is doing what I’ve been created to do, what I am purposed to do and that is, to just be.”\n",
+				"date_published": "2023-02-05T11:35:24-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/05/currently-reading-lord.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/03/writing-microblog-posts.html",
+				"title": "Writing Microblog Posts Using Drummer",
+				"content_html": "<p>The three posts below were intended to be part of one post. I wrote them using Drummer, forgetting that the publish script I use treats each node as a separate post.</p>\n\n<p>I suspect if I want everything in one post I need to write them as a child of a parent node in Drummer. This is a quick test. Confirmed.</p>\n",
+				"content_text": "The three posts below were intended to be part of one post. I wrote them using Drummer, forgetting that the publish script I use treats each node as a separate post. \n\nI suspect if I want everything in one post I need to write them as a child of a parent node in Drummer. This is a quick test. Confirmed.\n",
+				"date_published": "2023-02-03T10:08:31-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/03/writing-microblog-posts.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/03/truth-is-ipads.html",
+				
+				"content_html": "<p>Truth is, iPads and Macs are tools, and the choice between which one is used is not life and death. It&rsquo;s ok to choose a Mac over an iPad, and vice versa, and there is no real reason to try and convince someone that their choices are wrong. Apple does not expect either device to be the best for every single use case, otherwise they would only sell one device.</p>\n",
+				"content_text": "Truth is, iPads and Macs are tools, and the choice between which one is used is not life and death. It's ok to choose a Mac over an iPad, and vice versa, and there is no real reason to try and convince someone that their choices are wrong. Apple does not expect either device to be the best for every single use case, otherwise they would only sell one device. \n",
+				"date_published": "2023-02-03T09:56:44-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/03/truth-is-ipads.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/03/as-the-ipad.html",
+				
+				"content_html": "<p>As the iPad has never been intended to function exactly like notebook and desktop computers, I doubt Apple will ever make them work exactly the same. You are never going to see MacOS running on iPads even if it could. Power users have been pushing Apple to make the iPad function more like Macs, and honestly iPadOS has moved a long way toward that direction. Much more than I would have ever expected. But the reality is, the iPad is never going to be a MacOS tablet and so one needs to come to terms with that reality. (Do you really want a Windows Tablet?)</p>\n",
+				"content_text": "As the iPad has never been intended to function exactly like notebook and desktop computers, I doubt Apple will ever make them work exactly the same. You are never going to see MacOS running on iPads even if it could. Power users have been pushing Apple to make the iPad function more like Macs, and honestly iPadOS has moved a long way toward that direction. Much more than I would have ever expected. But the reality is, the iPad is never going to be a MacOS tablet and so one needs to come to terms with that reality. (Do you really want a Windows Tablet?)\n",
+				"date_published": "2023-02-03T09:52:56-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/03/as-the-ipad.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/03/interesting-thread-of.html",
+				
+				"content_html": "<p><a href=\"https://www.macstories.net/stories/the-practicality-of-art-in-software/\">Interesting</a> <a href=\"https://heyscottyj.com/2023/02/02/so-about-ipads.html\">thread</a> of <a href=\"http://beardyguycreative.com/blog/2023/02/02/some-ipad-users-really-should-just-use-a-mac/\">discussion</a> regarding (once again) the limitations of iPadOS in comparison to other operating systems. Those who wish to use the iPad for use cases for which it was not originally intended are caught between the possibilities for how iPads could be used and the realities of how iPads can be used. The possibilities are driven mostly by the iPad hardware that is just as capable as Apple notebooks and desktops while the realities are driven by iPadOS that defines how Apple intends the hardware to be used.</p>\n",
+				"content_text": "<a href=\"https://www.macstories.net/stories/the-practicality-of-art-in-software/\">Interesting</a> <a href=\"https://heyscottyj.com/2023/02/02/so-about-ipads.html\">thread</a> of <a href=\"http://beardyguycreative.com/blog/2023/02/02/some-ipad-users-really-should-just-use-a-mac/\">discussion</a> regarding (once again) the limitations of iPadOS in comparison to other operating systems. Those who wish to use the iPad for use cases for which it was not originally intended are caught between the possibilities for how iPads could be used and the realities of how iPads can be used. The possibilities are driven mostly by the iPad hardware that is just as capable as Apple notebooks and desktops while the realities are driven by iPadOS that defines how Apple intends the hardware to be used.  \n",
+				"date_published": "2023-02-03T09:49:01-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/03/interesting-thread-of.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/02/during-the-process.html",
+				
+				"content_html": "<p>During the process of moving my outline files to Drummer, I created a new outline for the <a href=\"http://2023books.frankm.info\">books I&rsquo;ve read this year</a> and added 2023 to <a href=\"http://books.frankm.info\">my main book index</a>.</p>\n",
+				"content_text": "During the process of moving my outline files to Drummer, I created a new outline for the <a href=\"http://2023books.frankm.info\">books I've read this year</a> and added 2023 to <a href=\"http://books.frankm.info\">my main book index</a>.\n",
+				"date_published": "2023-02-02T16:54:45-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/02/during-the-process.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/02/today-i-learned.html",
+				
+				"content_html": "<p><a href=\"http://oldschool.scripting.com/frankm/2023/02/02.html#a150611\">Today I learned</a> that Twitter is shutting down their public API, which may impact Dave Winer&rsquo;s outlining apps that I use. I have been using Little Outliner, which you can think of as an older iteration of Drummer, to maintain <a href=\"http://frankm.info\">my Now page</a> along with outlines that I maintain for the <a href=\"http://tech.frankm.info\">technology</a> I use and the <a href=\"http://books.frankm.info\">books</a> that I read. Because of the news, today I moved all of these outline files to Drummer so that I can continue editing them. Fortunately, because I am using DNS and an alias URL to forward to the public rendering of these files, none the links to them from here should break.</p>\n",
+				"content_text": "<a href=\"http://oldschool.scripting.com/frankm/2023/02/02.html#a150611\">Today I learned</a> that Twitter is shutting down their public API, which may impact Dave Winer's outlining apps that I use. I have been using Little Outliner, which you can think of as an older iteration of Drummer, to maintain <a href=\"http://frankm.info\">my Now page</a> along with outlines that I maintain for the <a href=\"http://tech.frankm.info\">technology</a> I use and the <a href=\"http://books.frankm.info\">books</a> that I read. Because of the news, today I moved all of these outline files to Drummer so that I can continue editing them. Fortunately, because I am using DNS and an alias URL to forward to the public rendering of these files, none the links to them from here should break.\n",
+				"date_published": "2023-02-02T16:42:53-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/02/today-i-learned.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/02/01/its-shocking-to.html",
+				
+				"content_html": "<p>It&rsquo;s shocking to me that so many Christians could read <a href=\"https://www.theatlantic.com/ideas/archive/2023/02/tyre-nichols-white-supremacy-racism/672903/?utm_source=feed\">this article</a> and not realize that Jesus enountered <a href=\"Luke 10:25-29\">this problem</a> and taught <a href=\"https://www.biblegateway.com/passage/?search=Luke+10%3A30-37&amp;version=NRSVUE\">the answer</a>.  We Christians do not live out what Jesus taught, and thus provide no example to and have no moral authority with those with whom we occupy this planet.</p>\n\n<p>P.S. Note that Jesus did not say, &ldquo;love your neighbor like you love yourself,&rdquo; he said something even more profound, &ldquo;love your neighbor as yourself.&rdquo; You are a part of me that I do not yet know.</p>\n",
+				"content_text": "It's shocking to me that so many Christians could read [this article](https://www.theatlantic.com/ideas/archive/2023/02/tyre-nichols-white-supremacy-racism/672903/?utm_source=feed) and not realize that Jesus enountered [this problem](Luke 10:25-29) and taught [the answer](https://www.biblegateway.com/passage/?search=Luke+10%3A30-37&version=NRSVUE).  We Christians do not live out what Jesus taught, and thus provide no example to and have no moral authority with those with whom we occupy this planet. \r\n\r\nP.S. Note that Jesus did not say, \"love your neighbor like you love yourself,\" he said something even more profound, \"love your neighbor as yourself.\" You are a part of me that I do not yet know.\n",
+				"date_published": "2023-02-01T15:14:08-05:00",
+				"url": "https://frankmcpherson.blog/2023/02/01/its-shocking-to.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2023/01/29/finished-reading-journey.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780664267315\">Journey to the Common Good</a> by Walter Brueggemann 📚</p>\n\n<p>“I believe it is impossible to overstate the defining nature of the empire of force among us, if empire is understood as a political, economic, military, ideological practice of self-security and control. It is not clear that life can be construed beyond empire; but the poets have to try. The poets, because they are poets, never arrive there, for their poetry would then become program. That, however, does not render the poetry as a failure or as an irrelevance. It only affirms that alternatives to the lethal reductionism of empire require imagination and courage and staying power. In that ancient world, it was required that old Jerusalem be relinquished and new Jerusalem be undertaken. It is no less required now that there be relinquishing and undertaking.”</p>\n",
@@ -44,8 +117,8 @@
 			{
 				"id": "http://frankm.micro.blog/2023/01/25/there-are-a.html",
 				
-				"content_html": "<p>There are a couple of inches of snow on the ground, and if it can continues at this rate I can  see us getting four or more inches in total.</p>\n\n<p><img src=\"uploads/2023/242fcf6997.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "There are a couple of inches of snow on the ground, and if it can continues at this rate I can  see us getting four or more inches in total. \n\n\n\n<img src=\"uploads/2023/242fcf6997.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>There are a couple of inches of snow on the ground, and if it can continues at this rate I can  see us getting four or more inches in total.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2023/242fcf6997.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "There are a couple of inches of snow on the ground, and if it can continues at this rate I can  see us getting four or more inches in total. \n\n\n\n<img src=\"https://frankmcpherson.blog/uploads/2023/242fcf6997.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-25T10:00:53-05:00",
 				"url": "https://frankmcpherson.blog/2023/01/25/there-are-a.html"
 			},
