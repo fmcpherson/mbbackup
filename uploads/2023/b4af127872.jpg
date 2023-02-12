@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=pcmanfm-qt /home/frank
+Icon=user-home
+Name=frank
