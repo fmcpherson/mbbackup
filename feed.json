@@ -7,6 +7,81 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2023/05/15/temperature-back-down.html",
+				
+				"content_html": "<p>Temperature back down into the forties this morning, turned the furnace back on to get the basement home office comfortable.</p>\n",
+				"content_text": "Temperature back down into the forties this morning, turned the furnace back on to get the basement home office comfortable. \n",
+				"date_published": "2023-05-15T09:14:39-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/15/temperature-back-down.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/13/i-wonder-what.html",
+				
+				"content_html": "<p>I wonder what will be the price of <a href=\"https://www.xda-developers.com/google-pixel-tablet/\">the Pixel Tablet</a> come this Christmas? I bet near $400.</p>\n",
+				"content_text": "I wonder what will be the price of [the Pixel Tablet](https://www.xda-developers.com/google-pixel-tablet/) come this Christmas? I bet near $400. \n",
+				"date_published": "2023-05-13T12:01:31-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/13/i-wonder-what.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/13/if-i-were.html",
+				
+				"content_html": "<p>If I were in charge of <a href=\"https://wired.trib.al/rTNlws1\">marketing a foldable phone</a>, I think I would call it a mobile 2-in-1 rather than foldable because that puts emphasis on the functionality. From using the original Surface Duo learned that you have to think of these devices as a small tablet first and a smartphone second.</p>\n\n<p>I could be a target consumer for these devices because I am a heavy tablet user and a lite phone user, and I use both devices every day. The problem is, no foldable is ever going to be as thin as a standard smartphone and feel comfortable in front pants pockets.</p>\n\n<p>Price is a real constraint right now. When the price drops to a comparable to smartphone + tablet then it will be more compelling. So I wonder, how long will it take for a new foldable to cost $800 or less?</p>\n",
+				"content_text": "If I were in charge of [marketing a foldable phone](https://wired.trib.al/rTNlws1), I think I would call it a mobile 2-in-1 rather than foldable because that puts emphasis on the functionality. From using the original Surface Duo learned that you have to think of these devices as a small tablet first and a smartphone second. \n\nI could be a target consumer for these devices because I am a heavy tablet user and a lite phone user, and I use both devices every day. The problem is, no foldable is ever going to be as thin as a standard smartphone and feel comfortable in front pants pockets. \n\nPrice is a real constraint right now. When the price drops to a comparable to smartphone + tablet then it will be more compelling. So I wonder, how long will it take for a new foldable to cost $800 or less?\n",
+				"date_published": "2023-05-13T11:54:30-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/13/if-i-were.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/13/in-the-category.html",
+				
+				"content_html": "<p>In the category of just because we can do something doesn&rsquo;t mean we have to.</p>\n\n<blockquote>\n<p>The reality is that Fortune 100 companies will hire McKinsey instead of your pro-social firm, because McKinsey’s solutions will increase shareholder value more than your firm’s solutions will. It will always be possible to build A.I. that pursues shareholder value above all else, and most companies will prefer to use that A.I. instead of one constrained by your principles</p>\n</blockquote>\n\n<p>Source: Ted Chiang, “Will A.I. Become the New McKinsey?” Via <a href=\"https://www.schneier.com/blog/archives/2023/05/ted-chiang-on-the-risks-of-ai.html\">Schneier On Security</a></p>\n",
+				"content_text": "In the category of just because we can do something doesn't mean we have to.  \n\n> The reality is that Fortune 100 companies will hire McKinsey instead of your pro-social firm, because McKinsey’s solutions will increase shareholder value more than your firm’s solutions will. It will always be possible to build A.I. that pursues shareholder value above all else, and most companies will prefer to use that A.I. instead of one constrained by your principles\n\nSource: Ted Chiang, “Will A.I. Become the New McKinsey?” Via [Schneier On Security](https://www.schneier.com/blog/archives/2023/05/ted-chiang-on-the-risks-of-ai.html)\n",
+				"date_published": "2023-05-13T10:57:47-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/13/in-the-category.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/12/it-is-practically.html",
+				
+				"content_html": "<p>It is <a href=\"http://scripting.com/2023/05/12/122333.html\">practically impossible to trust any of the cable TV news outlets</a> because they are all owned by corporations who we know to be driven by profit motive. Even if one likes to watch Fox News or CNN and what you see is everything that you like to see, you should be smart enough to realize the only reason why you see it is for Fox or CNN to make money. It doesn&rsquo;t matter whether it is true and it certain is not fair and balanced or simply &ldquo;calling balls and strikes.&rdquo;</p>\n\n<p>So yes,  you can blame the networks for what they are doing, but really, the problem is with the voters who appear to rather be entertained more than participate in democracy.</p>\n",
+				"content_text": "It is [practically impossible to trust any of the cable TV news outlets](http://scripting.com/2023/05/12/122333.html) because they are all owned by corporations who we know to be driven by profit motive. Even if one likes to watch Fox News or CNN and what you see is everything that you like to see, you should be smart enough to realize the only reason why you see it is for Fox or CNN to make money. It doesn't matter whether it is true and it certain is not fair and balanced or simply \"calling balls and strikes.\" \r\n\r\nSo yes,  you can blame the networks for what they are doing, but really, the problem is with the voters who appear to rather be entertained more than participate in democracy. \n",
+				"date_published": "2023-05-12T09:15:07-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/12/it-is-practically.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/11/this-eink-display.html",
+				
+				"content_html": "<p><a href=\"https://www.imore.com/accessories/an-e-ink-desktop-monitor-isnt-mad-and-this-wild-philips-screen-could-prove-it\">This E-Ink display</a> by Philips looks really interesting although right now a bit too expensive. Not available in the United States.</p>\n",
+				"content_text": "<a href=\"https://www.imore.com/accessories/an-e-ink-desktop-monitor-isnt-mad-and-this-wild-philips-screen-could-prove-it\">This E-Ink display</a> by Philips looks really interesting although right now a bit too expensive. Not available in the United States. \n",
+				"date_published": "2023-05-11T17:45:50-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/11/this-eink-display.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/11/as-steven-describes.html",
+				
+				"content_html": "<p><a href=\"https://adjacentpossible.substack.com/p/project-tailwind?publication_id=514230&post_id=120618753&isFreemail=false\">As Steven describes it</a>, Tailwind is a &ldquo;personal&rdquo; Large Language Model that an individual can train based on their own input. It sounds very much like <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/\">the personal chatbot that Dave Winer is using</a> that is <a href=\"http://scripting.com/2023/04/06.html#a154106\">trained on all 20+ years of his blog posts</a>, and having access to something like that I find very interesting. Curation and interaction with my own personal knowledge base is how I have hoped to use Roam Research, but I find Roam works very well for curation but not as well for interaction.</p>\n",
+				"content_text": "<a href=\"https://adjacentpossible.substack.com/p/project-tailwind?publication_id=514230&post_id=120618753&isFreemail=false\">As Steven describes it</a>, Tailwind is a \"personal\" Large Language Model that an individual can train based on their own input. It sounds very much like <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/\">the personal chatbot that Dave Winer is using</a> that is <a href=\"http://scripting.com/2023/04/06.html#a154106\">trained on all 20+ years of his blog posts</a>, and having access to something like that I find very interesting. Curation and interaction with my own personal knowledge base is how I have hoped to use Roam Research, but I find Roam works very well for curation but not as well for interaction.\n",
+				"date_published": "2023-05-11T09:09:03-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/11/as-steven-describes.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/11/like-a-lot.html",
+				
+				"content_html": "<p>Like a lot of people, I imagine, I was frustrated while watching most of the Google I/O keynote yesterday because I was more interested in the hardware and Android announcements, things that I use every day, than Google&rsquo;s AI announcements. Consequently, I didn&rsquo;t pay close attention to most of the AI stuff. Later that evening I received <a href=\"https://substack.com/@adjacentpossible\">Steven Johnson&rsquo;s newsletter</a> and learned about <a href=\"https://techcrunch.com/2023/05/10/with-project-tailwind-google-aims-to-make-note-taking-smarter/\">Project Tailwind</a>, which he contributed on.</p>\n",
+				"content_text": "Like a lot of people, I imagine, I was frustrated while watching most of the Google I/O keynote yesterday because I was more interested in the hardware and Android announcements, things that I use every day, than Google's AI announcements. Consequently, I didn't pay close attention to most of the AI stuff. Later that evening I received <a href=\"https://substack.com/@adjacentpossible\">Steven Johnson's newsletter</a> and learned about <a href=\"https://techcrunch.com/2023/05/10/with-project-tailwind-google-aims-to-make-note-taking-smarter/\">Project Tailwind</a>, which he contributed on.\n",
+				"date_published": "2023-05-11T09:05:51-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/11/like-a-lot.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/10/i-think-the.html",
+				
+				"content_html": "<p>I think <a href=\"https://www.bleachernation.com/cubs/2023/05/10/what-is-happening-hosmers-role-suzukis-slump-taillons-night-left-on-base-and-other-cubs-bullets/\">the Cubs are being hurt</a> most by Seiya Suzuki not hitting, continuing to play Eric Hosmer, and Yan Gome&rsquo;s injury. The Cub really need Suzuki to start hitting and stop putting Hosmer in the line up. If you are going to lose, better for the future to lose with young players getting MLB experience.</p>\n",
+				"content_text": "I think [the Cubs are being hurt](https://www.bleachernation.com/cubs/2023/05/10/what-is-happening-hosmers-role-suzukis-slump-taillons-night-left-on-base-and-other-cubs-bullets/) most by Seiya Suzuki not hitting, continuing to play Eric Hosmer, and Yan Gome's injury. The Cub really need Suzuki to start hitting and stop putting Hosmer in the line up. If you are going to lose, better for the future to lose with young players getting MLB experience. \n",
+				"date_published": "2023-05-10T14:09:57-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/10/i-think-the.html",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2023/05/08/impressive-new-zealand.html",
 				
 				"content_html": "<p>Impressive <a href=\"https://farhanabi.com/travel/NZ/day-1/\">New Zealand road trip</a> journal/web site.</p>\n",
@@ -42,8 +117,8 @@
 			{
 				"id": "http://frankm.micro.blog/2023/05/06/good-morning.html",
 				
-				"content_html": "<p>Good morning</p>\n\n<p><img src=\"uploads/2023/450eb9b3a3.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Good morning\n\n\n\n<img src=\"uploads/2023/450eb9b3a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Good morning</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/450eb9b3a3.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Good morning\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/450eb9b3a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-06T10:20:36-04:00",
 				"url": "https://frankmcpherson.blog/2023/05/06/good-morning.html"
 			},
