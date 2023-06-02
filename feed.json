@@ -7,10 +7,107 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2023/06/01/roses-are-blooming.html",
+				
+				"content_html": "<p>Roses are blooming</p>\n\n<p><img src=\"uploads/2023/20573e7b9d.jpg\" width=\"600\" height=\"450\" alt=\"Red rose\"></p>\n",
+				"content_text": "Roses are blooming\n\n\n\n<img src=\"uploads/2023/20573e7b9d.jpg\" width=\"600\" height=\"450\" alt=\"Red rose\">\n",
+				"date_published": "2023-06-01T21:50:05-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/01/roses-are-blooming.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/01/ive-created-a.html",
+				
+				"content_html": "<p>I&rsquo;ve created a public <a href=\"https://github.com/fmcpherson/OPML\">repo on Github</a> that contains an archive of my blog archive files. The files contain blog posts starting in March, 2014 to present. Perhaps some time in the future I will find a way to search against these files. One remaining group of blog posts are on my WordPress site going back to <a href=\"https://fjmnotes.com/2008/05/10/welcome-to-my-new-site/\">May, 2008</a>. I need to find a way to export those old posts, but that is a bit of a mess because I&rsquo;ve been cross-posting to that WordPress site from my current blog.</p>\n",
+				"content_text": "I've created a public <a href=\"https://github.com/fmcpherson/OPML\">repo on Github</a> that contains an archive of my blog archive files. The files contain blog posts starting in March, 2014 to present. Perhaps some time in the future I will find a way to search against these files. One remaining group of blog posts are on my WordPress site going back to <a href=\"https://fjmnotes.com/2008/05/10/welcome-to-my-new-site/\">May, 2008</a>. I need to find a way to export those old posts, but that is a bit of a mess because I've been cross-posting to that WordPress site from my current blog. \n",
+				"date_published": "2023-06-01T10:16:21-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/01/ive-created-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/31/everyone-wants-the.html",
+				
+				"content_html": "<p>Everyone wants the government to spend less. Politicians threaten to destroy the full faith and credit of the United States with claims they desire to cut spending. Logically, if you seriously want to cut spending you do so by cutting where you most spend money, and <a href=\"https://popular.info/p/there-is-always-more-money-for-defense\">the U.S. government spends the vast majority of the money we give in taxes on the military</a>. The government makes incremental cuts on non-military programs that actually help citizens that are never intended to be consequential, while at the same time spending more in the area in which they spend the most, the military.</p>\n",
+				"content_text": "Everyone wants the government to spend less. Politicians threaten to destroy the full faith and credit of the United States with claims they desire to cut spending. Logically, if you seriously want to cut spending you do so by cutting where you most spend money, and [the U.S. government spends the vast majority of the money we give in taxes on the military](https://popular.info/p/there-is-always-more-money-for-defense). The government makes incremental cuts on non-military programs that actually help citizens that are never intended to be consequential, while at the same time spending more in the area in which they spend the most, the military. \n",
+				"date_published": "2023-05-31T12:00:45-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/31/everyone-wants-the.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/31/with-ai-focus.html",
+				"title": "With AI, Focus On The People",
+				"content_html": "<p>When I read something about the dangers of AI I can&rsquo;t help but fear the writers are missing an important point. Saying that AI is bad is like saying the Internet is bad or guns are bad. In truth none of these items are bad. What is bad, and what we need to focus on, is that there are bad people who can and will use these items to amplify what they can do and thus inflict harm on others.</p>\n\n<p>Back before the Internet was known by most of the world those who supported it advocated for all of the good it can do, but we failed to take in to account how it can be used for harm. What is common among AI, the Internet, and guns, particularly automatic guns, is the scale and speed at which harm can be done.</p>\n\n<p>So, my advice is, focus a bit less on the technology and more on the ways in which people want and might use that technology for harm and then craft policies aimed at constraining the the people who may do that harm. It might be making a nuanced argument, but I think it is an important one when encountering those who see themselves as needing to defend/protect the items.</p>\n",
+				"content_text": "When I read something about the dangers of AI I can't help but fear the writers are missing an important point. Saying that AI is bad is like saying the Internet is bad or guns are bad. In truth none of these items are bad. What is bad, and what we need to focus on, is that there are bad people who can and will use these items to amplify what they can do and thus inflict harm on others. \r\n\r\nBack before the Internet was known by most of the world those who supported it advocated for all of the good it can do, but we failed to take in to account how it can be used for harm. What is common among AI, the Internet, and guns, particularly automatic guns, is the scale and speed at which harm can be done. \r\n\r\nSo, my advice is, focus a bit less on the technology and more on the ways in which people want and might use that technology for harm and then craft policies aimed at constraining the the people who may do that harm. It might be making a nuanced argument, but I think it is an important one when encountering those who see themselves as needing to defend/protect the items. \n",
+				"date_published": "2023-05-31T09:01:33-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/31/with-ai-focus.html",
+				"tags": ["Thoughts","Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/30/army-talk-orientation.html",
+				
+				"content_html": "<p>Army Talk Orientation Fact Sheet, <a href=\"https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism/mode/2up\">Fascism!</a> March 24, 1945.</p>\n",
+				"content_text": "Army Talk Orientation Fact Sheet, <a href=\"https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism/mode/2up\">Fascism!</a> March 24, 1945. \n",
+				"date_published": "2023-05-30T16:09:35-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/30/army-talk-orientation.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/30/ive-been-walkingsince.html",
+				
+				"content_html": "<p>I&rsquo;ve been walking&hellip;since last July</p>\n\n<p><img src=\"uploads/2023/beeeb041e6.jpg\" width=\"600\" height=\"469\" alt=\"\"></p>\n",
+				"content_text": "I've been walking...since last July\n\n\n\n<img src=\"uploads/2023/beeeb041e6.jpg\" width=\"600\" height=\"469\" alt=\"\">\n",
+				"date_published": "2023-05-30T15:32:33-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/30/ive-been-walkingsince.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/30/thinking-about-large.html",
+				
+				"content_html": "<p>Thinking about <a href=\"https://www.fastcompany.com/90884581/what-is-a-large-language-model\">Large Language Models</a> like chatGPT has me considering the idea that the keyboard could disappear as the primary input device to a computer, which is hard to imagine because keyboards have always been the primary input device to computers. Even when punch cards were the computer input device the cards were made using a keyboard. LLMs might make voice input a real thing although editing the results of speech to text needs to be easier.</p>\n",
+				"content_text": "Thinking about <a href=\"https://www.fastcompany.com/90884581/what-is-a-large-language-model\">Large Language Models</a> like chatGPT has me considering the idea that the keyboard could disappear as the primary input device to a computer, which is hard to imagine because keyboards have always been the primary input device to computers. Even when punch cards were the computer input device the cards were made using a keyboard. LLMs might make voice input a real thing although editing the results of speech to text needs to be easier. \n",
+				"date_published": "2023-05-30T13:20:38-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/30/thinking-about-large.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/30/was-the-show.html",
+				
+				"content_html": "<p>Was the &ldquo;Show More&rdquo; button always on the Discover feed? I don&rsquo;t think it was and not sure how I feel about it, I like the idea of limits on scrolling.</p>\n",
+				"content_text": "Was the \"Show More\" button always on the Discover feed? I don't think it was and not sure how I feel about it, I like the idea of limits on scrolling. \n",
+				"date_published": "2023-05-30T09:30:24-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/30/was-the-show.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/30/some-time-today.html",
+				
+				"content_html": "<p>Some time today I <a href=\"http://pagepark.frankmcpherson.net/whatIsFrankDoing.opml#1680527155000\">will walk the 1,000th mile</a> virtually along the Appalachian Trail since July 24, 2022.</p>\n",
+				"content_text": "Some time today I <a href=\"http://pagepark.frankmcpherson.net/whatIsFrankDoing.opml#1680527155000\">will walk the 1,000th mile</a> virtually along the Appalachian Trail since July 24, 2022.\n",
+				"date_published": "2023-05-30T09:17:20-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/30/some-time-today.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/29/do-you-really.html",
+				
+				"content_html": "<p>&ldquo;Do you really want freedom? If you do, it starts by tolerating those with whom you disagree and not treating them with contempt.&rdquo;  This Memorial Day <a href=\"https://frankmcpherson.blog/2018/05/29/tolerance-is-fundamental.html\">practice tolerance</a> as a sign of gratitude to those who paid the ultimate price for your freedom!</p>\n",
+				"content_text": "\"Do you really want freedom? If you do, it starts by tolerating those with whom you disagree and not treating them with contempt.\"  This Memorial Day [practice tolerance](https://frankmcpherson.blog/2018/05/29/tolerance-is-fundamental.html) as a sign of gratitude to those who paid the ultimate price for your freedom!\n",
+				"date_published": "2023-05-29T10:37:53-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/29/do-you-really.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/27/finished-reading-jesus.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938480324\">Jesus Unbound</a> by Keith Giles 📚\n“Remember: Our relationship is not with a book, but with a person. Yes, we may learn more details about this person from the book, but our actual relationship with the Author continues, even after we close that book.”</p>\n",
+				"content_text": "Finished reading: [Jesus Unbound](https://micro.blog/books/9781938480324) by Keith Giles 📚\n“Remember: Our relationship is not with a book, but with a person. Yes, we may learn more details about this person from the book, but our actual relationship with the Author continues, even after we close that book.”\n",
+				"date_published": "2023-05-27T12:38:09-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/27/finished-reading-jesus.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/05/27/we-waste-a.html",
+				
+				"content_html": "<p>&ldquo;We waste a lot of energy on the past and future when the present is all that’s guaranteed. We push for more—but really, we need to find our enough.&rdquo; &ndash; Sahil Bloom, <a href=\"https://www.thefp.com/p/the-time-billionaires-sahil-bloom\">The Time Billionaires</a></p>\n",
+				"content_text": "\"We waste a lot of energy on the past and future when the present is all that’s guaranteed. We push for more—but really, we need to find our enough.\" -- Sahil Bloom, [The Time Billionaires](https://www.thefp.com/p/the-time-billionaires-sahil-bloom)\n",
+				"date_published": "2023-05-27T11:23:48-04:00",
+				"url": "https://frankmcpherson.blog/2023/05/27/we-waste-a.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2023/05/27/dont-leaf-me.html",
 				
-				"content_html": "<p>Don&rsquo;t leaf me behind</p>\n\n<p><img src=\"uploads/2023/544f984f1f.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Don't leaf me behind\n\n\n\n<img src=\"uploads/2023/544f984f1f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Don&rsquo;t leaf me behind</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/544f984f1f.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Don't leaf me behind\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/544f984f1f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-27T10:46:50-04:00",
 				"url": "https://frankmcpherson.blog/2023/05/27/dont-leaf-me.html"
 			},
