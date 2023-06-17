@@ -7,18 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2023/06/17/i-am-grateful.html",
+				
+				"content_html": "<p>I am grateful for mornings like today, when the temperature is mild and there is a nice breeze with the birds chirping and fluttering about. I might sit here all day.</p>\n",
+				"content_text": "I am grateful for mornings like today, when the temperature is mild and there is a nice breeze with the birds chirping and fluttering about. I might sit here all day. \n",
+				"date_published": "2023-06-17T11:18:54-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/17/i-am-grateful.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/16/yesterday-the-chicago.html",
+				
+				"content_html": "<p>Yesterday the Chicago Cubs swept the NL Central leading Pittsburgh Pirates. The Cubs are currently 3.5 games behind the Pirates with a 31-37 record, the Pirates record is 34-33. The strategy for the NL Central should be to maintain at least a .500 record and you will have a chance to win the division come September, and based on that the Cubs being 6 games below .500 is a concern, but plenty of time to make it up as long as they keep winning series. Unfortunately, today the Cubs start a series against the Baltimore Orioles who are a better team with a 43-25 record. If the Cubs can win this series, they then travel to Pittsburgh for another three game series and an opportunity to make up ground. It&rsquo;s not too early to emphasize the importance of winning a series, and I think this one with the Orioles is an important one.</p>\n",
+				"content_text": "Yesterday the Chicago Cubs swept the NL Central leading Pittsburgh Pirates. The Cubs are currently 3.5 games behind the Pirates with a 31-37 record, the Pirates record is 34-33. The strategy for the NL Central should be to maintain at least a .500 record and you will have a chance to win the division come September, and based on that the Cubs being 6 games below .500 is a concern, but plenty of time to make it up as long as they keep winning series. Unfortunately, today the Cubs start a series against the Baltimore Orioles who are a better team with a 43-25 record. If the Cubs can win this series, they then travel to Pittsburgh for another three game series and an opportunity to make up ground. It's not too early to emphasize the importance of winning a series, and I think this one with the Orioles is an important one. \n",
+				"date_published": "2023-06-16T11:41:56-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/16/yesterday-the-chicago.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/14/yesterday-i-experienced.html",
+				
+				"content_html": "<p>Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground.</p>\n\n<p><img src=\"uploads/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground. \n\n\n\n<img src=\"uploads/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-14T13:52:37-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/14/yesterday-i-experienced.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/12/is-the-vision.html",
+				
+				"content_html": "<p>Is the Vision Pro an iPhone or a Newton?</p>\n",
+				"content_text": "Is the Vision Pro an iPhone or a Newton?\n",
+				"date_published": "2023-06-12T12:19:06-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/12/is-the-vision.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/12/i-like-sharing.html",
+				
+				"content_html": "<p>I like sharing pictures on this blog and I wish that micro.blog had a simple way for creating photo albums. I just returned from a trip and I would love to be able to upload pictures that I took during the trip to a separate page that I can just link to rather than post all the pictures to the main blog page. What I desire is to batch upload a bunch of photos, be prompted for a date and place and have the software automatically make a photo page. The only photos plug-ins involve changes to the &ldquo;default&rdquo; photos page or converting a blog to something like Instagram.</p>\n\n<p>I am not very sophisticated in managing my photos, they upload automatically to Google Photos and I use Syncthing to make a local backup. I can, and do, make albums in Google Photos, which used to be made automatically but no longer do.</p>\n",
+				"content_text": "I like sharing pictures on this blog and I wish that micro.blog had a simple way for creating photo albums. I just returned from a trip and I would love to be able to upload pictures that I took during the trip to a separate page that I can just link to rather than post all the pictures to the main blog page. What I desire is to batch upload a bunch of photos, be prompted for a date and place and have the software automatically make a photo page. The only photos plug-ins involve changes to the \"default\" photos page or converting a blog to something like Instagram.\n\nI am not very sophisticated in managing my photos, they upload automatically to Google Photos and I use Syncthing to make a local backup. I can, and do, make albums in Google Photos, which used to be made automatically but no longer do. \n",
+				"date_published": "2023-06-12T09:52:03-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/12/i-like-sharing.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/11/in-the-butterfly.html",
+				
+				"content_html": "<p>In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius.</p>\n\n<p><img src=\"uploads/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius. \n\n\n\n<img src=\"uploads/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-11T21:07:55-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/11/in-the-butterfly.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2023/06/11/i-am-experimenting.html",
 				
-				"content_html": "<p>I am experimenting with and learning about the wide angle lense of my Google Pixel 7a. I like how this picture turned out.</p>\n\n<p><img src=\"uploads/2023/579dacda73.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "I am experimenting with and learning about the wide angle lense of my Google Pixel 7a. I like how this picture turned out. \n\n\n\n<img src=\"uploads/2023/579dacda73.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>I am experimenting with and learning about the wide angle lense of my Google Pixel 7a. I like how this picture turned out.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/579dacda73.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "I am experimenting with and learning about the wide angle lense of my Google Pixel 7a. I like how this picture turned out. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/579dacda73.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-11T20:57:51-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/11/i-am-experimenting.html"
 			},
 			{
 				"id": "http://frankm.micro.blog/2023/06/06/railhouse-brewery-outta.html",
 				
-				"content_html": "<p>Railhouse Brewery Outta The Blue</p>\n\n<p><img src=\"uploads/2023/2f187919d2.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Railhouse Brewery Outta The Blue\n\n\n\n<img src=\"uploads/2023/2f187919d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Railhouse Brewery Outta The Blue</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/2f187919d2.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Railhouse Brewery Outta The Blue\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/2f187919d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-06T20:37:50-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/06/railhouse-brewery-outta.html"
 			},
@@ -57,8 +106,8 @@
 			{
 				"id": "http://frankm.micro.blog/2023/06/03/stand-off-king.html",
 				
-				"content_html": "<p>Stand off king of the hill</p>\n\n<p><img src=\"uploads/2023/31e532bc24.jpg\" width=\"600\" height=\"450\" alt=\"Deer and ducks on a grassy hill\"></p>\n",
-				"content_text": "Stand off king of the hill\n\n\n\n<img src=\"uploads/2023/31e532bc24.jpg\" width=\"600\" height=\"450\" alt=\"Deer and ducks on a grassy hill\">\n",
+				"content_html": "<p>Stand off king of the hill</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/31e532bc24.jpg\" width=\"600\" height=\"450\" alt=\"Deer and ducks on a grassy hill\"></p>\n",
+				"content_text": "Stand off king of the hill\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/31e532bc24.jpg\" width=\"600\" height=\"450\" alt=\"Deer and ducks on a grassy hill\">\n",
 				"date_published": "2023-06-03T20:36:16-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/03/stand-off-king.html"
 			},
