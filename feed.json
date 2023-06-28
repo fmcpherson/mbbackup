@@ -7,6 +7,89 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2023/06/28/smokey-eye-not.html",
+				"title": "Smokey Eye Not Good",
+				"content_html": "<p>I watched the Air Quality Index for my home showing on the Nest Hub creeping up all yesterday afternoon to as high as 193, due to the <a href=\"https://www.axios.com/2023/06/28/wildfire-smoke-chicago-midwest\">wildfires in Canada</a>. Right now it is 187 and I am planning on not going on my normal walks. It&rsquo;s troubling to me for it not to be raining or incredibly hot yet avoid being outdoors. Last night I watched the Cubs play in Chicago, somewhat surprised they were even playing the game with the AQI over 200. I would have expected the teams and Major League Baseball to be concerned about the health of players and the fans. As far as I know, there is no change coming soon.</p>\n\n<p>We have an <a href=\"https://www.airthings.com/wave-mini\">Airthings Wave Mini</a> in the basement to track humidity and temperature, but it also tracks what they call Volatile Organic Compounds, which are airborne chemicals emitted by every day items. The biggest influence I see on VOC in our house is the furnace and air conditioning and the good thing is that the AC was not running as much as it could so the VOC number has stayed in the good range. VOC is not the same as Particulate Matter pollution caused by the wildfires and currently affecting the outdoor air quality, I would need <a href=\"https://www.airthings.com/view-pollution\">a different sensor</a> for that reading.</p>\n",
+				"content_text": "I watched the Air Quality Index for my home showing on the Nest Hub creeping up all yesterday afternoon to as high as 193, due to the <a href=\"https://www.axios.com/2023/06/28/wildfire-smoke-chicago-midwest\">wildfires in Canada</a>. Right now it is 187 and I am planning on not going on my normal walks. It's troubling to me for it not to be raining or incredibly hot yet avoid being outdoors. Last night I watched the Cubs play in Chicago, somewhat surprised they were even playing the game with the AQI over 200. I would have expected the teams and Major League Baseball to be concerned about the health of players and the fans. As far as I know, there is no change coming soon.\n\nWe have an <a href=\"https://www.airthings.com/wave-mini\">Airthings Wave Mini</a> in the basement to track humidity and temperature, but it also tracks what they call Volatile Organic Compounds, which are airborne chemicals emitted by every day items. The biggest influence I see on VOC in our house is the furnace and air conditioning and the good thing is that the AC was not running as much as it could so the VOC number has stayed in the good range. VOC is not the same as Particulate Matter pollution caused by the wildfires and currently affecting the outdoor air quality, I would need <a href=\"https://www.airthings.com/view-pollution\">a different sensor</a> for that reading.\n",
+				"date_published": "2023-06-28T09:55:05-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/28/smokey-eye-not.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/27/the-air-quality.html",
+				
+				"content_html": "<p>The Air Quality Index has cross the unhealthy range here in West Bloomfield, Michigan.</p>\n\n<p><img src=\"uploads/2023/bf286e03b7.jpg\" width=\"600\" height=\"450\" alt=\"Google nest displaying Air Quality warning \"></p>\n",
+				"content_text": "The Air Quality Index has cross the unhealthy range here in West Bloomfield, Michigan. \n\n\n\n<img src=\"uploads/2023/bf286e03b7.jpg\" width=\"600\" height=\"450\" alt=\"Google nest displaying Air Quality warning \">\n",
+				"date_published": "2023-06-27T14:28:53-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/27/the-air-quality.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/27/i-have-an.html",
+				
+				"content_html": "<p>I have an account on Bluesky: <a href=\"https://bsky.app/profile/frankm.bsky.social\">@frankm.bsky.social</a>. It looks and feels like Twitter. In summary, I question whether the world really needs more social networks. My daily check-ins are to micro.blog, Facebook, and Instagram. I will classify Instagram as my guilty pleasure, I check Facebook because that is where my friends are, and micro.blog is the only real social network I go to for networking with others. I read a lot of <a href=\"http://river.frankm.info:1337/\">what is made visible to me via RSS</a>, and I write my thoughts in this blog and my <a href=\"http://daynotes.frankm.info\">Daynotes</a>, and here in summation is my use of the Internet.</p>\n",
+				"content_text": "I have an account on Bluesky: <a href=\"https://bsky.app/profile/frankm.bsky.social\">@frankm.bsky.social</a>. It looks and feels like Twitter. In summary, I question whether the world really needs more social networks. My daily check-ins are to micro.blog, Facebook, and Instagram. I will classify Instagram as my guilty pleasure, I check Facebook because that is where my friends are, and micro.blog is the only real social network I go to for networking with others. I read a lot of <a href=\"http://river.frankm.info:1337/\">what is made visible to me via RSS</a>, and I write my thoughts in this blog and my <a href=\"http://daynotes.frankm.info\">Daynotes</a>, and here in summation is my use of the Internet.  \n",
+				"date_published": "2023-06-27T11:54:14-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/27/i-have-an.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/27/dan-seifert-writing.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/23773112/google-pixel-fold-vs-samsung-z-fold-4-comparison-head-to-head-foldable-phones\">Dan Seifert writing for The Verge</a> provides an interesting comparison between the Samsung Z Fold and the Pixel Fold. Samsung&rsquo;s foldable is optimized for portrait orientation while the Pixel Fold is oriented around landscape. I note that the Surface Duo has a similar design perspective, and the consequence is better single screen, phone-like usage. Seifert&rsquo;s opinion is that one buys a foldable for the inside screen thus Samsung&rsquo;s approach may be better. I agree that portrait is right for small screen tablets, but I understand Google&rsquo;s approach to making sure there is a good phone experience. What I wonder is, how does the Kindle app look in portrait on the Pixel Fold?</p>\n",
+				"content_text": "<a href=\"https://www.theverge.com/23773112/google-pixel-fold-vs-samsung-z-fold-4-comparison-head-to-head-foldable-phones\">Dan Seifert writing for The Verge</a> provides an interesting comparison between the Samsung Z Fold and the Pixel Fold. Samsung's foldable is optimized for portrait orientation while the Pixel Fold is oriented around landscape. I note that the Surface Duo has a similar design perspective, and the consequence is better single screen, phone-like usage. Seifert's opinion is that one buys a foldable for the inside screen thus Samsung's approach may be better. I agree that portrait is right for small screen tablets, but I understand Google's approach to making sure there is a good phone experience. What I wonder is, how does the Kindle app look in portrait on the Pixel Fold? \n",
+				"date_published": "2023-06-27T11:06:36-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/27/dan-seifert-writing.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/27/the-pixel-fold.html",
+				
+				"content_html": "<p><a href=\"https://store.google.com/us/product/pixel_fold?hl=en-US\">The Pixel Fold</a> has started to ship and <a href=\"https://duckduckgo.com/?q=pixel+fold+review&t=newext&atb=v342-1&ia=web\">tech reviews</a> are being published. The reviews that I have read so far are biased by the cost of the phone, the gist being that it&rsquo;s not good enough for the price. Given the $1,800 price, I wonder whether it could ever be good enough at that price? In my opinion this is the consequence of a company releasing an expensive first generation device, the price does not allow any grace for the fact that it is first generation.</p>\n",
+				"content_text": "<a href=\"https://store.google.com/us/product/pixel_fold?hl=en-US\">The Pixel Fold</a> has started to ship and <a href=\"https://duckduckgo.com/?q=pixel+fold+review&t=newext&atb=v342-1&ia=web\">tech reviews</a> are being published. The reviews that I have read so far are biased by the cost of the phone, the gist being that it's not good enough for the price. Given the $1,800 price, I wonder whether it could ever be good enough at that price? In my opinion this is the consequence of a company releasing an expensive first generation device, the price does not allow any grace for the fact that it is first generation.\n",
+				"date_published": "2023-06-27T10:51:32-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/27/the-pixel-fold.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/24/if-capital-wishes.html",
+				
+				"content_html": "<p>&ldquo;If capital wishes to call labor entitled, capital must acknowledge that it is the most entitled creature in society, craving eternal growth at the cost of the true value of any given service or entity.&rdquo; &ndash; Ed Zitron, <a href=\"https://wheresyoured.at/p/the-rot-economy\">The Rot Economy</a></p>\n",
+				"content_text": "\"If capital wishes to call labor entitled, capital must acknowledge that it is the most entitled creature in society, craving eternal growth at the cost of the true value of any given service or entity.\" -- Ed Zitron, [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)\n",
+				"date_published": "2023-06-24T12:08:18-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/24/if-capital-wishes.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/24/i-am-now.html",
+				
+				"content_html": "<p>I am now curious enough to want to create an account on Bluesky, does anyone have an invite code?</p>\n",
+				"content_text": "I am now curious enough to want to create an account on Bluesky, does anyone have an invite code?\n",
+				"date_published": "2023-06-24T10:53:36-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/24/i-am-now.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/24/as-the-chicago.html",
+				
+				"content_html": "<p>As the Chicago Cubs prepare to play the St. Louis Cardinals today, I reflect on <a href=\"https://frankmcpherson.blog/2022/12/15/chicago-cubs-already.html\">my comments</a> during the winter on how much the Cardinals improved during the off-season in comparison to the Cubs. I did not expect the Cardinals to go 13 below .500 and sit in the cellar looking up at the Cubs. Shows the importance of playing the game. The Cubs need to at least split in London, but really should sweep.</p>\n",
+				"content_text": "As the Chicago Cubs prepare to play the St. Louis Cardinals today, I reflect on [my comments](https://frankmcpherson.blog/2022/12/15/chicago-cubs-already.html) during the winter on how much the Cardinals improved during the off-season in comparison to the Cubs. I did not expect the Cardinals to go 13 below .500 and sit in the cellar looking up at the Cubs. Shows the importance of playing the game. The Cubs need to at least split in London, but really should sweep. \n",
+				"date_published": "2023-06-24T10:47:57-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/24/as-the-chicago.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/23/generational-expectations-on.html",
+				"title": "Generational Expectations On Time For Change",
+				"content_html": "<p>Lately I have been ruminating on generational differences in relationship to technology. Like all things, technology changes over time. I remember a time before cell phones, when the only way to make a phone call was to by using a handset in our home, but I don&rsquo;t remember a time when there were no phones. Generations younger than mine do not know of a time when cell phones did not exist. Today <a href=\"http://scripting.com/2023/06/22/220621.html\">Dave Winer writes</a> of a similar technology change, between black and white and color television.</p>\n\n<p>The differences between those who lived during &ldquo;before and after&rdquo; periods and &ldquo;never knew anything else&rdquo; periods of technology can have significant societal consequences. I think the Internet is one such case, with those who have never lived without the Internet expecting all matters related to time happening much faster than my generation and older who grew up without the Internet. The &ldquo;Internet&rdquo; generation will not tolerate society changes needing to take tens or hundreds of years of time (civil rights, women&rsquo;s rights, gay rights, etc..) to complete, they expect such change to happen in months if not days!</p>\n",
+				"content_text": "Lately I have been ruminating on generational differences in relationship to technology. Like all things, technology changes over time. I remember a time before cell phones, when the only way to make a phone call was to by using a handset in our home, but I don't remember a time when there were no phones. Generations younger than mine do not know of a time when cell phones did not exist. Today <a href=\"http://scripting.com/2023/06/22/220621.html\">Dave Winer writes</a> of a similar technology change, between black and white and color television.\n\nThe differences between those who lived during \"before and after\" periods and \"never knew anything else\" periods of technology can have significant societal consequences. I think the Internet is one such case, with those who have never lived without the Internet expecting all matters related to time happening much faster than my generation and older who grew up without the Internet. The \"Internet\" generation will not tolerate society changes needing to take tens or hundreds of years of time (civil rights, women's rights, gay rights, etc..) to complete, they expect such change to happen in months if not days!\n",
+				"date_published": "2023-06-23T09:44:34-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/23/generational-expectations-on.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/22/finished-reading-see.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525509110\">See No Stranger</a> by Valarie Kaur 📚</p>\n\n<p>I led a group discussion of this book with friends from church. Christians know of Jesus commandment to love our neighbor and his teaching to love our enemies, but what does that really mean? Jesus is not taking about feelings or emotions but rather the work of revolution love that Valarie Kaur describes in this book.</p>\n",
+				"content_text": "Finished reading: [See No Stranger](https://micro.blog/books/9780525509110) by Valarie Kaur 📚\n\nI led a group discussion of this book with friends from church. Christians know of Jesus commandment to love our neighbor and his teaching to love our enemies, but what does that really mean? Jesus is not taking about feelings or emotions but rather the work of revolution love that Valarie Kaur describes in this book. \n",
+				"date_published": "2023-06-22T16:03:22-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/22/finished-reading-see.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2023/06/22/fitbitgoogle-has-enabled.html",
 				
 				"content_html": "<p>Fitbit/Google has enabled <a href=\"https://help.fitbit.com/articles/en_US/Help_article/2459.htm\">the blood oxygen saturation reading of the Pixel Watch</a>, but it only works at night! I don&rsquo;t understand why Fitbit has not included an app to let users get a reading on-demand, like like we can do with ECG. I thought SpO2 is valuable info while working out, so I don&rsquo;t understand why the reading is only at night. Consequently, I don&rsquo;t benefit because I am not wearing my watch while I sleep.</p>\n",
@@ -41,10 +124,18 @@
 			{
 				"id": "http://frankm.micro.blog/2023/06/20/nice-weather-here.html",
 				
-				"content_html": "<p>Nice weather here at Pebble Creek</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Green grass and trees and a small creek flowing between \"></p>\n",
-				"content_text": "Nice weather here at Pebble Creek\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Green grass and trees and a small creek flowing between \">\n",
+				"content_html": "<p>Nice weather here at Pebble Creek</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Green grass and trees and a small creek flowing between \"></p>\n",
+				"content_text": "Nice weather here at Pebble Creek\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Green grass and trees and a small creek flowing between \">\n",
 				"date_published": "2023-06-20T10:35:15-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/20/nice-weather-here.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2023/06/19/the-blog-post.html",
+				
+				"content_html": "<p>The blog post titled &ldquo;<a href=\"https://www.noahpinion.blog/p/how-technology-has-changed-the-world\">How technology has changed the world since I was young</a>&rdquo; by <a href=\"https://substack.com/@noahpinion\">Noah Smith</a> lacks a very significant impact of the Internet on the world, which is our expectation of and thus perception on time. People who never lived in a time before the Internet have no concept of not knowing what is happening in the world in near real time. Such people have never lived in a time when it was not possible to buy something and have it delivered the next day&hellip; and in many cases that day! Consequently, such people expect change to happen much faster than those of us who lived before the Internet. I think the source of much tension in our society today is the battle between those who expect immediate change and those who are used to change taking years if not decades. Every battle over rights in the United States comes down to those demanding immediate change and those who either don&rsquo;t want change or want to at least slow down change.</p>\n",
+				"content_text": "The blog post titled \"<a href=\"https://www.noahpinion.blog/p/how-technology-has-changed-the-world\">How technology has changed the world since I was young</a>\" by <a href=\"https://substack.com/@noahpinion\">Noah Smith</a> lacks a very significant impact of the Internet on the world, which is our expectation of and thus perception on time. People who never lived in a time before the Internet have no concept of not knowing what is happening in the world in near real time. Such people have never lived in a time when it was not possible to buy something and have it delivered the next day... and in many cases that day! Consequently, such people expect change to happen much faster than those of us who lived before the Internet. I think the source of much tension in our society today is the battle between those who expect immediate change and those who are used to change taking years if not decades. Every battle over rights in the United States comes down to those demanding immediate change and those who either don't want change or want to at least slow down change.\n",
+				"date_published": "2023-06-19T11:48:57-04:00",
+				"url": "https://frankmcpherson.blog/2023/06/19/the-blog-post.html"
 			},
 			{
 				"id": "http://frankm.micro.blog/2023/06/17/i-am-grateful.html",
@@ -65,8 +156,8 @@
 			{
 				"id": "http://frankm.micro.blog/2023/06/14/yesterday-i-experienced.html",
 				
-				"content_html": "<p>Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground.</p>\n\n<p><img src=\"uploads/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground. \n\n\n\n<img src=\"uploads/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Yesterday I experienced something for the first time, a strong downpour of pea sized hail. I was in the basement and yet it sounded like the roof was caving in. I did not see any damage after other than a lot of leaves on the ground. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/f54bc17477.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-14T13:52:37-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/14/yesterday-i-experienced.html"
 			},
@@ -90,8 +181,8 @@
 			{
 				"id": "http://frankm.micro.blog/2023/06/11/in-the-butterfly.html",
 				
-				"content_html": "<p>In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius.</p>\n\n<p><img src=\"uploads/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius. \n\n\n\n<img src=\"uploads/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2044/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "In the butterfly exhibit of the Milwaukee Public Museum. Google says this is a Heliconius. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2044/2023/a1904220af.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-11T21:07:55-04:00",
 				"url": "https://frankmcpherson.blog/2023/06/11/in-the-butterfly.html"
 			},
