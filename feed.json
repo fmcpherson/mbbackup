@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2024/12/18/generations-of-people.html",
+				
+				"content_html": "<p>Generations of people in the United States have <!-- raw HTML omitted -->grown up under the thumb of institutions<!-- raw HTML omitted --> that they believe are corrupt. The only solution now, these people believe, is to blow up the institutions. The focus is on the destruction of the institutions with little thought about what comes next. Who decides what comes next and why? This is the opportunity the billionaire class sees for themselves, which is why people like Elon Musk are willing to &ldquo;donate&rdquo; their time go the new U.S. Presidential administration.</p>\n",
+				"content_text": "Generations of people in the United States have <a href=\"https://www.nytimes.com/2024/11/28/opinion/trump-values-maga-cabinet.html?unlocked_article_code=1.dk4.6615.SsTomqZvz3j9&smid=url-share\">grown up under the thumb of institutions</a> that they believe are corrupt. The only solution now, these people believe, is to blow up the institutions. The focus is on the destruction of the institutions with little thought about what comes next. Who decides what comes next and why? This is the opportunity the billionaire class sees for themselves, which is why people like Elon Musk are willing to \"donate\" their time go the new U.S. Presidential administration.\n",
+				"date_published": "2024-12-18T10:40:27-05:00",
+				"url": "https://frankmcpherson.blog/2024/12/18/generations-of-people.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2024/12/16/new-photo-collections.html",
+				"title": "New Photo Collections",
+				"content_html": "<p>A new feature has been added to micro.blog that automatically generates pages of photos that one groups together in to a collection. I found <a href=\"https://help.micro.blog/t/photo-collections/3366\">the instructions</a> for creating my first collection did not work, as I had to create a new page and embed the shortcode. Looks like after creating that first page I can then create new collections as per the instructions, but you still have to create a page with the collections shortcode in order to make them available.</p>\n<p>I have created a <a href=\"https://frankmcpherson.blog/photo-collections/\">Photo Collections page</a> that will be the index to my collections. I wish that the <a href=\"https://frankmcpherson.blog/photos/\">Photos</a> page automatically listed the collections rather than making me create and maintain a page.</p>\n",
+				"content_text": "A new feature has been added to micro.blog that automatically generates pages of photos that one groups together in to a collection. I found [the instructions](https://help.micro.blog/t/photo-collections/3366) for creating my first collection did not work, as I had to create a new page and embed the shortcode. Looks like after creating that first page I can then create new collections as per the instructions, but you still have to create a page with the collections shortcode in order to make them available.\r\n\r\nI have created a [Photo Collections page](https://frankmcpherson.blog/photo-collections/) that will be the index to my collections. I wish that the [Photos](https://frankmcpherson.blog/photos/) page automatically listed the collections rather than making me create and maintain a page. \n",
+				"date_published": "2024-12-16T10:09:13-05:00",
+				"url": "https://frankmcpherson.blog/2024/12/16/new-photo-collections.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2024/12/12/we-have-plenty.html",
+				
+				"content_html": "<p>We have plenty of sunshine here today, but the temperature with wind-chill has been below zero up to the single digits.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We have plenty of sunshine here today, but the temperature with wind-chill has been below zero up to the single digits. \n\n<img src=\"uploads/2024/a5cf12d1cd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-12-12T14:07:39-05:00",
+				"url": "https://frankmcpherson.blog/2024/12/12/we-have-plenty.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2024/12/12/installed-the-android.html",
 				
 				"content_html": "<p>Installed the <!-- raw HTML omitted -->Android 15 QPR 1<!-- raw HTML omitted --> update on my Pixel 7a yesterday. The most important new feature for me is the 80% limit on recharging the phone. Information I&rsquo;ve seen about phone battery life suggests that continually charging the phones up to 100% has a big impact on battery life. I think that problem is made worse by wireless charging that makes it simple to just recharge the phone whenever it is not in my pocket. For example, I have the <!-- raw HTML omitted -->Pixel Stand<!-- raw HTML omitted --> that really seems intended to be the resting space for my phone when I am at my desk, but before yesterday I had to be sure to not leave it on the stand once the battery reached 80% or so of charge. Now I (hopefully) no longer have to worry about that.</p>\n",
