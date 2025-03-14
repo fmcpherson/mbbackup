@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2025/03/14/a-week-ago-right-now.html",
+				
+				"content_html": "<p>A week ago right now I was on a plane destined for Phoenix, where it was raining and cold all day. I choose to think of the sunshine we had for the remainder of our stay.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A week ago right now I was on a plane destined for Phoenix, where it was raining and cold all day. I choose to think of the sunshine we had for the remainder of our stay. \n\n<img src=\"uploads/2025/98bba14ac6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-03-14T08:19:28-05:00",
+				"url": "https://frankmcpherson.blog/2025/03/14/a-week-ago-right-now.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/03/09/the-sun-has-come-down.html",
+				
+				"content_html": "<p>The sun has come down on my last night here in Phoenix. We saw two Cubs spring training games, and they won one and lost the other.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sun has come down on my last night here in Phoenix. We saw two Cubs spring training games, and they won one and lost the other. \n\n<img src=\"uploads/2025/0aa1e9c2b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-03-09T23:07:40-05:00",
+				"url": "https://frankmcpherson.blog/2025/03/09/the-sun-has-come-down.html",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2025/03/08/cubs-win-cubs-win-cubs.html",
 				
 				"content_html": "<p>Cubs win! Cubs win! Cubs win!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
