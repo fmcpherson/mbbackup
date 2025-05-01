@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2025/05/01/the-cubs-have-just-completed.html",
+				
+				"content_html": "<p>The Cubs have just completed the first series of the season against the Pirates winning two of three games, a disappointing result considering that is a match up between first and last place teams in the division. As <!-- raw HTML omitted -->I wrote before the series started <!-- raw HTML omitted -->I wanted to see the Cubs sweep the Pirates or win 2 of three at a minimum. Winning two of three is not playing down to the opponent but they should have won <!-- raw HTML omitted -->the game last night<!-- raw HTML omitted --> and completed the sweep today. Next up is a weekend series in Wrigley north against the second place Brewers starting Friday night on Apple TV (sigh). We will learn a little more this weekend by whether or not the Cubs win the series.</p>\n",
+				"content_text": "The Cubs have just completed the first series of the season against the Pirates winning two of three games, a disappointing result considering that is a match up between first and last place teams in the division. As <a href=\"https://frankmcpherson.blog/2025/04/28/by-most-reports-the-chicago.html\">I wrote before the series started </a>I wanted to see the Cubs sweep the Pirates or win 2 of three at a minimum. Winning two of three is not playing down to the opponent but they should have won <a href=\"https://www.bleedcubbieblue.com/2025/5/1/24421566/cubs-pirates-recap-matthew-boyd-dansby-swanson-mlb-scores\">the game last night</a> and completed the sweep today. Next up is a weekend series in Wrigley north against the second place Brewers starting Friday night on Apple TV (sigh). We will learn a little more this weekend by whether or not the Cubs win the series.\n",
+				"date_published": "2025-05-01T15:10:36-04:00",
+				"url": "https://frankmcpherson.blog/2025/05/01/the-cubs-have-just-completed.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/04/28/by-most-reports-the-chicago.html",
+				
+				"content_html": "<p>By most reports the Chicago Cubs wrapped up their toughest two weeks of the schedule <!-- raw HTML omitted -->last night<!-- raw HTML omitted --> and enter the first series against divisional opponent Pittsburgh with a 17-12 overall record and a 1.5 game lead in the N.L. Central. In short, they exceeded expectations. However, for me, the upcoming month against lesser opponents will be more telling. Will the Cubs play down to their competition, which has been a problem in the past, and end May with just a few games above .500 or will they extend their overall record to well above .500 by dominating the lesser opponents? Good teams beat the teams they are supposed to beat, and they are supposed to beat Pittsburgh so I am looking for a sweep or at least win the first two for a chance to sweep.</p>\n",
+				"content_text": "By most reports the Chicago Cubs wrapped up their toughest two weeks of the schedule <a href=\"https://www.bleedcubbieblue.com/2025/4/28/24419488/2025-cubs-heroes-and-goats-game-29\">last night</a> and enter the first series against divisional opponent Pittsburgh with a 17-12 overall record and a 1.5 game lead in the N.L. Central. In short, they exceeded expectations. However, for me, the upcoming month against lesser opponents will be more telling. Will the Cubs play down to their competition, which has been a problem in the past, and end May with just a few games above .500 or will they extend their overall record to well above .500 by dominating the lesser opponents? Good teams beat the teams they are supposed to beat, and they are supposed to beat Pittsburgh so I am looking for a sweep or at least win the first two for a chance to sweep.\n",
+				"date_published": "2025-04-28T13:29:03-04:00",
+				"url": "https://frankmcpherson.blog/2025/04/28/by-most-reports-the-chicago.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/04/25/the-song-for-today-working.html",
+				
+				"content_html": "<p>The song for today: <!-- raw HTML omitted -->Working For The Weekend<!-- raw HTML omitted --></p>\n",
+				"content_text": "The song for today: <a href=\"https://app.crucialtracks.org/profile/frankm/20250425\">Working For The Weekend</a>\n",
+				"date_published": "2025-04-25T11:27:49-04:00",
+				"url": "https://frankmcpherson.blog/2025/04/25/the-song-for-today-working.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/04/24/btw-the-topic-of-posts.html",
+				
+				"content_html": "<p>BTW, the topic of posts without titles is important to me because <!-- raw HTML omitted -->nearly all my posts don&rsquo;t have titles<!-- raw HTML omitted -->. In my mind when I create a title for an item it is because there are multiple paragraphs and I think of it as an essay rather than a blog post. In fact, I have a category filter in micro.blog that automatically categorizes (or should but doesn&rsquo;t seem to always run) any post with a title as <!-- raw HTML omitted -->an essay<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "BTW, the topic of posts without titles is important to me because <a href=\"https://frankmcpherson.blog/stats/\">nearly all my posts don't have titles</a>. In my mind when I create a title for an item it is because there are multiple paragraphs and I think of it as an essay rather than a blog post. In fact, I have a category filter in micro.blog that automatically categorizes (or should but doesn't seem to always run) any post with a title as <a href=\"https://frankmcpherson.blog/categories/essays/\">an essay</a>.  \n",
+				"date_published": "2025-04-24T11:33:59-04:00",
+				"url": "https://frankmcpherson.blog/2025/04/24/btw-the-topic-of-posts.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2025/04/24/i-continue-to-to-tinker.html",
 				
 				"content_html": "<p>I continue to to <!-- raw HTML omitted -->tinker with Wordland<!-- raw HTML omitted --> whenever Dave does something new and I continue to be puzzled by why it is so tightly coupled with Wordpress. If it were me, Wordland would be a self hosted app for creating and maintaining an RSS feed and I would make consumption of that feed dependent on other, perhaps external, services. Right now Wordland does not add an item to the RSS feed until it is published to Wordpress, which is why I am confused by why <!-- raw HTML omitted -->Wordland has its own feed<!-- raw HTML omitted --> when all <!-- raw HTML omitted -->Wordpress sites also have a feed<!-- raw HTML omitted -->. Pointing to the Wordland feed puts an external dependency on Dave&rsquo;s hosting.</p>\n",
