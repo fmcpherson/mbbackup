@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2025/07/06/finished-reading-good-soil-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593727379\">Good Soil</a> by Jeff Chu 📚</p>\n",
+				"content_text": "Finished reading: [Good Soil](https://micro.blog/books/9780593727379) by Jeff Chu 📚\n",
+				"date_published": "2025-07-06T12:30:35-04:00",
+				"url": "https://frankmcpherson.blog/2025/07/06/finished-reading-good-soil-by.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/07/06/every-time-i-see-a.html",
+				
+				"content_html": "<p>Every time I see a new &ldquo;<a href=\"https://tidymind.app/\">productivity app</a>&rdquo; announced I think to myself why? Humans are not robots. I want more art and less productivity.  In mean time I just need to be able to record stuff and retrieve stuff from anywhere.</p>\n",
+				"content_text": "Every time I see a new \"[productivity app](https://tidymind.app/)\" announced I think to myself why? Humans are not robots. I want more art and less productivity.  In mean time I just need to be able to record stuff and retrieve stuff from anywhere. \n",
+				"date_published": "2025-07-06T10:55:18-04:00",
+				"url": "https://frankmcpherson.blog/2025/07/06/every-time-i-see-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/07/05/finished-reading-the-war-of.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781936891047\">The War of Art</a> by Steven Pressfield 📚This book is full of useful nuggets. I particularly like the author’s point of view on fundamentalism and ego.</p>\n",
+				"content_text": "Finished reading: [The War of Art](https://micro.blog/books/9781936891047) by Steven Pressfield 📚This book is full of useful nuggets. I particularly like the author’s point of view on fundamentalism and ego. \n",
+				"date_published": "2025-07-05T12:04:08-04:00",
+				"url": "https://frankmcpherson.blog/2025/07/05/finished-reading-the-war-of.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/07/04/if-we-have-an-issue.html",
+				
+				"content_html": "<p>If we have an issue with birth right citizenship, which the founders did not have, then perhaps there should be requirements for citizenship for all. Like you have to pass a test, make a pledge, maybe even serve the public for a period of time.</p>\n",
+				"content_text": "If we have an issue with birth right citizenship, which the founders did not have, then perhaps there should be requirements for citizenship for all. Like you have to pass a test, make a pledge, maybe even serve the public for a period of time. \n",
+				"date_published": "2025-07-04T12:05:02-04:00",
+				"url": "https://frankmcpherson.blog/2025/07/04/if-we-have-an-issue.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2025/07/04/freedom-is-fundamental-to-christianity.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2019/07/04/god-unfolds-your.html\">Freedom is fundamental</a> to Christianity, its doctrines assume humans are free to choose whether or not to be &ldquo;saved.&rdquo; And yet a majority of Christians in the United States want to impose their beliefs upon others and therefore deny their freedom. Isn&rsquo;t this is a <a href=\"https://www.biblegateway.com/passage/?search=Mark%203%3A28-30&amp;version=NIV\">sin against the Spirit that Jesus taught</a>? Are you on the side of God or Pharaoh?</p>\n",
+				"content_text": "[Freedom is fundamental](https://frankmcpherson.blog/2019/07/04/god-unfolds-your.html) to Christianity, its doctrines assume humans are free to choose whether or not to be \"saved.\" And yet a majority of Christians in the United States want to impose their beliefs upon others and therefore deny their freedom. Isn't this is a [sin against the Spirit that Jesus taught](https://www.biblegateway.com/passage/?search=Mark%203%3A28-30&version=NIV)? Are you on the side of God or Pharaoh?\n",
+				"date_published": "2025-07-04T10:28:47-04:00",
+				"url": "https://frankmcpherson.blog/2025/07/04/freedom-is-fundamental-to-christianity.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2025/07/03/the-latest-release-of-wordland.html",
 				
 				"content_html": "<p>The <!-- raw HTML omitted -->latest release of Wordland<!-- raw HTML omitted --> now supports linkblogs. I created a new Wordpress site for my linkblog and there is a corresponding <!-- raw HTML omitted -->RSS feed<!-- raw HTML omitted -->. You can add this feed to your micro.blog timeline or any RSS feed reader. The RSS feed works as expected but the posts to <!-- raw HTML omitted -->the WordPress site<!-- raw HTML omitted --> do not currently include the source links and I have filed a bug report. I also discovered in testing this that the Wordland RSS feeds is per Wordpress site so the linkblog feed is separate from the general posts that I have been publishing.</p>\n",
@@ -75,7 +116,7 @@
 				"id": "http://frankm.micro.blog/2025/06/28/for-some-reason-today-is.html",
 				
 				"content_html": "<p>For some reason today is the first time this year I have been outside on the patio. My excuse is that we had a colder than usual early spring and a hotter than usual late spring with some travel.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For some reason today is the first time this year I have been outside on the patio. My excuse is that we had a colder than usual early spring and a hotter than usual late spring with some travel. \n\n<img src=\"uploads/2025/311b88f453.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "For some reason today is the first time this year I have been outside on the patio. My excuse is that we had a colder than usual early spring and a hotter than usual late spring with some travel. \n\n<img src=\"https://cdn.uploads.micro.blog/2044/2025/311b88f453.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-28T11:02:55-04:00",
 				"url": "https://frankmcpherson.blog/2025/06/28/for-some-reason-today-is.html"
 			},
