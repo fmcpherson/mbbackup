@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2025/08/29/while-reading-brents-description-of.html",
+				
+				"content_html": "<p>While reading <!-- raw HTML omitted -->Brent&rsquo;s description of how he programmed in the 90s<!-- raw HTML omitted --> using UserLand Frontier I immediately thought of <!-- raw HTML omitted -->NewtonScript<!-- raw HTML omitted -->. Apple had much innovation in <!-- raw HTML omitted -->Newton<!-- raw HTML omitted --> that got overlooked and how apps were developed and ran on <!-- raw HTML omitted -->the operating system<!-- raw HTML omitted --> is one. Newton OS even had <!-- raw HTML omitted -->a database based file system<!-- raw HTML omitted --> that optimized sharing across applications to prevent redundancy. I think the Newton files system was not only needed due to the constraints of limited physical storage but also to enable fast and easy application development like Brent describes.</p>\n",
+				"content_text": "While reading <a href=\"https://inessential.com/2025/08/28/easy-app-writing.html\">Brent's description of how he programmed in the 90s</a> using UserLand Frontier I immediately thought of <a href=\"https://newtonscript.org/\">NewtonScript</a>. Apple had much innovation in <a href=\"https://www.youtube.com/watch?app=desktop&v=5kxRi34PqWo&t=36s\">Newton</a> that got overlooked and how apps were developed and ran on <a href=\"https://en.wikipedia.org/wiki/Newton_OS\">the operating system</a> is one. Newton OS even had <a href=\"https://en.wikipedia.org/wiki/Soup_(Apple)\">a database based file system</a> that optimized sharing across applications to prevent redundancy. I think the Newton files system was not only needed due to the constraints of limited physical storage but also to enable fast and easy application development like Brent describes.\n",
+				"date_published": "2025-08-29T10:12:09-04:00",
+				"url": "https://frankmcpherson.blog/2025/08/29/while-reading-brents-description-of.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2025/08/28/one-thing-i-have-never.html",
 				
 				"content_html": "<p>One thing I have never understood about conservatism in the United States is how the ideology thinks progress is to be made. Today all tenants of conservatism are being bent in extreme directions such that any and every change today is tarred by the claim of wokeness.  Why does it matter that <!-- raw HTML omitted -->a corporation changes its logo<!-- raw HTML omitted -->? It only matters when you obsess  on watching for and fighting against every single change no matter how big or small, good or bad. What a scary world to live in!</p>\n",
