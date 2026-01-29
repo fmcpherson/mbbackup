@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/01/29/as-i-imagined-it-would.html",
+				
+				"content_html": "<p>As I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "As I imagined it would be. \n\n<img src=\"uploads/2026/e0001ef13b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-01-29T15:38:40-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/29/as-i-imagined-it-would.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/01/29/finished-reading-the-entity-game.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781732722620\">The Entity Game</a> by Lisa Shearin 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781732722620/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Entity Game](https://micro.blog/books/9781732722620) by Lisa Shearin 📚\n",
+				"date_published": "2026-01-29T00:12:32-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/29/finished-reading-the-entity-game.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/01/28/i-personally-use-tablet-computers.html",
+				
+				"content_html": "<p>I personally use tablet computers and generally promote their use. During the last couple of years I have mostly used e-Ink tablets because of their emphasis on reading and writing, which are my primary use cases. I find that writing things down by hand helps me to remember and to focus on a given topic. Vojislav Dimigtrijevc has produced a video on YouTube that provides a wonderful overview of how e-Ink tablets combine analog and digital processes, and because of that I think <a href=\"https://youtu.be/WDY-GU_SJHg?si=LSoX-IBa6d7J0y2U\">the video</a> is a wonderful explainer of benefits of these type of tablets.</p>\n",
+				"content_text": "I personally use tablet computers and generally promote their use. During the last couple of years I have mostly used e-Ink tablets because of their emphasis on reading and writing, which are my primary use cases. I find that writing things down by hand helps me to remember and to focus on a given topic. Vojislav Dimigtrijevc has produced a video on YouTube that provides a wonderful overview of how e-Ink tablets combine analog and digital processes, and because of that I think [the video](https://youtu.be/WDY-GU_SJHg?si=LSoX-IBa6d7J0y2U) is a wonderful explainer of benefits of these type of tablets.\n",
+				"date_published": "2026-01-28T14:27:22-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/28/i-personally-use-tablet-computers.html",
+				"tags": ["Tablets"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/01/28/in-i-wrote-this-in.html",
+				
+				"content_html": "<p>In 2010 <a href=\"https://fjmnotes.com/2010/01/27/has-apple-made-tablets-legit/\">I wrote this</a> in reaction to the first iPad announcement. It really didn&rsquo;t age well.</p>\n<blockquote>\n<p>For myself, I am waiting to learn more about the <a href=\"http://www.engadget.com/2010/01/06/the-hp-slate/\">HP Slate</a>, which HP and Microsoft announced at CES. From what I can tell, it will run Windows 7 that supports touch input, however, what I really want is a slate that supports both touch and stylus (digitizer) input because I want to write notes in digital ink and store them in Evernote.</p>\n</blockquote>\n",
+				"content_text": "In 2010 [I wrote this](https://fjmnotes.com/2010/01/27/has-apple-made-tablets-legit/) in reaction to the first iPad announcement. It really didn't age well.\n\n>For myself, I am waiting to learn more about the [HP Slate](http://www.engadget.com/2010/01/06/the-hp-slate/), which HP and Microsoft announced at CES. From what I can tell, it will run Windows 7 that supports touch input, however, what I really want is a slate that supports both touch and stylus (digitizer) input because I want to write notes in digital ink and store them in Evernote.\n",
+				"date_published": "2026-01-28T12:30:18-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/28/in-i-wrote-this-in.html",
+				"tags": ["Tech","Tablets"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/01/28/in-an-essay-that-i.html",
 				
 				"content_html": "<p>In an essay that I wrote in 2010 titled <a href=\"https://fjmnotes.com/2010/01/30/the-iphone-way/\">The iPhone Way</a>, I ended with the following. Although then I was talking about Apple, what I describe has expanded to multiple companies in an apparent &ldquo;soft&rdquo; conglomerate headed by the Executive.</p>\n<blockquote>\n<p>I find myself living in a time when people are willing to give up control (see education in the U.S.) and freedom (see airport security) because it makes their lives easier and safer. However, by allowing other people to make decisions for you, which giving control to others is really about, is giving up freedom. When one company controls the means of how you get information, will they allow access to any information that company does not want you to see?</p>\n</blockquote>\n<p>People who are captivated by the Apple ecosystem ought to be concerned about how cozy Tim Cook has been with the Trump regime.</p>\n",
