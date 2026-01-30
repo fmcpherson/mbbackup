@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/01/30/last-week-i-shared-a.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2026/01/23/james-madison-federalist-in-the.html\">Last week I shared a quote of James Madison</a> in Federalist 51 that explains how the founds expected Federalism is supposed to prevent tyranny. Today I read <a href=\"https://www.publicnotice.co/p/trump-minnesota-occupation\">an article</a> that I think explains this in more detail, at the heart of it is <a href=\"https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution\">the tenth amendment</a>.</p>\n",
+				"content_text": "[Last week I shared a quote of James Madison](https://frankmcpherson.blog/2026/01/23/james-madison-federalist-in-the.html) in Federalist 51 that explains how the founds expected Federalism is supposed to prevent tyranny. Today I read [an article](https://www.publicnotice.co/p/trump-minnesota-occupation) that I think explains this in more detail, at the heart of it is [the tenth amendment](https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution). \n",
+				"date_published": "2026-01-30T15:00:19-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/30/last-week-i-shared-a.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/01/30/something-has-happened-with-the.html",
+				
+				"content_html": "<p>Something has happened with the server hosting <a href=\"http://oldschool.scripting.com/frank.mcpherson@gmail.com/\">my Daynotes site</a>, it is running a 400 Bad Request and it looks like there has been a change blocking a GET for a URL with an email address that has been working in the past. The url is <a href=\"http://oldschool.scripting.com/frank.mcpherson@gmail.com/.\">oldschool.scripting.com/frank.mcp&hellip;</a> I have created a redirect from my own instance of pagePark so that I can access the file and <a href=\"https://info.frankmcpherson.net/daynotes.opml\">this is only useful for me</a>.</p>\n",
+				"content_text": "Something has happened with the server hosting [my Daynotes site](http://oldschool.scripting.com/frank.mcpherson@gmail.com/), it is running a 400 Bad Request and it looks like there has been a change blocking a GET for a URL with an email address that has been working in the past. The url is [oldschool.scripting.com/frank.mcp...](http://oldschool.scripting.com/frank.mcpherson@gmail.com/.) I have created a redirect from my own instance of pagePark so that I can access the file and [this is only useful for me](https://info.frankmcpherson.net/daynotes.opml).  \n",
+				"date_published": "2026-01-30T11:53:37-05:00",
+				"url": "https://frankmcpherson.blog/2026/01/30/something-has-happened-with-the.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/01/29/as-i-imagined-it-would.html",
 				
 				"content_html": "<p>As I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
