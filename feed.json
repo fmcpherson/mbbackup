@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/02/05/yesterday-in-response-to-a.html",
+				
+				"content_html": "<p>Yesterday, in response to a post by Manton about an approach to link rot that he is trying out, <a href=\"https://frankmcpherson.blog/2026/02/04/avoiding-dead-links.html\">I speculated</a> that utilizing the Internet Archive might be a better approach. Turns out, there is <a href=\"https://wordpress.org/plugins/internet-archive-wayback-machine-link-fixer/\">a Wordpress plugin</a> that does this very thing.</p>\n",
+				"content_text": "Yesterday, in response to a post by Manton about an approach to link rot that he is trying out, [I speculated](https://frankmcpherson.blog/2026/02/04/avoiding-dead-links.html) that utilizing the Internet Archive might be a better approach. Turns out, there is [a Wordpress plugin](https://wordpress.org/plugins/internet-archive-wayback-machine-link-fixer/) that does this very thing. \n",
+				"date_published": "2026-02-05T12:25:30-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/05/yesterday-in-response-to-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/02/05/my-first-experiment-with-a.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2026/01/22/my-first-mechnical-keyboard.html\">My first experiment with a mechanical keyboard</a> was brief, I returned the Keychron C3 Pro because its height messed up the ergonomics of my desk and my wrists hurt when using it. I normally use the Logitech MX Keys Keyboard that has a very low profile. For some reason I didn&rsquo;t think about the additional height of Keychron keyboard, to use it properly I would need to elevate my chair high enough that my feet wouldn&rsquo;t touch the ground.</p>\n",
+				"content_text": "[My first experiment with a mechanical keyboard](https://frankmcpherson.blog/2026/01/22/my-first-mechnical-keyboard.html) was brief, I returned the Keychron C3 Pro because its height messed up the ergonomics of my desk and my wrists hurt when using it. I normally use the Logitech MX Keys Keyboard that has a very low profile. For some reason I didn't think about the additional height of Keychron keyboard, to use it properly I would need to elevate my chair high enough that my feet wouldn't touch the ground. \n",
+				"date_published": "2026-02-05T11:46:10-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/05/my-first-experiment-with-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/02/04/blogbook-is-an-app-in.html",
+				
+				"content_html": "<p><a href=\"https://blogbook.my/\">Blogbook</a> is an app in development that one can use to make PDF and EPUB files by exporting from WordPress, Micro.blog, or Ghost blog to a single Markdown file. Filter by categories, authors, tags, and dates&ndash;then open in Marked 3 for PDF, EPUB, and more. I can create a physical book from an export of my micro.blog to Day One, but that takes all posts in a date range while what I really wanted to do was only publish in book format essays.</p>\n",
+				"content_text": "[Blogbook](https://blogbook.my/) is an app in development that one can use to make PDF and EPUB files by exporting from WordPress, Micro.blog, or Ghost blog to a single Markdown file. Filter by categories, authors, tags, and dates--then open in Marked 3 for PDF, EPUB, and more. I can create a physical book from an export of my micro.blog to Day One, but that takes all posts in a date range while what I really wanted to do was only publish in book format essays.\n",
+				"date_published": "2026-02-04T12:53:30-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/04/blogbook-is-an-app-in.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/02/04/avoiding-dead-links.html",
 				"title": "Avoiding Dead Links",
 				"content_html": "<p>I currently subscribe to the basic micro.blog plan and I have been monitoring the features that <a href=\"https://manton.org\">Manton</a> adds to premium for any that I might find useful. Today Manton posted <a href=\"https://youtu.be/1uevgQYsR9g?si=WCWg1WL2ni-Is_p9\">a video</a> demonstrating a feature he is experimenting with that could be added to premium that would help prevent dead links.</p>\n<p>A problem that exists with adding links to other sites in my blog posts is that over time the pages I link to disappear. Chances are good that if you click a link on a post that I wrote five years ago the link no longer exists, which is a bit of a pain.</p>\n<p>The new feature that Manton is experimenting with enhances the Bookmarks feature of micro.blog that creates an archive copy of a web page. Booksmarks is similar to <a href=\"https://archivebox.io/\">Archivebox</a>. The enhancement associates the original source URL of a archived page that one may use in a blog post and provides a &ldquo;single click&rdquo; way to convert the URL to the archived copy of the page on micro.blog and then you can update the post.</p>\n<p>Of course, the problem with the current approach is that one has to know that the source URL is no longer available and make the change. For this to really be useful there needs to be some form of automation, which I can imagine could increase the costs of running micro.blog.</p>\n<p>Perhaps a compromise is providing micro.blog users a method to initiate a scan of archived posts for dead links, check for the ones that are dead, see if there is an archived version and offer to convert the link. Such ad hoc scans might result in lower compute costs.</p>\n<p>Another thing that would useful, if this becomes a real feature, is provide a way for the micro.blog user to an archived copy of the linked to page at the time of writing the post. I don&rsquo;t know if Manton would want to automatically create an archive of all destination pages of blog posts, but that would be useful for people like me who often write posts using an editor other than micro.blog&rsquo;s.</p>\n<p>A final thought&hellip;. I wonder whether this could be integrated with the Internet archive is some way? It seems the purpose of the Internet archive is to do this type of web page archival and their storage may be a way minimum the costs to micro.blog.</p>\n",
