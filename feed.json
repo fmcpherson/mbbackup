@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/02/10/tigers-and-justin-verlander-agree.html",
+				
+				"content_html": "<p><a href=\"https://www.wxyz.com/sports/tigers-and-justin-verlander-agree-to-one-year-contract-for-2026-season\">Tigers and Justin Verlander agree to one-year contract for 2026 season</a></p>\n<p>Really glad to see Verlander return to where it all started for him. Who knows how much can contribute but he does have experience to pass along.</p>\n",
+				"content_text": "[Tigers and Justin Verlander agree to one-year contract for 2026 season](https://www.wxyz.com/sports/tigers-and-justin-verlander-agree-to-one-year-contract-for-2026-season)\n\nReally glad to see Verlander return to where it all started for him. Who knows how much can contribute but he does have experience to pass along. \n",
+				"date_published": "2026-02-10T14:07:18-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/10/tigers-and-justin-verlander-agree.html"
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/02/10/a-benefit-of-retirement-is.html",
+				
+				"content_html": "<p>A benefit of retirement is that I am able to watch the 2026 Winter Olympic events live during the afternoon and because of that I am seeing much more of the Olympics than ever before. In addition to having the time to watch, technology, particularly Peacock, is helping by putting all of the U.S. coverage in one spot. To be honest, I am not constantly watching but I have it on in the background as I sit here at my desk.</p>\n",
+				"content_text": "A benefit of retirement is that I am able to watch the 2026 Winter Olympic events live during the afternoon and because of that I am seeing much more of the Olympics than ever before. In addition to having the time to watch, technology, particularly Peacock, is helping by putting all of the U.S. coverage in one spot. To be honest, I am not constantly watching but I have it on in the background as I sit here at my desk. \n",
+				"date_published": "2026-02-10T13:56:50-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/10/a-benefit-of-retirement-is.html",
+				"tags": ["Thoughts","Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/02/10/today-for-the-first-time.html",
+				
+				"content_html": "<p>Today for the first time in a month I took a walk outdoors in sweats rather than my full winter gear. Temps are already in the high 30s and could reach the high 40s. And, today pitchers and catchers report to MLB spring training.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today for the first time in a month I took a walk outdoors in sweats rather than my full winter gear. Temps are already in the high 30s and could reach the high 40s. And, today pitchers and catchers report to MLB spring training. \n\n<img src=\"uploads/2026/93f2f4acfc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-10T11:33:30-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/10/today-for-the-first-time.html",
+				"tags": ["puremichigan","Weather"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/02/09/down-the-drummer-rabbit-hole.html",
 				"title": "Down The Drummer Rabbit Hole",
 				"content_html": "<p>Earlier today I noted that Dave had posted about <a href=\"https://frankmcpherson.blog/2026/01/30/something-has-happened-with-the.html\">the issue I encountered on January 30</a> preventing me from publishing my Daynotes using the &ldquo;default&rdquo; blogging tool in Drummer referred to as &ldquo;Old School,&rdquo; which is descriptive of a day based blogging format.</p>\n<p>I started <a href=\"https://oldschool.scripting.com/frank.mcpherson@gmail.com/2026/02/09/205300.html\">the process of making and testing the changes that Dave suggested</a>, finding them to be more involved, but the net result is that the Daynotes site is now served by HTTPS rather than only being accessible via HTTP.</p>\n<p>When the ability to build the blog from within Drummer broke I did my own work around by creating a new OPML file that is served by my instance of PagePark, which is Dave&rsquo;s web server app that knows how to render OPML files for web browsers. <a href=\"https://oldschool.scripting.com/frank.mcpherson@gmail.com/2026/02/09/214458.html\">For now</a> I am going to continue using my &ldquo;new&rdquo; Daynotes outline file while using the Drummer blog for longer articles. My simple forwarding url for daynotes (<a href=\"http://daynotes.frankm.info\">daynotes.frankm.info</a>) will go to single outline page while I have created a new forwarder for the Old School site (<a href=\"http://oldschool.frankm.info\">oldschool.frankm.info</a>).</p>\n",
