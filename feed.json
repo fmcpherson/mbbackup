@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/02/15/i-wish-that-the-microblog.html",
+				
+				"content_html": "<p>I wish that the micro.blog editor had a &ldquo;source code&rdquo; mode. Yesterday I uploaded a screenshot from my phone and after viewing in in a desktop web browser I wanted to reduce the size by half. I went to edit the post but found no way to actually see the img html tag to change the width and height. I had to remove the picture, go in to Uploads, copy the HTML, then go back to the post and add the HTML and then change the width and height.</p>\n",
+				"content_text": "I wish that the micro.blog editor had a \"source code\" mode. Yesterday I uploaded a screenshot from my phone and after viewing in in a desktop web browser I wanted to reduce the size by half. I went to edit the post but found no way to actually see the img html tag to change the width and height. I had to remove the picture, go in to Uploads, copy the HTML, then go back to the post and add the HTML and then change the width and height.\n",
+				"date_published": "2026-02-15T11:32:15-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/15/i-wish-that-the-microblog.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/02/14/it-is-absolutely-gorgeous-outside.html",
 				
 				"content_html": "<p>It is absolutely gorgeous outside right now. Have a great day!</p>\n<!-- raw HTML omitted -->\n",
