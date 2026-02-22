@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/02/22/the-us-mens-hockey-team.html",
+				
+				"content_html": "<p>The U.S. Men&rsquo;s hockey team won the Olympic gold medal beating Canada in overtime, 2-1. The last time I saw the U.S. men&rsquo;s hockey win gold I was 14 years old.</p>\n",
+				"content_text": "The U.S. Men's hockey team won the Olympic gold medal beating Canada in overtime, 2-1. The last time I saw the U.S. men's hockey win gold I was 14 years old. \n",
+				"date_published": "2026-02-22T12:13:37-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/22/the-us-mens-hockey-team.html",
+				"tags": ["Thoughts","Sports"]
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/02/21/i-got-to-admit-that.html",
 				
 				"content_html": "<p>I got to admit that I am going to miss the Olympics after it concludes tomorrow. I&rsquo;ve been in the habit of turning on the TV in the morning with the events going in the background as I do my morning routine.</p>\n",
@@ -32,6 +41,15 @@
 				"date_published": "2026-02-18T10:55:14-05:00",
 				"url": "https://frankmcpherson.blog/2026/02/18/an-observation-learned-about-this.html",
 				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/02/17/in-this-video-on-youtube.html",
+				
+				"content_html": "<p>In <a href=\"https://youtu.be/s101L200X5A?si=ZRseO-AlfM2AT1mS\">this video on YouTube</a>, Kitt Betts-Masters shows the technology behind Wacom&rsquo;s EMR pens. I currently primarily use felt nibs in the EMR pens I use with my Viwoods AI Paper Mini and Boox Note Air 3C, but I am curious about how the ceramic nibs feel. My concern has been with the effect of using ceramic nibs, even the ones provided by Viwoods, on the life of the screen.</p>\n",
+				"content_text": "In [this video on YouTube](https://youtu.be/s101L200X5A?si=ZRseO-AlfM2AT1mS), Kitt Betts-Masters shows the technology behind Wacom's EMR pens. I currently primarily use felt nibs in the EMR pens I use with my Viwoods AI Paper Mini and Boox Note Air 3C, but I am curious about how the ceramic nibs feel. My concern has been with the effect of using ceramic nibs, even the ones provided by Viwoods, on the life of the screen. \n",
+				"date_published": "2026-02-17T13:35:55-05:00",
+				"url": "https://frankmcpherson.blog/2026/02/17/in-this-video-on-youtube.html",
+				"tags": ["Tech","Tablets"]
 			},
 			{
 				"id": "http://frankm.micro.blog/2026/02/17/the-guardian-forget-maga-welcome.html",
