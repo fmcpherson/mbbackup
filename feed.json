@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://frankm.micro.blog/2026/09/30/as-i-said-scoring-lots.html",
+				
+				"content_html": "<p><a href=\"https://frankmcpherson.blog/2026/09/19/cubs-september-performance.html\">As I said</a>, &ldquo;Scoring lots of runs is entertaining but preventing lots of runs wins championships.&rdquo; <a href=\"https://www.bleedcubbieblue.com/chicago-cubs-scores/235236/cubs-padres-score-matthew-boyd-nico-hoerner-mlb\">The Chicago Cubs got blown at last night</a> in San Diego, 0-8, and tonight is likely their last game of the 2026 season.</p>\n",
+				"content_text": "[As I said](https://frankmcpherson.blog/2026/09/19/cubs-september-performance.html), \"Scoring lots of runs is entertaining but preventing lots of runs wins championships.\" [The Chicago Cubs got blown at last night](https://www.bleedcubbieblue.com/chicago-cubs-scores/235236/cubs-padres-score-matthew-boyd-nico-hoerner-mlb) in San Diego, 0-8, and tonight is likely their last game of the 2026 season. \n",
+				"date_published": "2026-09-30T11:19:46-04:00",
+				"url": "https://frankmcpherson.blog/2026/09/30/as-i-said-scoring-lots.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://frankm.micro.blog/2026/09/28/today-i-am-grateful-to.html",
+				
+				"content_html": "<p>Today I am grateful to be retired so that I can enjoy this wonderful weather that we&rsquo;ve been having for the last week.  In this time of the year you have to appreciate all the nice days because it&rsquo;s Michigan and winter is coming.</p>\n<img src=\"uploads/2026/1003814886.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Today I am grateful to be retired so that I can enjoy this wonderful weather that we've been having for the last week.  In this time of the year you have to appreciate all the nice days because it's Michigan and winter is coming. \n\n<img src=\"uploads/2026/1003814886.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-09-28T20:08:24-04:00",
+				"url": "https://frankmcpherson.blog/2026/09/28/today-i-am-grateful-to.html"
+			},
+			{
 				"id": "http://frankm.micro.blog/2026/09/28/andy-sylvester-has-developed-a.html",
 				
 				"content_html": "<p><a href=\"https://andysylvester.com/2026/09/27/creating-a-local-version-of-a-drummer-oldschool-blog/\">Andy Sylvester has developed</a> <a href=\"https://github.com/andysylvester/oldSchool-backup-tool\">a tool </a>that provides a way to generate <a href=\"https://github.com/scripting/oldSchoolBlog\">oldSchool</a> blogs to a local file system and thus host them on any web server. Its a niche tool that provides a way to host blogs rendered using Dave Winer&rsquo;s blog template apart from his hosting.</p>\n<p>I use <a href=\"https://drummer.land/\">Drummer</a>, which is Dave&rsquo;s web-based outlining tool, to write my Daynotes and I was using his blog hosting to serve it, but I switched to different hosting. My Daynotes are now served via my own server running an instance of pagePark, which is Dave&rsquo;s web server app. The upside is an entire year of notes are in one outline file served by a server I control.</p>\n<p>I have written more specific observations about the results of Andy&rsquo;s work, which I have not yet tried for myself, in <a href=\"https://info.frankmcpherson.net/daynotes.opml#1790611216000\">my notes for today</a>, September 28, 2026 that in the future you may need to expand to find.</p>\n",
