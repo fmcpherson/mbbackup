@@ -24,11 +24,80 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://frankmcpherson.blog/2026/10/26/boosting-xfinity-internet-speed.html">Boosting Xfinity Internet Speed</a></h1>
+		
+
+		<a href="https://frankmcpherson.blog/2026/10/26/boosting-xfinity-internet-speed.html" class="u-url"><time class="dt-published" datetime="2026-10-26 12:59:04 -0400">Oct 26, 2026</time></a>
+
+		<div class="e-content">
+			 <p><em>TL/DR;</em>
+<em>If you are using an older WiFi access point you may need to enable a setting called NAT boost, NAT acceleration, hardware NAT, or flow offload to see performance at the highest range of what the hardware vendor says it supports.</em></p>
+<p>It started with an email from Xfinity last Thursday saying it was time to upgrade our Xfinity TV equipment at no extra cost. I clicked through expecting a replacement for the cable set top box we have in the living room, but instead saw an offer to replace the Arris Surfboard cable modem we have used for many years with the Xfinity Wifi Gateway.</p>
+<p>Several years ago I bought the Arris Surfboard rather than rent a cable modem from Xfinity, they were reasonably priced and paid off in less than two years of avoiding the monthly rental fee. I wasn&rsquo;t terribly surprised with Xfinity telling me the cable modem should be upgraded given its age, and the fact that while we have had 1 Gbps service provisioned I was seeing on average 320 Mbps of Internet speed. Because Xfinity &ldquo;upgraded&rdquo; us to the 1 Gbps service for a lower price than the 400 Mbps I was paying previously I choose to avoid dealing with Xfinity given their terrible customer service.</p>
+<p>In addition to the Xfinity Wifi Gateway, which combines cable modem and Wifi access point, Xfinity has a rather good list of certified alternatives that one can purchase. I opted to buy the Hitron Coda56 on Amazon and was expecting it to arrive on Saturday, but this was a rare occurrence where my order was delivered a day early.</p>
+<p>I had expectations that with the Coda56 we would see near 1 Gbps speed. The Surfboard supports DOCSIS 3.0 and on paper could support 1 Gbps but my research found realistic performance was 400 - 600 Mbps, whereas the Coda56 is at the DOCSIS 3.1 standard and certified for Xfinity&rsquo;s 2 Gbps service. Unfortunately, after swapping the modem I saw the same 320 Mbps speeds, which caused me to spend my entire Friday afternoon trying to determine why.</p>
+<p>One cannot call Xfinity and talk to a human, you are forced to go through their AI bot either in their app or on the web. If you call Xfinity they send you a link via text and hang up. I have the app on my phone and used it to activate the Coda56, which involves entering in the MAC address of the modem.</p>
+<p>After the first time of providing the address our Internet access became available but the app failed to see the modem as online. I executed the activation process several more times, with no change in performance and no recognition by the app of the Coda56. I then accessed my account via Xfinity&rsquo;s web site and saw in it the new, second modem so it appeared Xfinity&rsquo;s backend did activate the modem but somehow the bot didn&rsquo;t get that information.</p>
+<p>Next I tried using the chat bot to troubleshoot the Internet speed but it&rsquo;s first step is to test our Internet service from their side and immediately found that the modem was not online and sent me down the activation path. I asked the bot to escalate me to an agent/human, which it refused to do, and after spending two frustrating hours and getting more angry I gave up and went for a walk.</p>
+<p>About ten minutes into my walk I get a text from Xfinity asking me to provide feedback on my experience with their app/service. The first question is, tell from from 0 (not at all) to 10 (high likely) whether I would recommend Xfinity to others based on the experience and I entered 0.</p>
+<p>The next morning I got a phone call from Xfinity wanting to know why I entered 0, and I explained to the offshore agent my experience and my main complaint of them not providing any way to talk with a human. I think good customer service should always provide a path to a human, even if that means waiting in queue for a while or for a call back. The agent attempted to troubleshoot the problem and I suspect she was using the same AI bot as I was forced to use and ultimately found no problems with their signal. While she promised to escalate my &ldquo;ticket&rdquo; to their level 2 support, she also suggested I call the cable modem hardware vendor.</p>
+<p>At this point I knew I needed to eliminate my network gear as the cause of the problem, which meant running the network cable from the cable modem to a computer rather than our Wifi access point. All of our modern laptop computers do not have an Ethernet port and the only computers I have with network ports are my Promox hosts and some Raspberry Pi 4s.</p>
+<p>Once I had the Raspberry Pi 4 running with the latest version of Raspberry Pi OS I wanted to confirm the port speed was at 1 Gbps, which I did by using iperf3 with one of the Proxmox hosts. The Proxmox host I tested had a wired connection to a 1 Gbp port of the access point while the Pi 4 was connected to a 1 Gbp port of downstream network switch and I logged 1 Gbps performance between the two.</p>
+<p>Having confirmed that the Raspberry Pi 4 has a 1 Gbps network port I set it up for direct access to the cable modem. One can access the admin page of the Hitron Coda56 via 192.168.100.1, which is network segment different from my home network so I manually set the Pi4&rsquo;s Ethernet port to 192.168.100.2 and loaded the page. The admin page just provides configuration info with no settings to change so I just printed off the pages as PDFs and disconnected.  Hitron&rsquo;s support page says that firmware upgrades are only provided by the ISPs and not by them, and Xfinity is one of the official ISPs. (I never called Hitron during my troubleshooting.)</p>
+<p>Next, I configured the Raspberry Pi4 for DHCP so that it can access the Internet. Doing this assigns the IP address that is normally given to the Wifi access point, which in practice then is the IP address of any Internet access from our house, to the Raspberry Pi 4.</p>
+<p>I then loaded a browser, went to speedtest.net, and it returned with 425 Mbps, better than what we had been seeing but yet not close to 1 Gbps. By this point I had started using Claude to help me troubleshoot and it noted I should really test via the terminal to eliminate browser processing overhead and it provided instructions for installing Ookla&rsquo;s CLI speedtest app. A test using the CLI app using an Xfinity server showed 925 Mbps, which is the first time I had ever seen that speed at our house. What this told me then is that the problem was likely with my access point, and older TP-Link Archer.</p>
+<p>The TP-Link performance tops off at 1 Gbps, but at the time I bought it the Internet service that we paid for was less than 100 Mbps. All of the network ports are 1 Gbps and the iperf3 testing confirmed that at least with the LAN ports of the access point. I asked Claude whether any other people using my make and model of the router had this problem, and it provided setting changes to try, the key one being NAT Boost, which I found turned off.</p>
+<p>I tuned on NAT Boost, rebooted the access point, and re-ran the CLI speedtest from the Proxmox host wired network attached to the access point and logged 930 Mbps speeds. I ran the speedtest on the Pi 4 connected to the network switch and it logged the same speeds. Turns out one needs to turn on NAT boost on this access point in order to get to the top end 1 Gbps performance.</p>
+<p>NAT is how a home access point/router shares a single public Internet address that Xfinity provides. The access point/router maps the home network IP address to every destination packet and re-writes the source as the public Internet address. Without NAT boost all of that re-writing is done by the CPU of the access point and that causes a performance impact such that Internet speed tops off around 300 Mbps. With NAT boost enabled full processing only occurs with the first few packets and then it takes shortcuts on others and that speeds up performance.</p>
+<p>The consequence of NAT boost enabled is that one cannot collect Traffic Statistics nor enable Bandwidth Control/QoS and flood-protection filters because all of those require full processing on each and every network packet. With the TP-Link Archer if one enables any of these features NAT boost is turned off.</p>
+<p>More current access points, which now can support speeds greater than 1 Gbps, may call this NAT acceleration, hardware NAT or flow off-load that is enabled by default, but because they have faster processors, one can use all of these capabilities with a minimal impact on Internet speed.</p>
+<p>The lessons learned here is that a first step in testing/confirming Internet service speed is to test using a computer with directly attached to the cable modem. If you use a modern computer with a fast processor you may see top test results with a web browser but it may be best to test via the command line to rule out any processing overhead.</p>
+<p>The next lesson is that if you are seeking performance at the highest end of the access point&rsquo;s range and it is several years old you may need to change settings from their defaults to obtain that performance. In my case I assumed that with all the ports rated at the 1 Gbps and documentation stating the access point supports speeds up to 1 Gbps that it should just work.</p>
+<p>I do intend to replace our access point in the near future because it only supports WiFi 5 and the standard is now up to 7, and because TP-Link has stopped providing firmware updates. We might even see faster WiFi speeds which may become helpful as we increase the amount of streaming services we use.</p>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmcpherson.blog/2026/10/21/just-watched-joanna-sterns-review.html" class="u-url"><time class="dt-published" datetime="2026-10-21 11:24:24 -0400">Oct 21, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Just watched <a href="https://youtu.be/bxDTWuL9GxY?si=Zwl0_Pzt_-YJwz3E">Joanna Stern&rsquo;s review of the iPhone Duo</a> and based on what I saw,  I would not buy it at this time. Not only is it too expensive, but too buggy.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmcpherson.blog/2026/10/21/ive-been-seeing-an-increase.html" class="u-url"><time class="dt-published" datetime="2026-10-21 11:19:53 -0400">Oct 21, 2026</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve been seeing an increase in advertising for services that promise to delete one&rsquo;s data from data brokers. A business born from the fragility of the Internet and the plethora or services collecting data. Problem is, all of them are <a href="https://joindeleteme.com/20off/?inf=Joanna+Stern&amp;coupon=NEWTHINGS">subscription services costing upwards to $20 per month</a> for two people, which I find to be too expensive.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmcpherson.blog/2026/10/20/we-continue-to-enjoy-fantastic.html" class="u-url"><time class="dt-published" datetime="2026-10-20 18:23:04 -0400">Oct 20, 2026</time></a>
+
+		<div class="e-content">
+			 <p>We continue to enjoy fantastic weather, it&rsquo;s hard to believe Halloween is only a week away. Some of the leaves have turned but there is more color to come.</p>
+<img src="uploads/2026/1323797635.jpg" width="600" height="450" alt="">
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://frankmcpherson.blog/2026/10/20/now-that-the-cubs-season.html" class="u-url"><time class="dt-published" datetime="2026-10-20 15:55:24 -0400">Oct 20, 2026</time></a>
 
 		<div class="e-content">
-			 <p>Now that the Cubs&rsquo; season is over <a href="https://www.si.com/mlb/cubs/onsi/what-does-a-successful-cubs-offseason-actually-look-like-16">pundits are writing</a> about what they should do during the off-season. While reading these articles I find myself wanting to ask the writer, what in Jed Hoyer&rsquo;s M.O. tells you he is going to sign a top free agent? I cannot get excited about the Cubs offseason as long as Hoyer is calling the shots. With him making the decisions, next season while be the same old, same old.</p>
+			 <p>Now that the Cubs&rsquo; season is over <a href="https://www.si.com/mlb/cubs/onsi/what-does-a-successful-cubs-offseason-actually-look-like-16">pundits are writing</a> about what they should do during the off-season. While reading these articles I find myself wanting to ask the writer, what in Jed Hoyer&rsquo;s M.O. tells you he is going to sign a top free agent? I cannot get excited about the Cubs offseason as long as Hoyer is calling the shots. With him making the decisions, next season will be the same old, same old.</p>
 
 		</div>
 	  </div>
